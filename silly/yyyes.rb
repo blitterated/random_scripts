@@ -1,0 +1,41 @@
+puts "today"
+(1..30).each do |fart|
+  puts "#{'y' * fart}esterday"
+end
+
+
+=begin
+
+today
+yesterday
+yyesterday
+yyyesterday
+yyyyesterday
+yyyyyesterday
+yyyyyyesterday
+yyyyyyyesterday
+yyyyyyyyesterday
+yyyyyyyyyesterday
+yyyyyyyyyyesterday
+yyyyyyyyyyyesterday
+yyyyyyyyyyyyesterday
+yyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyesterday
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyesterday
+
+=end
