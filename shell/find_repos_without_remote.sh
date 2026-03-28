@@ -28,9 +28,6 @@ errcho "${repo_filter_simplifi}"
 
 trimmed_repos=$(echo "${filtered_repos_2}" | sed 's|/.git||g')
 
-#errcho "\nFound repositories"
-#echo "${trimmed_repos}"
-
 no_remote=()
 while IFS= read -r repo; do
   # Can't pass a directory to `git remote`, so `cd` into the repo dir.
@@ -47,5 +44,3 @@ done <<< "${trimmed_repos}"
 for repo in "${no_remote[@]}"; do
   echo "${repo}"
 done
-
-#echo -e "${no_remote[@]}"
