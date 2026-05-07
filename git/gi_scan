@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+
+base_dir = ARGV[0] || "."
+
+Dir.chdir(base_dir)
+
+gis =  Dir.glob("**/.gitignore")
+       .map do |gi|
+         path =  File.expand_path(gi)
+         contents = File.open(gi, "r") { |f| f.read }
+         "#{path}\n#{contents}"
+       end
+
+puts gis.join("\n"*3)
