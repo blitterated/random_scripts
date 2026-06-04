@@ -1,0 +1,5358 @@
+
+Run the following to download and log output
+
+./8088_friendly.sh | tee 8088_friendly.log
+
+View log with:
+
+less 8088_friendly.log
+
+
+
+8088_friendly - 1981
+------------------------------------------------------------
+target:	/Users/peteyoung/Downloads/oldskool.org/8088_friendly/1981
+source:	http://ftp.oldskool.org/pub/misc/Software/Games/8088-friendly/1981
+
+
+Arithmetic Games Set 1 [f1] (1981)(IBM, Science Research Associates) [Strategy, Educational].zip
+
+Chess (1981)(M.C. Rakaska, S.W. Huggins) [Strategy, Chess].zip
+
+Donkey (1981)(IBM, Microsoft) [Racing - Driving].zip
+
+Galaxy (1981)(Avalon Hill) [Simulation, Strategy].zip
+
+Intercept (1981)(Michael D. Wile) [Adventure, Interactive Fiction].zip
+
+Meteor (1981)(Edward T. Ordman) [Action].zip
+
+Microsoft Adventure [DC] (1981)(IBM) [Adventure, Interactive Fiction].img.zip
+
+Porno Adventure (1981)(Otto Breeser, Inc.) [Interactive Fiction, Adult].zip
+
+Rocket (1981)(Anonymous) [Simulation].zip
+
+Set the Hostages Free v2.0 (1981)(TexaSoft) [Action].zip
+
+Star Trek (1981)(Bob Fritz) [Strategy].zip
+
+Ulysses and the Golden Fleece [DC] (1981)(Sierra On-Line, Inc.) [Adventure, Interactive Fiction].zip
+
+Wizards Castle, The (1981)(International PC Owners) [Adventure, Role-Playing (RPG)].zip
+
+Wizards Castle, The [a1] (1981)(International PC Owners) [Adventure, Role-Playing (RPG)].zip
+
+Wizards Castle, The [a2] (1981)(International PC Owners) [Adventure, Role-Playing (RPG)].zip
+
+Zork II- The Wizard of Frobozz r22 [DC] (1981)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+
+8088_friendly - 1982
+------------------------------------------------------------
+target:	/Users/peteyoung/Downloads/oldskool.org/8088_friendly/1982
+source:	http://ftp.oldskool.org/pub/misc/Software/Games/8088-friendly/1982
+
+
+3D Tic-Tac-Toe (1982)(Reza Beheshti) [Strategy].zip
+
+3D Tic-Tac-Toe [a1] (1982)(Reza Beheshti) [Strategy].zip
+
+3D Tic-Tac-Toe [o1] (1982)(Reza Beheshti) [Strategy].zip
+
+3D Tic-Tac-Toe [o2] (1982)(Reza Beheshti) [Strategy].zip
+
+21 (1982)(PCC, Inc.) [Strategy].zip
+
+Adventure in Serenia [DC] (1982)(IBM) [Adventure, Interactive Fiction].zip
+
+Air Traffic Controller (1982)(Avant-Garde Creations) [Simulation].zip
+
+Alien v2b (1982)(Anonymous) [Adventure, Interactive Fiction].zip
+
+Alien v2b [a1] (1982)(Anonymous) [Adventure, Interactive Fiction].zip
+
+Andromeda Conquest (1982)(Avalon Hill) [Strategy] [!].zip
+
+Anti-Ballistic-Missile (1982)(Ed Davis) [Action].zip
+
+Anti-Ballistic-Missile [o1] (1982)(Ed Davis) [Action].zip
+
+Anti-Ballistic-Missile [o2] (1982)(Ed Davis) [Action].zip
+
+Anti-Ballistic-Missile [o3] (1982)(Ed Davis) [Action].zip
+
+Apple Panic [DC] (1982)(Broderbund Software, Inc.) [Action].zip
+
+Artillery (1982)(Joe Lipska, Portland IBM PC Club) [Strategy, Action].zip
+
+Asteroid Pilot (1982)(R. A. Bower) [Action].zip
+
+Astro-Dodge (1982)(Digital Marketing Corporation) [Action].zip
+
+Astro-Dodge [a1] (1982)(Digital Marketing Corporation) [Action].zip
+
+Astro-Dodge [a2] (1982)(Digital Marketing Corporation) [Action].zip
+
+Astro-Dodge [a3] (1982)(Digital Marketing Corporation) [Action].zip
+
+Astro-Dodge [a4] (1982)(Digital Marketing Corporation) [Action].zip
+
+Astro-Dodge [f1] (1982)(Digital Marketing Corporation) [Action].zip
+
+Attack v1.1 (1982)(IBM) [Action].zip
+
+Backgammon (1982)(C&C Software) [Strategy].zip
+
+Ball (1982)(Tom Springall) [Simulation].zip
+
+Battle of the Bulge- Tigers in the Snow, The (1982)(Strategic Simulations, Inc.) [Strategy, War].zip
+
+Bit-Bat (1982)(Software Strategies Inc.) [Action].zip
+
+Bit-Bat [h1] (1982)(Software Strategies Inc.) [Action].zip
+
+Black Box (1982)(International PC Owners) [Strategy].zip
+
+Blackjack (1982)(Tom Springall) [Strategy, Cards].zip
+
+Boxer Rebellion (1982)(K. L. Carpenter) [Action, Puzzle].zip
+
+Bullseye (1982)(International PC Owners) [Sports, Simulation].zip
+
+BurgerTime [DC] (1982)(Mattel Electronics) [Action].zip
+
+BurgerTime [a1][DC] (1982)(Mattel Electronics) [Action].zip
+
+BurgerTime [a2][DC] (1982)(Mattel Electronics) [Action].zip
+
+BurgerTime [b1][DC] (1982)(Mattel Electronics) [Action].zip
+
+C.I.A. Adventure (1982)(International PC Owners) [Adventure, Interactive Fiction].zip
+
+CATCH88 (1982)(RKC) [Action].zip
+
+CCII Blackjack (1982)(Patrick Leabo, Bob Vollmer) [Strategy, Cards].zip
+
+CONSEN - The Game of Concentration (1982)(Eugene S. Schulze) [Strategy].zip
+
+Call to Arms (1982)(Sirius Software, Inc.) [Strategy, War].zip
+
+Call to Arms (Sp) (1982)(Sirius Software, Inc.) [Strategy].zip
+
+Call to Arms [a1] (1982)(Sirius Software, Inc.) [Strategy, War].zip
+
+Cannoneer (1982)(Ed Davis) [Simulation].zip
+
+Capture the Enemy Space Ship (1982)(International PC Owners) [Strategy].zip
+
+Casino Games (1982)(IBM) [Simulation, Cards].zip
+
+Casino Games v1.05 (1982)(IBM) [Simulation, Cards].zip
+
+Chomp (1982)(Ensign Software) [Action].zip
+
+Computer Monopoly (1982)(Anonymous) [Strategy].zip
+
+Computer Operator (1982)(D. Johnson) [Simulation].zip
+
+Cosmic Crusader [DC] (1982)(Funtastic, Inc.) [Action].zip
+
+Cribbage (1982)(Ensign Software) [Strategy].zip
+
+Cribbage (color) (1982)(Patrick Leabo) [Strategy, Cards].zip
+
+Cribbage (mono) (1982)(Patrick Leabo) [Strategy, Cards].zip
+
+Crossfire [DC] (1982)(Sierra On-Line, Inc.) [Action].zip
+
+Crossfire [DC][a1] (1982)(Sierra On-Line, Inc.) [Action].zip
+
+Crossfire [DC][a2] (1982)(Sierra On-Line, Inc.) [Action].zip
+
+Crossfire [DC][a3] (1982)(Sierra On-Line, Inc.) [Action].zip
+
+Cyborg [DC] (1982)(Sentient Software) [Adventure, Interactive Fiction].zip
+
+Datnoids (1982)(Casey Roche) [Action].zip
+
+Deadline r26 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Deadline r27 (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Deadline r27 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Deadline r27 [a1] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Depth Charge v1.2 (1982)(Jerry M. Kotler) [Action].zip
+
+Desert (1982)(International PC Owners) [Simulation].zip
+
+Donkey v1.10 (1982)(IBM, Microsoft) [Racing - Driving].zip
+
+Draw Poker (1982)(The Avalon Hill Game Company) [Simulation, Strategy, Cards].zip
+
+Drive-In (1982)(Douglas C. Rogers) [Adventure, Interactive Fiction, Adult].zip
+
+Droids (1982)(International PC Owners) [Strategy].zip
+
+Dunjonquest- Curse of Ra (1982)(Epyx, Inc.) [Role-Playing (RPG), Addon].zip
+
+Dunjonquest- Temple of Apshai (1982)(Epyx, Inc.) [Role-Playing (RPG)].zip
+
+Dunjonquest- Upper Reaches of Apshai (1982)(Epyx, Inc.) [Role-Playing (RPG), Addon].zip
+
+Executive Suite [DC] (1982)(Armonk Corporation) [Simulation, Strategy].zip
+
+Executive Suite [DC][a1] (1982)(Armonk Corporation) [Simulation, Strategy].zip
+
+Facemaker [DC] (1982)(Spinnaker Software Corporation) [Educational, Editor].img.zip
+
+Fence (1982)(Anonymous) [Action].zip
+
+Floppy Frenzy [DC] (1982)(Windmill Software) [Action].zip
+
+Floppy Frenzy [DC][a1] (1982)(Windmill Software) [Action].zip
+
+Fuzzy Worm [f1] (1982)(Boise Computer) [Action].zip
+
+Galactic Encounters v2.1 (1982)(Micro Productions, Inc.) [Strategy, Simulation].zip
+
+Gallery (1982)(Anonymous) [Action].zip
+
+Gobble Man (1982)(Anonymous) [Action].zip
+
+Golf (1982)(International PC Owners) [Sports, Simulation].zip
+
+HOSER (1982)(Blue Giant Software, Inc.) [Action].zip
+
+Hermits Secret, The (1982)(Temple Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Hique (1982)(Wes Meier) [Strategy].zip
+
+Jabbertalky (1982)(Automated Simulations, Inc.) [Educational].zip
+
+Jetset (1982)(BYTE Magazine) [Simulation].zip
+
+Kamikazi Alien (1982)(VeriSoft Works) [Action].zip
+
+Kamikazi Alien [a1] (1982)(VeriSoft Works) [Action].zip
+
+Las Vegas Blackjack v1.05 (1982)(Quala Software) [Strategy, Cards].zip
+
+Lost Dutchmans Gold (1982)(International PC Owners) [Adventure, Interactive Fiction].zip
+
+Lunar Landing (1982)(Bruce Guthrie) [Action, Simulation].zip
+
+Maiden (1982)(Firebrand Software) [Adventure, Interactive Fiction].zip
+
+Maxit (1982)(Patrick Leabo) [Strategy].zip
+
+Meteor! (1982)(Edward T. Ordman) [Action].zip
+
+Microsoft Decathlon [DC] (1982)(Microsoft Game Studios) [Sports].zip
+
+Microsoft Decathlon [a1][DC] (1982)(Microsoft Game Studios) [Sports].zip
+
+Microsoft Flight Simulator [DC] (1982)(Microsoft) [Simulation].img.zip
+
+Midway Campaign (1982)(Avalon Hill) [Strategy, War].zip
+
+Missle Strike (1982)(International PC Owners) [Action].zip
+
+NewTrek (1982)(R.H. Johnson) [Strategy].zip
+
+Night Mission Pinball [DC][b1] (1982)(subLOGIC) [Simulation].zip
+
+Nim (1982)(J. E. Steitz) [Strategy, Puzzle].zip
+
+Novatron (1982)(VeriSoft Works) [Action].zip
+
+Novatron [a1] (1982)(VeriSoft Works) [Action].zip
+
+Novatron [a2][o1] (1982)(VeriSoft Works) [Action].zip
+
+Novatron [a3] (1982)(VeriSoft Works) [Action].zip
+
+Novatron [a4] (1982)(VeriSoft Works) [Action].zip
+
+Original Adventure, The (1982)(Software Toolworks, Inc., The) [Adventure, Interactive Fiction].zip
+
+Othello (1982)(Anonymous) [Strategy].zip
+
+Othello (1982)(Blair Martin) [Strategy].zip
+
+PC-MAN (1982)(Orion Software, Inc.) [Action].zip
+
+PC-MAN [a1] (1982)(Orion Software, Inc.) [Action].zip
+
+PC-MAN [a2] (1982)(Orion Software, Inc.) [Action].zip
+
+PC-MAN [h1] (1982)(Orion Software, Inc.) [Action].zip
+
+PC Man v00.01 (1982)(Al J. Jimenez) [Action].zip
+
+PC Star Lanes (1982)(Bernauer, Higgins, Irvine) [Strategy, Simulation].zip
+
+PChallenge (1982)(Software Communications Inc.) [Action].zip
+
+Pac-Gal (1982)(Al J. Jimenez) [Action].zip
+
+Pac-Gal [a1] (1982)(Al J. Jimenez) [Action].zip
+
+Pac-Gal [h1] (1982)(Al J. Jimenez) [Action].zip
+
+Pac-Girl (1982)(Al J. Jimenez) [Action].zip
+
+Pac-Man (1982)(Bob Bison) [Action].zip
+
+Pac Man (1982)(Anonymous) [Action].zip
+
+PacWorm (1982)(Richard Addison) [Action].zip
+
+Paratrooper [DC] (1982)(Orion Software, Inc.) [Action].zip
+
+Paratrooper [DC][a1] (1982)(Orion Software, Inc.) [Action].zip
+
+Paratrooper [DC][a2] (1982)(Orion Software, Inc.) [Action].zip
+
+Paratrooper [DC][a3] (1982)(Orion Software, Inc.) [Action].zip
+
+Paratrooper [DC][h1] (1982)(Orion Software, Inc.) [Action].zip
+
+Paratrooper [DC][h1][o1] (1982)(Orion Software, Inc.) [Action].zip
+
+Paratrooper [DC][h2] (1982)(Orion Software, Inc.) [Action].zip
+
+Phantoms Revenge, The (1982)(Temple Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Pick It (1982)(Tom Springall) [Strategy, Cards].zip
+
+Poke-Man (1982)(Al J. Jimenez) [Action].zip
+
+Pong-Pong (1982)(E. M. Davis) [Action].zip
+
+Queen of Hearts Maze Game, The (1982)(TexaSoft) [Action].zip
+
+RaceMan (1982)(Paul Somerson) [Action].zip
+
+Racer Jammer (1982)(Anonymous) [Action, Racing-Driving].zip
+
+Ramsak (1982)(Heigen Corporation) [Action].zip
+
+Ramsak [h1] (1982)(Heigen Corporation) [Action].zip
+
+Rocket Lander (1982)(IBM) [Action].zip
+
+Rubiks Cube (1982)(International PC Owners) [Simulation, Strategy].zip
+
+SeaWolf (1982)(International PC Owners) [Action].zip
+
+SeaWolf [a1] (1982)(International PC Owners) [Action].zip
+
+Serpentine [DC] (1982)(Broderbund Software, Inc.) [Action].zip
+
+Serpentine [DC][a1] (1982)(Broderbund Software, Inc.) [Action].zip
+
+Serpent v00 (1982)(Anonymous) [Action].zip
+
+Simulated Slot Machine (1982)(C. Mike Bunker) [Simulation].zip
+
+Skeet Shoot (1982)(T. Sorber) [Action].zip
+
+Slots (1982)(Tom Springall) [Simulation].zip
+
+Snack Attack II [DC] (1982)(Funtastic, Inc.) [Action].zip
+
+Snipes (1982)(SuperSet Software Corp.) [Action].zip
+
+Snipes [a1] (1982)(SuperSet Software Corp.) [Action].zip
+
+Snipes [a2] (1982)(SuperSet Software Corp.) [Action].zip
+
+Snooper Troops- Case #1 - The Granite Point Ghost (1982)(Spinnaker Software Corporation) [Adventure, Educational].zip
+
+Snooper Troops- Case #2 - The Case of the Disappearing Dolphin (1982)(Spinnaker Software Corporation) [Adventure, Educational].zip
+
+Space Strike (1982)(Funtastic, Inc.) [Action].zip
+
+Spinout (1982)(K.R. Sloan Jr.) [Action].zip
+
+StarQuest- Star Warrior [f1] (1982)(Epyx, Inc.) [Role-Playing (RPG)].zip
+
+Star Ship Attack (1982)(Anonymous) [Action].zip
+
+Starcross r17 (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Starcross r17 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Starcross r17 [a1] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Stocks And Bonds (1982)(Avalon Hill) [Simulation, Strategy].zip
+
+Super Star Trek (1982)(Stevens) [Strategy].zip
+
+Switch (1982)(Wes Meier) [Strategy, Puzzle].zip
+
+Target (1982)(IBM) [Action].zip
+
+Tic-Tac-Toe (1982)(Tom Springall) [Strategy].zip
+
+Tic Tac Toe (1982)(International PC Owners) [Strategy].zip
+
+Treasure Hunt (1982)(Ensign Software) [Adventure].zip
+
+Trucker (1982)(Hughes Glantzberg) [Simulation].zip
+
+UFO (1982)(Tom Anderson) [Action].zip
+
+VC (1982)(The Avalon Hill Game Company) [Simulation, Strategy].zip
+
+Video Trek 88 (1982)(Windmill Software) [Simulation].zip
+
+Voyager I- Sabotage of the Robot Ship (1982)(The Avalon Hill Game Company) [Action].zip
+
+Wallbanger (1982)(Tom Springall) [Action].zip
+
+War3 (1982)(Anonymous) [Strategy].zip
+
+Warp Factor, The (1982)(Strategic Simulations, Inc.) [Simulation].zip
+
+Warrens World- Lost Colony v1.4 (1982)(Acorn Software Products, Inc.) [Strategy, Simulation].zip
+
+Warriors of Ras Volume I- Dunzhin [DC] (1982)(Computer Applications Unlimited) [Adventure, Role-Playing (RPG)].img.zip
+
+Worm (1982)(Mark D. Miller) [Action].zip
+
+Wumpus II (1982)(Anonymous) [Strategy].zip
+
+XO-Fighter (1982)(Heigen corporation) [Action].zip
+
+XO-Fighter [h1] (1982)(Heigen corporation) [Action].zip
+
+XWing Fighter v4.0 (1982)(International PC Owners) [Action].zip
+
+XWing Fighter v4.0 [a1] (1982)(International PC Owners) [Action].zip
+
+Yahtzee (1982)(Patrick Leabo) [Strategy].zip
+
+Zap-em (1982)(IBM) [Action].zip
+
+Zap-em [a1] (1982)(IBM) [Action].zip
+
+Zork III- The Dungeon Master r16 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork III- The Dungeon Master r17 (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork III- The Dungeon Master r17 [a1] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork III- The Dungeon Master r17 [a2] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+
+8088_friendly - 1983
+------------------------------------------------------------
+target:	/Users/peteyoung/Downloads/oldskool.org/8088_friendly/1983
+source:	http://ftp.oldskool.org/pub/misc/Software/Games/8088-friendly/1983
+
+
+15 Puzzle, The (1983)(Dale Dewey) [Strategy, Puzzle].zip
+
+Advanced Xoru v5.83 [SW] (1983)(Castle Technologies) [Adventure, Role-Playing (RPG)].zip
+
+Adventure-1 (1983)(Scott Adams) [Adventure, Interactive Fiction].zip
+
+Adventure Compiler-Interpreter (1983)(Peter F. Levy) [Interactive Fiction, Editor].zip
+
+AdventureWriter [f1] (1983)(Gilsoft) [Adventure, Editor].zip
+
+Adventures in Math (1983)(IBM) [Educational].zip
+
+Afghanistan (1983)(John D. Odneal) [Strategy].zip
+
+Aftermath of the Asimovian Disaster (1983)(Tim Hartnell) [Adventure, Interactive Fiction].zip
+
+Air Trax (1983)(Presearch Incorporated) [Strategy, Simulation].zip
+
+Air Trax [a1] (1983)(Presearch Incorporated) [Strategy, Simulation].zip
+
+Amazing Maze (1983)(Headlands Press) [Action].zip
+
+Animation Creation (1983)(IBM) [Educational].zip
+
+Ario Bros (1983)(David Tretter) [Action].zip
+
+Ario Bros [a1] (1983)(David Tretter) [Action].zip
+
+Attack On Altair [DC] (1983)(Windmill Software) [Action].zip
+
+B-1 Nuclear Bomber (1983)(Avalon Hill) [Simulation, War].zip
+
+B-1 Nuclear Bomber [a1] (1983)(Avalon Hill) [Simulation, War].zip
+
+Backgammon v5.0 [DC] (1983)(Willie Chaplin) [Strategy].img.zip
+
+Baseball (1983)(International PC Owners) [Sports, Simulation].zip
+
+Battle for Normandy (1983)(Strategic Simulations, Inc.) [Strategy, War].zip
+
+Battlezone [DC] (1983)(Atarisoft) [Action, Simulation].zip
+
+Battlezone [DC][h1] (1983)(Atarisoft) [Action, Simulation].zip
+
+Battlezone [DC][h2] (1983)(Atarisoft) [Action, Simulation].zip
+
+Battlezone [DC][h3] (1983)(Atarisoft) [Action, Simulation].zip
+
+Battlezone [DC][h4] (1983)(Atarisoft) [Action, Simulation].zip
+
+Beneath Apple Manor [DC][b1] (1983)(Quality Software) [Role-Playing (RPG)].zip
+
+Bert and the Snake (1983)(Bill Piazza) [Action].zip
+
+Bert and the Snake [o1] (1983)(Bill Piazza) [Action].zip
+
+Bert and the Snake [o2] (1983)(Bill Piazza) [Action].zip
+
+Big 8 Football (1983)(Anonymous) [Sports, Simulation].zip
+
+Big Top [DC] (1983)(Funtastic, Inc.) [Action].zip
+
+Big Top [DC][b1] (1983)(Funtastic, Inc.) [Action].zip
+
+Black Friday #3 (1983)(International PC Owners) [Strategy, Simulation].zip
+
+Blackjack (1983)(International PC Owners) [Strategy, Cards].zip
+
+Bluebush Chess (1983)(Bluebush Software) [Strategy, Chess].zip
+
+Bluebush Chess v1.30 (1983)(Bluebush Software) [Strategy, Chess].zip
+
+Bugfeast (1983)(Paul Somerson) [Action].zip
+
+Bugs! (1983)(Michael Ouye) [Action].zip
+
+Bugs! v4 [a1] (1983)(Michael Ouye) [Action].zip
+
+Bugs! v4 [o1] (1983)(Michael Ouye) [Action].zip
+
+Bumble Games (1983)(IBM) [Educational].zip
+
+Bumble Games [a1] (1983)(IBM) [Educational].zip
+
+Bumble Plot [f1] (1983)(IBM) [Strategy, Educational].zip
+
+Bushido (1983)(Ebenel Enterprises) [Action][!].zip
+
+Bushido [a1] (1983)(Ebenel Enterprises) [Action].zip
+
+Bushido [a2] (1983)(Ebenel Enterprises) [Action].zip
+
+Buzzard Bait (1983)(Sirius Software, Inc.) [Action].zip
+
+Buzzard Bait [a1] (1983)(Sirius Software, Inc.) [Action].zip
+
+Casino UNIVAC 1108 Baccarat (1983)(Anonymous) [Strategy, Cards].zip
+
+Centipede (1983)(R. J. Grafe) [Action].zip
+
+Centipede [DC] (1983)(Atarisoft) [Action].zip
+
+Centipede [a1] (1983)(R. J. Grafe) [Action].zip
+
+Centipede [a2] (1983)(R. J. Grafe) [Action].zip
+
+Centipede [h1] (1983)(R. J. Grafe) [Action].zip
+
+Chase (1983)(A. Barak) [Action].zip
+
+Chateau Gaillard (1983)(Tim Hartnell) [Adventure, Interactive Fiction].zip
+
+Chess Partner (1983)(Scott Murray) [Strategy, Chess].zip
+
+Citadel of Pershu, The (1983)(Tim Hartnell) [Adventure, Interactive Fiction].zip
+
+Civil War (1983)(International PC Owners) [Simulation, Strategy, War].zip
+
+Coffee Game, The (1983)(Anonymous) [Strategy].zip
+
+Combots (1983)(International PC Owners) [Strategy].zip
+
+Conquest [DC] (1983)(Windmill Software) [Action].zip
+
+Conquest [a1][DC] (1983)(Windmill Software) [Action].zip
+
+Conquest [a2][DC] (1983)(Windmill Software) [Action].zip
+
+Conquest [h1][DC] (1983)(Windmill Software) [Action].zip
+
+Creature Creator (1983)(DesignWare Inc.) [Educational].img.zip
+
+Crossfire (PCjr) [DC] (1983)(IBM) [Action].jrc.zip
+
+Crossfire [DC] (1983)(Sierra On-Line, Inc.) [Action].img.zip
+
+Crush, Crumble and Chomp! (1983)(Automated Simulations, Inc.) [Strategy].zip
+
+Crypto Cube (1983)(DesignWare Inc.) [Educational].img.zip
+
+Czorian Siege [DC] (1983)(Computer Applications Unlimited) [Action].img.zip
+
+Daves Crap Game (1983)(Anonymous) [Strategy].zip
+
+Defender [DC] (1983)(Atarisoft) [Action].zip
+
+Defender [h1] [DC] (1983)(Atarisoft) [Action].zip
+
+Demon Attack (PCjr) [DC] (1983)(Imagic) [Action].jrc.zip
+
+Dig Dug [DC] (1983)(Atarisoft) [Action].zip
+
+Dig Dug [DC][a1] (1983)(Atarisoft) [Action].zip
+
+Digger [DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a1][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a2][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a3][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a4][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a5][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a6][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a7][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a7][o1][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a7][o2][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a8][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a9][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a10][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [a11][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [f1][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [h1][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [h2][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [h3][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [h4][DC] (1983)(Windmill Software) [Action].zip
+
+Digger [h5][DC] (1983)(Windmill Software) [Action].zip
+
+Dino Eggs [DC] (1983)(Micro Fun) [Action].zip
+
+Dino Eggs [h1][b1][DC] (1983)(Micro Fun) [Action].zip
+
+Donkey Kong [DC] (1983)(Atarisoft) [Action].zip
+
+Double-Deck Pinochle (1983)(Ralph Daugherty) [Strategy].zip
+
+Earthly Delights [DC] (1983)(Datamost, Inc.) [Adventure, Interactive Fiction].zip
+
+El Grinch (1983)(International PC Owners) [Puzzle].zip
+
+Enchanter r10 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Enchanter r16 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Enchanter r29 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Enchanter r29 [a1] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Epidemic! (1983)(Strategic Simulations, Inc.) [Strategy] [!].zip
+
+Evolution [DC] (1983)(Sydney Development Corp.) [Action].zip
+
+Evolution [a1][DC] (1983)(Sydney Development Corp.) [Action].zip
+
+Exterminator, The [DC] (1983)(Windmill Software) [Action].zip
+
+Fifteen Puzzle (1983)(International PC Owners) [Puzzle].zip
+
+Fleet Sweep [DC] (1983)(Mirror Images Software, Inc.) [Action].zip
+
+Flipper (1983)(International PC Owners) [Strategy].zip
+
+Flyswat (1983)(David W. Gulliksen) [Action].zip
+
+Football (1983)(International PC Owners) [Simulation, Sports].zip
+
+Forbidden Quest [DC] (1983)(Pryority Software) [Adventure, Interactive Fiction].zip
+
+Fowlplay (1983)(MOPS Computer Systems, Inc.) [Action].zip
+
+Freddy Fish [DC] (1983)(Mirror Images Software, Inc.) [Action].img.zip
+
+Friendlyware PC Arcade v1.1 [DC] (1983)(FriendlySoft) [Action, Compilation].img.zip
+
+Friendlyware PC Introductory Set v2.0 (1983)(FriendlySoft) [Action, Compilation].zip
+
+Friendlyware PC Introductory Set v2.0 [a1] (1983)(FriendlySoft) [Action, Compilation].zip
+
+Frogger [DC] (1983)(Sierra On-Line, Inc.) [Action].zip
+
+Frogger [DC][f1] (1983)(Sierra On-Line, Inc.) [Action].zip
+
+Frogger [a1][DC] (1983)(Sierra On-Line, Inc.) [Action].zip
+
+Galactic Gladiators (1983)(Strategic Simulations, Inc.) [Strategy].zip
+
+Galaxian [DC] (1983)(Atarisoft) [Action].zip
+
+Galaxian [h1][DC] (1983)(Atarisoft) [Action].zip
+
+Galaxian [h1][DC] (Tandy) (1983)(Atarisoft) [Action].zip
+
+Galaxy Trek v2.1 (1983)(Larry E. Jordan) [Simulation].zip
+
+Galaxy Trek v2.1 [a1] (1983)(Larry E. Jordan) [Simulation].zip
+
+Grannys Place (1983)(Temple Software, Inc.) [Adventure, Interactive Fiction, Adult].zip
+
+Hangman Foreign Language v5.75 [SW] (1983)(Norland Software) [Strategy, Puzzle].zip
+
+Hangman for the Superintelligent v5.25 [SW] (1983)(Norland Software) [Strategy, Puzzle].zip
+
+Hangman v4.1 [SW] (1983)(Norland Software) [Strategy, Puzzle].zip
+
+Hangman v4.1 [a1][SW] (1983)(Norland Software) [Strategy, Puzzle].zip
+
+Hangman v5.15 [SW] (1983)(Norland Software) [Strategy, Puzzle].zip
+
+Hide & Sink (1983)(Mirror Images Software, Inc.) [Strategy].zip
+
+Hide & Sink [a1] (1983)(Mirror Images Software, Inc.) [Strategy].zip
+
+Hobbit, The [DC] (1983)(Melbourne House) [Adventure, Interactive Fiction].zip
+
+Horse Races (1983)(International PC Owners) [Sports, Simulation].zip
+
+In Search of the Most Amazing Thing (1983)(Spinnaker Software Corporation) [Adventure].zip
+
+In Search of the Most Amazing Thing [a1] (1983)(Spinnaker Software Corporation) [Adventure].zip
+
+Infidel r22 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Infidel r22 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Infidel r22 [a1] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Infidel r22 [a2] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+J-Bird [DC] (1983)(Orion Software, Inc.) [Action].zip
+
+J-Bird [DC][a1] (1983)(Orion Software, Inc.) [Action].zip
+
+Jetset - IFR Flight Simulator (1983)(BYTE Magazine) [Strategy, Simulation].zip
+
+Jetset - IFR Flight Simulator [a1] (1983)(BYTE Magazine) [Strategy, Simulation].zip
+
+Joust [DC] (1983)(Atarisoft) [Action].zip
+
+Juggles Butterfly (1983)(IBM) [Educational].zip
+
+Jumpman [DC] (1983)(IBM) [Action].zip
+
+Kindercomp [DC] (1983)(Spinnaker Software Corporation) [Educational].zip
+
+Kingdom (1983)(Anonymous) [Strategy].zip
+
+Knights of the Desert- The North African Campaign of 1941-1943 (1983)(Strategic Simulations, Inc.) [Simulation, Strategy, War].zip
+
+LaserCycle (1983)(Cornerstone Computer Company) [Action].zip
+
+Lode Runner (1983)(Broderbund Software, Inc.) [Action].zip
+
+Lode Runner [DC] (1983)(Broderbund Software, Inc.) [Action].zip
+
+Lode Runner [a1] (1983)(Broderbund Software, Inc.) [Action].zip
+
+Lode Runner [a2] (1983)(Broderbund Software, Inc.) [Action].zip
+
+Lode Runner [h1] (1983)(Broderbund Software, Inc.) [Action].zip
+
+Lode Runner v3.0 [DC] (1983)(Broderbund Software, Inc.) [Action].zip
+
+Master Miner [DC] (1983)(Funtastic, Inc.) [Action].zip
+
+Master Type (CGA) (1983)(Lightning Software) [Action, Educational].img.zip
+
+Master Type (Mono) (1983)(Lightning Software) [Action, Educational].img.zip
+
+Math Blaster [b1] (1983)(Davidson & Associates) [Educational].zip
+
+Math Maze (1983)(D. C. Heath and Company, DesignWare, Inc.) [Educational].img.zip
+
+Maxit (1983)(IBM) [Strategy].zip
+
+Maze (1983)(Ziff-Davis Publishing) [Strategy].zip
+
+Memory (1983)(International PC Owners) [Strategy].zip
+
+Microsoft Flight Simulator v1.05 [DC] (1983)(Microsoft) [Simulation].img.zip
+
+Mine Shaft [DC] (1983)(IBM) [Action].zip
+
+Miner 2049er [DC] (1983)(Micro Fun) [Action].zip
+
+Mini Golf (1983)(SoftSide Magazine) [Simulation, Sports].zip
+
+Monster Math (1983)(IBM) [Educational].zip
+
+Moon Bugs [DC] (1983)(Windmill Software) [Action].zip
+
+Moon Bugs [a1][DC] (1983)(Windmill Software) [Action].zip
+
+Moon Bugs [a2][DC] (1983)(Windmill Software) [Action].zip
+
+Moon Bugs [a3][DC] (1983)(Windmill Software) [Action].zip
+
+Moon Bugs [a4][DC] (1983)(Windmill Software) [Action].zip
+
+Moon Patrol [DC] (1983)(Atarisoft) [Action].zip
+
+Moon Patrol [h1][DC] (1983)(Atarisoft) [Action].zip
+
+Moon Patrol [h1][o1][DC] (1983)(Atarisoft) [Action].zip
+
+Mouser (PCjr) [DC] (1983)(IBM) [Action].jrc.zip
+
+Ms. Pac-Man [DC] (1983)(Atarisoft) [Action].zip
+
+Music Construction Set [DC] (1983)(Electronic Arts, Inc.) [Educational, Editor].zip
+
+Mysterious Adventure No. 5 - Escape from Pulsar 7 (1983)(Wherner Barnes & Brian Howarth) [Adventure, Interactive Fiction].zip
+
+Night Stalker [DC] (1983)(Mattel Electronics) [Action].zip
+
+Night Stalker [DC][a1] (1983)(Mattel Electronics) [Action].zip
+
+Oil Barons (1983)(Epyx, Inc.) [Strategy].zip
+
+One Hundred and One Monochrome Mazes (1983)(IBM) [Action].zip
+
+Original Buck Manns Poker for One, The (1983)(International PC Owners) [Strategy, Cards].zip
+
+Oubliette (1983)(Human Engineered Software) [Adventure, Role-Playing (RPG)].zip
+
+Pac-Man [DC] (1983)(Atarisoft) [Action].zip
+
+Pac-Man [DC][f1] (1983)(Atarisoft) [Action].zip
+
+Pac-Man [a1] [DC] (1983)(Atarisoft) [Action].zip
+
+Pac-Man [a2] [DC] (1983)(Atarisoft) [Action].zip
+
+Pac-Man [h1] [DC] (1983)(Atarisoft) [Action].zip
+
+Packman (1983)(G. E. Leikam) [Action].zip
+
+Packman [h1] (1983)(G. E. Leikam) [Action].zip
+
+Pango (1983)(Sheng-Chung Liu) [Action].zip
+
+Pango [a1] (1983)(Sheng-Chung Liu) [Action].zip
+
+Pango [h1] (1983)(Sheng-Chung Liu) [Action].zip
+
+Pango [h2] (1983)(Sheng-Chung Liu) [Action].zip
+
+Pango [tr Sp] (1983)(Sheng-Chung Liu) [Action].zip
+
+Pipes (1983)(Creative Software) [Educational, Strategy].zip
+
+Planetfall r20 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Planetfall r29 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Planetfall r29 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Planetfall r37 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Polymaze (1983)(Dan Rollins) [Strategy].zip
+
+Racecar (1983)(International PC Owners) [Action, Racing-Driving].zip
+
+Read Easy v2.0 (1983)(Computer Easy, Inc.) [Educational].zip
+
+Reverse (1983)(Anonymous) [Strategy, Puzzle].zip
+
+Road Rally (1983)(International PC Owners) [Simulation, Racing-Driving].zip
+
+Robotron- 2084 [DC] (1983)(Atarisoft) [Action].zip
+
+Robotron- 2084 [h1][o1][DC] (1983)(Atarisoft) [Action].zip
+
+Robotron- 2084 [h2][DC] (1983)(Atarisoft) [Action].zip
+
+Rogue (1983)(Artificial Intelligence Design) [Role-Playing (RPG)].zip
+
+Rogue- The Adventure Game (1983)(Michael C. Toy, Kenneth C.R.C. Arnold) [Adventure, Role-Playing (RPG)].zip
+
+Run For The Money (1983)(Scarborough) [Strategy].img.zip
+
+Run For The Money [DC] (1983)(Scarborough) [Strategy].img.zip
+
+Russian Roulette (1983)(Anonymous) [Simulation].zip
+
+SNAKE! (1983)(John Chenault) [Action].zip
+
+SNAKE! [a1] (1983)(John Chenault) [Action].zip
+
+Sailing ...An Adventure in The Bermuda Triangle (1983)(Dynetron Company) [Action].zip
+
+Sailing ...An Adventure in The Bermuda Triangle [h1] (1983)(Dynetron Company) [Action].zip
+
+Sargon III (1983)(Hayden Software) [Strategy, Chess].zip
+
+Sargon III [a1] (1983)(Hayden Software) [Strategy, Chess].zip
+
+ScubaVenture (PCjr) [DC] (1983)(IBM) [Action].jrc.zip
+
+Sea Dragon (1983)(Adventure International) [Action].zip
+
+Sea Dragon [a1] (1983)(Adventure International) [Action].zip
+
+Sea Dragon [a2] (1983)(Adventure International) [Action].zip
+
+Sea Dragon [a3] (1983)(Adventure International) [Action].zip
+
+Sea Dragon [a4] (1983)(Adventure International) [Action].zip
+
+Secret Sequence v2 (1983)(Ralph G. Brickner) [Strategy].zip
+
+Shultzs Treasure (1983)(VeriSoft Works) [Action].zip
+
+Slalom (1983)(J. Panek) [Simulation].zip
+
+Sleuth v4.1 [SW] (1983)(Norland Software) [Adventure, Strategy].zip
+
+Sleuth v4.45 [SW] (1983)(Norland Software) [Adventure, Strategy].zip
+
+Slot (1983)(International PC Owners) [Simulation].zip
+
+Space Commanders (1983)(Columbia Data Products, Inc.) [Action].zip
+
+Space Commanders [a1] (1983)(Columbia Data Products, Inc.) [Action].zip
+
+Space Commanders [o1] (1983)(Columbia Data Products, Inc.) [Action].zip
+
+Space Commanders [o2] (1983)(Columbia Data Products, Inc.) [Action].zip
+
+Space Miner v1.1 (1983)(Charles Karp) [Action].zip
+
+Spell Castle v2.0 (1983)(Computer Easy, Inc.) [Educational].zip
+
+Splat (1983)(Anonymous) [Simulation].zip
+
+Spyder (1983)(Mirror Images Software, Inc.) [Action].zip
+
+Square [SW] (1983)(David N. Smith) [Strategy].zip
+
+StarQuest- Rescue at Rigel (1983)(Epyx, Inc.) [Role-Playing (RPG)].zip
+
+Star Trek (1983)(Anonymous) [Strategy].zip
+
+Star Trek- Strategic Operations Simulator [DC] (1983)(SEGA Enterprises, Inc.) [Action].zip
+
+Starclash 2 (1983)(Jim Baen Software) [Strategy].zip
+
+Stargate [DC] (1983)(Atarisoft) [Action].zip
+
+Stargate [DC][h1] (1983)(Atarisoft) [Action].zip
+
+Stargate [DC][h2] (1983)(Atarisoft) [Action].zip
+
+Stargate [DC][h3] (1983)(Atarisoft) [Action].zip
+
+Stargate [DC][h4] (1983)(Atarisoft) [Action].zip
+
+Starmaxx (1983)(Heigen Corporation) [Action].zip
+
+Staten Island Ferry, The (1983)(Phillip Johnson) [Simulation].zip
+
+States and Capitals (1983)(International PC Owners) [Educational, Trivia].zip
+
+Strategy Games (1983)(IBM) [Strategy].zip
+
+Styx [DC] (1983)(Windmill Software) [Action].zip
+
+Sumer v1.3 (1983)(Anonymous) [Strategy].zip
+
+Suspended r8 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Suspended r8 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Suspended r8 [a1] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Tank (1983)(International PC Owners) [Action].zip
+
+Tapper [DC] (1983)(SEGA Enterprises Ltd.) [Action].zip
+
+Tapper [a1][DC] (1983)(SEGA Enterprises Ltd.) [Action].zip
+
+Tapper [a2][DC] (1983)(SEGA Enterprises Ltd.) [Action].zip
+
+Tapper [f1][DC] (1983)(SEGA Enterprises Ltd.) [Action].zip
+
+Tapper [f2][DC] (1983)(SEGA Enterprises Ltd.) [Action].zip
+
+Target (1983)(Brian D. Mann) [Action].zip
+
+Tick Attack (1983)(Pegasus Software) [Action].zip
+
+U.S. States and Capitals (1983)(A. Bartorillo) [Trivia, Educational].zip
+
+Ultima III- Exodus (1983)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Vampire Adventure (1983)(G. Hollenbeck) [Adventure, Interactive Fiction].zip
+
+Vier Gewinnt (De) (1983)(Anonymous) [Strategy].zip
+
+Werewolves and Wanderers (1983)(Tim Hartnell) [Adventure, Interactive Fiction].zip
+
+Witness, The r21 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Witness, The r22 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Witness, The r22 [a1] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Word Attack! (1983)(Davidson & Associates) [Educational].zip
+
+Worm City (1983)(Theodore W. Perkins) [Action].zip
+
+Yahtzee (1983)(International PC Owners) [Strategy].zip
+
+Zork- The Great Underground Empire r52 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork- The Great Underground Empire r75 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork- The Great Underground Empire r88 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork- The Great Underground Empire r88 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork- The Great Underground Empire r88 [a1] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork- The Great Underground Empire r88 [a2] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork II- The Wizard of Frobozz r48 (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork II- The Wizard of Frobozz r48 [a1] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork II- The Wizard of Frobozz r48 [a2] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+
+8088_friendly - 1984
+------------------------------------------------------------
+target:	/Users/peteyoung/Downloads/oldskool.org/8088_friendly/1984
+source:	http://ftp.oldskool.org/pub/misc/Software/Games/8088-friendly/1984
+
+
+3-Demon v488170 [SW] (1984)(PC Research Inc.) [Action].zip
+
+3-Demon v488170 [SW][o1] (1984)(PC Research Inc.) [Action].zip
+
+3-Demon v488170 [SW][o2] (1984)(PC Research Inc.) [Action].zip
+
+3-K Trivia [DC] (1984)(IBM) [Strategy].img.zip
+
+10Rogue (1984)(Codebusters, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+50 Mission Crush (1984)(Strategic Simulations, Inc.) [Role-Playing (RPG), Simulation].zip
+
+1000 Miles (1984)(Anonymous) [Simulation, Racing-Driving, Sports].zip
+
+Aardvark Attack (1984)(Compute! Publications, Inc.) [Action].zip
+
+Adventure 1 (1984)(Anonymous) [Adventure, Interactive Fiction].zip
+
+Agent U.S.A. [DC] (1984)(Scholastic Wizware) [Adventure, Educational, Strategy].zip
+
+Ahorcado v6.89 (Sp) (1984)(Norland Software) [Strategy].zip
+
+Air Traffic Controller [SW] (1984)(Steve Estvanik) [Simulation].zip
+
+Allendale County Schools Educational Programs (1984)(Gary West) [Educational, Compilation].zip
+
+Alley Cat [DC] (1984)(IBM) [Action].zip
+
+Alley Cat [DC][b1] (1984)(IBM) [Action].zip
+
+Alley Cat [DC][h1] (1984)(IBM) [Action].zip
+
+Alley Cat [tr No] (1984)(IBM) [Action].zip
+
+Alphabet Circus (1984)(Neosoft, Inc.) [Educational].zip
+
+Amazon (1984)(Trillium Corp.) [Adventure, Interactive Fiction].zip
+
+Ancient Art of War, The (1984)(Broderbund Software, Inc.) [Strategy].zip
+
+Ancient Art of War, The [a1] (1984)(Broderbund Software, Inc.) [Strategy].zip
+
+Archon- The Light and the Dark [DC] (1984)(Electronic Arts, Inc.) [Action, Strategy].zip
+
+Archon- The Light and the Dark [h1][DC] (1984)(Electronic Arts, Inc.) [Action, Strategy].zip
+
+Archon- The Light and the Dark [h2][DC] (1984)(Electronic Arts, Inc.) [Action, Strategy].zip
+
+Archon- The Light and the Dark [h3][DC] (1984)(Electronic Arts, Inc.) [Action, Strategy].zip
+
+Archon- The Light and the Dark [h4][DC] (1984)(Electronic Arts, Inc.) [Action, Strategy].zip
+
+BCs Quest for Tires [DC] (1984)(Sierra On-Line, Inc.) [Action].img.zip
+
+BCs Quest for Tires [DC][b1] (1984)(Sierra On-Line, Inc.) [Action].zip
+
+BCs Quest for Tires [DC][b1][a1] (1984)(Sierra On-Line, Inc.) [Action].zip
+
+Beast [SW] (1984)(Dan Baker) [Action, Strategy].zip
+
+Beast [a1][SW] (1984)(Dan Baker) [Action, Strategy].zip
+
+Beast [a2][SW] (1984)(Dan Baker) [Action, Strategy].zip
+
+Below the Root [DC] (1984)(Windham Classics) [Adventure].zip
+
+Billiard v0.10 (1984)(Mike Winlok) [Simulation].zip
+
+Bird-Brain (1984)(Emerald Valley Publishing Co.) [Action].zip
+
+BlackJack v1.1.2 (1984)(J. T. Chrisholm) [Strategy, Cards].zip
+
+BlackJack v1.1.2 [a1] (1984)(J. T. Chrisholm) [Strategy, Cards].zip
+
+BlackJack v1.1.2 [o1] (1984)(J. T. Chrisholm) [Strategy, Cards].zip
+
+Black Sanctum, The v1.4 (1984)(Mark Data Products) [Adventure].zip
+
+Blackjack (1984)(IBM) [Strategy, Cards].zip
+
+Boulder Dash [DC] (1984)(First Star Software, Inc.) [Action].zip
+
+Bouncing Babies [SW] (1984)(Dave Baskin) [Action].zip
+
+Bouncing Babies [SW][a1] (1984)(Dave Baskin) [Action].zip
+
+Bowling Champ!! (1984)(Compute! Publications, Inc.) [Action, Sports].zip
+
+Bricks (1984)(Vince Bly) [Action].zip
+
+Bricks [a1] (1984)(Vince Bly) [Action].zip
+
+Bricks [a2] (1984)(Vince Bly) [Action].zip
+
+Bruce Lee [DC] (1984)(Datasoft, Inc.) [Action].zip
+
+Bruce Lee [a1][DC] (1984)(Datasoft, Inc.) [Action].zip
+
+Bruce Lee [a2][DC] (1984)(Datasoft, Inc.) [Action].zip
+
+Buck Rogers- Planet of Zoom [DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Buck Rogers- Planet of Zoom [a1][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Buck Rogers- Planet of Zoom [h1][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Buck Rogers- Planet of Zoom [h2][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Bugs! v5 (1984)(Michael Ouye) [Action].zip
+
+Calixto Island v2.2 (1984)(Mark Data Products) [Adventure, Interactive Fiction].zip
+
+Cartel$ and Cutthroat$ (1984)(Strategic Simulations, Inc.) [Simulation, Strategy].zip
+
+Castle Adventure [f1][SW] (1984)(Kevin Bales) [Action, Adventure].zip
+
+Castle Wolfenstein (1984)(Muse Software) [Action, Adventure, Strategy].zip
+
+Caverns of Zoarre [SW] (1984)(Thomas G. Hanlin III) [Adventure, Role-Playing (RPG)].zip
+
+Championship Lode Runner [DC] (1984)(Broderbund Software, Inc.) [Action, Strategy].img.zip
+
+Chess88 v2.0 (1984)(Don Berg) [Strategy, Chess].zip
+
+Chess88 v2.0 [a1] (1984)(Don Berg) [Strategy, Chess].zip
+
+Chess88 v2.0 [a2] (1984)(Don Berg) [Strategy, Chess].zip
+
+Chess88 v2.0 [a3] (1984)(Don Berg) [Strategy, Chess].zip
+
+Colossal Cave Adventure (1984)(Willie Crowther, Don Woods, Jerry D. Pohl) [Adventure, Interactive Fiction].zip
+
+Computer Canasta v2.0 (1984)(John E. Thayer) [Strategy].zip
+
+Computer Circus Maximus (1984)(Avalon Hill) [Racing - Driving, Simulation].zip
+
+Computer Diplomacy v2.4 (1984)(Avalon Hill) [Strategy].zip
+
+Computer Dots (1984)(John E. Thayer) [Strategy].zip
+
+Computer Euchre (1984)(Howard Neff) [Strategy, Cards].zip
+
+Computer Trivia (1984)(Avalon Hill) [Trivia].zip
+
+Congo Bongo [DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+CoreWar [h1] (1984)(Kevin A. Bjorke) [Strategy].zip
+
+CoreWar v1.01 (1984)(Kevin Bjorke) [Strategy, Simulation].zip
+
+Crazy Eights (1984)(Les Davids) [Strategy, Cards].zip
+
+Crime and Punishment (1984)(Mindscape, Inc.) [Simulation, Strategy].zip
+
+Cutthroats r23 (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Cutthroats r23 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+DND [SW] (1984)(R.O. Software) [Role-Playing (RPG)].zip
+
+DND v1.10 [SW] (1984)(R.O. Software) [Role-Playing (RPG)].zip
+
+Dare-Devil (1984)(SofTron Software Co.) [Action].zip
+
+Davids Kong (1984)(Anonymous) [Action].zip
+
+Davids Kong (BASIC version) (1984)(Anonymous) [Action].zip
+
+Devastator (1984)(COMPUTE! Publications, Inc.) [Action].zip
+
+Devastator [a1] (1984)(COMPUTE! Publications, Inc.) [Action].zip
+
+Dice (1984)(Roy A. Wilson) [Strategy].zip
+
+Dig Dug [DC] (1984)(Datasoft, Inc.) [Action].zip
+
+Doppyworld (1984)(Doppelganger Adventures) [Adventure, Interactive Fiction].zip
+
+Dr. J and Larry Bird Go One on One [DC] (1984)(Electronic Arts, Inc.) [Sports].zip
+
+Dragonworld (1984)(Telarium Corp.) [Adventure, Interactive Fiction].zip
+
+Drug Wars (1984)(John E. Dell) [Adventure, Strategy].zip
+
+Dueling Starships vA.00.00 [SW] (1984)(Vince J. D-Angelo, Robert W. Dea) [Strategy, Action].zip
+
+Eamon Adventure Disk 1 - The Main Hall v1.1 [SW] (1984)(PC-SIG) [Adventure, Role-Playing (RPG)].zip
+
+Early Games - Piece of Cake (1984)(Springboard Software, Inc.) [Educational].zip
+
+Early Games for Young Children v4.0 (1984)(Counterpoint Software, Inc.) [Educational].zip
+
+Element Man (1984)(Compute! Publications, Inc.) [Educational].zip
+
+Encounter (1984)(Cory Bruening) [Action].zip
+
+Encounter [a1] (1984)(Cory Bruening) [Action].zip
+
+Encounter [o1] (1984)(Cory Bruening) [Action].zip
+
+Escape from Mars (1984)(Anonymous) [Adventure, Interactive Fiction].zip
+
+F-16 Early Deployment Airstrike Force [h1] (1984)(Epoch Hardware and Software Co.) [Action].zip
+
+Facemaker (Tandy) (1984)(Spinnaker Software Corporation) [Educational].zip
+
+Fahrenheit 451 (1984)(Trillium Corp.) [Adventure, Interactive Fiction].zip
+
+Fahrenheit 451 [a1] (1984)(Trillium Corp.) [Adventure, Interactive Fiction].zip
+
+Fifteen Game (1984)(Phillip R. Johnson) [Puzzle].zip
+
+Flightmare [SW] (1984)(Peter Adams) [Action].zip
+
+Flightmare [SW][a1] (1984)(Peter Adams) [Action].zip
+
+Flightmare [SW][a2] (1984)(Peter Adams) [Action].zip
+
+Flightmare [SW][b1] (1984)(Peter Adams) [Action].zip
+
+Flightmare [SW][o1] (1984)(Peter Adams) [Action].zip
+
+Flightmare [h1] (1984)(Peter Adams) [Action].zip
+
+Flightmare [tr Sp] [SW] (1984)(Peter Adams) [Action].zip
+
+Fly (1984)(Anonymous) [Simulation].zip
+
+Force 400 (1984)(Jim Baen Software) [Strategy].zip
+
+Freddys Rescue Roundup (1984)(IBM) [Action].zip
+
+Freddys Rescue Roundup [h1] (1984)(IBM) [Action].zip
+
+Frogger II- Three Deep [DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Funnels & Buckets v2.0 [SW] (1984)(Data Sage) [Educational].zip
+
+Fuutbol v2.2 [SW] (1984)(Keith Manter) [Strategy, Simulation].zip
+
+GATO (1984)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+GATO [a1] (1984)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+GATO [a2] (1984)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+GATO [a3] (1984)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+GATO [a4] (1984)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+Gertrudes Puzzles (1984)(IBM) [Educational].zip
+
+Gremlins [DC][h1] (1984)(Atarisoft) [Action].zip
+
+Gremlins [DC][h2] (1984)(Atarisoft) [Action].zip
+
+Gremlins [DC][h3] (1984)(Atarisoft) [Action].zip
+
+Grime (1984)(Damar, Mark Elendt) [Action].zip
+
+Grime [a1] (1984)(Damar, Mark Elendt) [Action].zip
+
+Grime [a2] (1984)(Damar, Mark Elendt) [Action].zip
+
+Guess the States and Capitals (1984)(J. Edward Volkstorf Jr.) [Educational, Trivia].zip
+
+Hard Hat Mack [DC] (1984)(Electronic Arts, Inc.) [Action].zip
+
+Hard Hat Mack [DC][h1][tr Sp] (1984)(Electronic Arts, Inc.) [Action].zip
+
+Hard Hat Mack [DC][h2] (1984)(Electronic Arts, Inc.) [Action].zip
+
+Hard Hat Mack [DC][h3] (1984)(Electronic Arts, Inc.) [Action].zip
+
+Hard Hat Mack [DC][h4] (1984)(Electronic Arts, Inc.) [Action].zip
+
+HellCat Ace [DC] (1984)(MicroProse Software, Inc.) [Simulation].img.zip
+
+Hitchhikers Guide to the Galaxy, The r56 (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Hitchhikers Guide to the Galaxy, The r56 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].img.zip
+
+Hitchhikers Guide to the Galaxy, The r58 (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Holy Grail, The [DC] (1984)(Hayden Software) [Adventure, Interactive Fiction].zip
+
+Hopper (1984)(Anonymous) [Action].zip
+
+Hopper [a1] (1984)(Anonymous) [Action].zip
+
+Hopper [o1] (1984)(Anonymous) [Action].zip
+
+Hulk, The (1984)(Load-N-Go Software) [Adventure, Interactive Fiction].zip
+
+Hulk, The [f1] (1984)(Load-N-Go Software) [Adventure, Interactive Fiction].zip
+
+IBMs Casino (color) (1984)(Anonymous) [Simulation].zip
+
+IBMs Casino (color) [a1] (1984)(Anonymous) [Simulation].zip
+
+IBM PC Blackjack (1984)(Anonymous) [Strategy, Cards].zip
+
+IBM PC Wheel of Fortune (1984)(Phil Katz) [Strategy].zip
+
+Icon- The Quest for the Ring (1984)(Macrocom) [Adventure].zip
+
+Icon- The Quest for the Ring [a1] (1984)(Macrocom) [Adventure].zip
+
+Icon- The Quest for the Ring [f1] (1984)(Macrocom) [Adventure].zip
+
+In The Chips [DC] (1984)(Creative Software) [Strategy, Simulation].zip
+
+Incunabula (1984)(Avalon Hill) [Simulation, Strategy].zip
+
+Infocom Four-In-One Sampler (1984)(Infocom, Inc.) [Adventure, Interactive Fiction, Compilation].img.zip
+
+Janitor Joe (1984)(Kevin Bales) [Action].zip
+
+Janitor Joe [a1] (1984)(Kevin Bales) [Action].zip
+
+Janitor Joe [a2] (1984)(Kevin Bales) [Action].zip
+
+Janitor Joe [a3] (1984)(Kevin Bales) [Action].zip
+
+Janitor Joe [b1] (1984)(Kevin Bales) [Action].zip
+
+Jet Pilot (1984)(Anonymous) [Simulation].zip
+
+Jungle Hunt [DC] (1984)(Atarisoft) [Action].zip
+
+Jungle Hunt [DC][h1] (1984)(Atarisoft) [Action].zip
+
+Kids on Keys (Tandy) (1984)(Spinnaker Software Corporation) [Educational].zip
+
+Kings Quest (PCjr) [DC] (1984)(Sierra On-Line, Inc.) [Adventure].img.zip
+
+Kings Quest [DC] (1984)(Sierra On-Line, Inc.) [Adventure].img.zip
+
+Kings Quest v1.01 (Tandy) [DC] (1984)(Sierra On-Line, Inc.) [Adventure].img.zip
+
+Klondike Solitaire v1.2 (1984)(Mouse Systems Corp.) [Strategy, Cards].zip
+
+Klondike Solitaire v1.2 [a1] (1984)(Mouse Systems Corp.) [Strategy, Cards].zip
+
+Klondyke Solitaire (1984)(Jeff Littlefield) [Strategy, Cards].zip
+
+Klondyke Solitaire [a1] (1984)(Jeff Littlefield) [Strategy, Cards].zip
+
+Learn to Add (1984)(Spinnaker Software Corporation) [Educational].zip
+
+Life (1984)(Anonymous) [Simulation].zip
+
+Lost Tomb [DC] (1984)(Datasoft, Inc.) [Action].zip
+
+MS-Trek [SW] (1984)(MapleLeaf Software) [Strategy].zip
+
+MYCHESS (1984)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+MYCHESS v1.2 (1984)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+Macks Domino Parlor [SW] (1984)(B. J. Ball) [Strategy].zip
+
+Matrix Madness (1984)(IBM) [Puzzle, Educational].zip
+
+Matrix Madness [a1] (1984)(IBM) [Puzzle, Educational].zip
+
+MicroLeague Baseball [DC] (1984)(MicroLeague Multimedia, Inc.) [Sports].img.zip
+
+Microsoft Flight Simulator v2.1 [DC] (1984)(Microsoft) [Simulation].zip
+
+Microsoft Flight Simulator v2.12 [DC] (1984)(Microsoft) [Simulation].img.zip
+
+Microsoft Flight Simulator v2.13 [DC] (1984)(Microsoft) [Simulation].img.zip
+
+Microsurgeon (PCjr) [DC] (1984)(Imagic) [Action, Educational].jrc.zip
+
+Mille Bornes (1984)(Pete Ridley, Richard Kaapke) [Strategy, Cards].zip
+
+Millionaire- The Stock Market Simulation v2.0 (1984)(Blue Chip Software) [Strategy, Simulation].zip
+
+Mind Prober (1984)(Human Edge, The) [Educational, Simulation].zip
+
+Mindshadow [DC] (1984)(Activision, Inc.) [Adventure].zip
+
+Mindwheel (1984)(Broderbund Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Monopolize [SW] (1984)(Frank R. Neal) [Strategy].zip
+
+Monopolize [a1][SW] (1984)(Frank R. Neal) [Strategy].zip
+
+Montezumas Revenge [DC] (1984)(BCI Software) [Action].zip
+
+Montezumas Revenge [h1][DC] (1984)(BCI Software) [Action].zip
+
+Montezumas Revenge [h2][DC] (1984)(BCI Software) [Action].zip
+
+Moptown Parade (1984)(Learning Company, The) [Educational].zip
+
+Mr. Cool (PCjr) [DC] (1984)(Sierra On-Line, Inc.) [Action].zip
+
+Mr. Cool [DC] (1984)(Sierra On-Line, Inc.) [Action].zip
+
+Murder on the Zinderneuf [DC] (1984)(Electronic Arts, Inc.) [Adventure].zip
+
+Mystery Master- Felony! (1984)(Thunder Mountain) [Strategy].zip
+
+Mystery Master- Murder by the Dozen (1984)(Mindscape, Inc.) [Strategy].zip
+
+NEMESIS, the Go Master (1984)(Bruce Wilcox) [Strategy].zip
+
+Nerm of Bemer (1984)(COMPUTE! Publications, Inc.) [Action].zip
+
+Notable Phantom [b1] (1984)(DesignWare) [Educational].zip
+
+Oils Well [DC][b1] (1984)(Sierra On-Line, Inc.) [Action].img.zip
+
+Othello v02b.07d (1984)(Anonymous) [Strategy].zip
+
+Out on a LEM (1984)(Jeff Bretz, John Clark Craig) [Action].zip
+
+Out on a LEM [a1] (1984)(Jeff Bretz, John Clark Craig) [Action].zip
+
+PC-RR (1984)(Lewis Software) [Simulation].zip
+
+PC-Slot Machine (1984)(Sheng Chung Liu) [Simulation].zip
+
+PC Pool Challenges (CGA only) [DC] (1984)(IBM) [Simulation, Sports].zip
+
+PC Pool Challenges [DC] (1984)(IBM) [Simulation, Sports].zip
+
+PC Pool v0.10 (1984)(Dale Jurich) [Simulation, Sports].zip
+
+PC Pool v0.10 [a1] (1984)(Dale Jurich) [Simulation, Sports].zip
+
+PC Pool v0.10 [a2] (1984)(Dale Jurich) [Simulation, Sports].zip
+
+PC Pool v0.10 [a3] (1984)(Dale Jurich) [Simulation, Sports].zip
+
+PC Pool v0.10 [a4] (1984)(Dale Jurich) [Simulation, Sports].zip
+
+PC Pool v0.10 [a5] (1984)(Dale Jurich) [Simulation, Sports].zip
+
+Pacman (Fr) (1984)(F. Bataille) [Action].zip
+
+Pictionaries (1984)(Compu-Teach Corporation) [Strategy].zip
+
+Picture Perfect (1984)(Methods & Solutions) [Educational].zip
+
+Pitfall II- Lost Caverns (PCjr) [DC] (1984)(Activision Publishing, Inc.) [Action, Adventure].jrc.zip
+
+Pitstop II [DC] (1984)(Epyx, Inc.) [Simulation, Racing - Driving].zip
+
+Pole Position (1984)(Namco) [Action, Simulation, Racing - Driving].zip
+
+Pole Position [a1] (1984)(Namco) [Action, Simulation, Racing - Driving].zip
+
+Pole Position [a2] (1984)(Namco) [Action, Simulation, Racing - Driving].zip
+
+Polymaze (1984)(Dan Rollins) [Strategy].zip
+
+Presidents Choice [DC] (1984)(Spinnaker Software Corporation) [Simulation, Strategy].img.zip
+
+Pro Manager (1985 Edition) (1984)(Avalon Hill) [Simulation, Sports].zip
+
+Q-bert (1984)(Parker Brothers) [Action].zip
+
+Quadrant (1984)(Leon Baradat) [Strategy].zip
+
+Quest, The (1984)(Penguin Software, Inc.) [Adventure].zip
+
+Quink (1984)(CBS Software) [Educational, Trivia].zip
+
+RAM! (1984)(Avalon Hill) [Strategy, Simulation].zip
+
+Racter (1984)(Mindscape, Inc.) [Simulation].zip
+
+Relentless Logic (1984)(Conway, Hong & Smith) [Strategy].zip
+
+Rendezvous With Rama (1984)(Trillium Corp.) [Adventure, Interactive Fiction].zip
+
+Ribit (1984)(Ddf) [Action].zip
+
+River Raid (PCjr) [DC] (1984)(Activision, Inc.) [Action].jrc.zip
+
+Roadrunner Rescue (1984)(IBM) [Action].zip
+
+Roadrunner Rescue [h1][b1] (1984)(IBM) [Action].zip
+
+Robot Odyssey (1984)(Learning Company, The) [Adventure, Educational].zip
+
+Robot Odyssey [a1] (1984)(Learning Company, The) [Adventure, Educational].zip
+
+Rogue- The Adventure Game v1.1 (1984)(Michael C. Toy, Kenneth C.R.C. Arnold) [Adventure, Role-Playing (RPG)].zip
+
+Rollo and the Brush Brothers [DC] (1984)(Windmill Software) [Action].zip
+
+Rollo and the Brush Brothers [a1][DC] (1984)(Windmill Software) [Action].zip
+
+Rollo and the Brush Brothers [a2][DC] (1984)(Windmill Software) [Action].zip
+
+Rollo and the Brush Brothers [h1][DC] (1984)(Windmill Software) [Action].zip
+
+Roulette v1.1 (1984)(Robert Dew) [Simulation].zip
+
+SNAKE- Ultimate Version (No) (1984)(Tom Kristensen) [Action].zip
+
+Sea Search v2.4 (1984)(Mark Data Products) [Adventure, Interactive Fiction].zip
+
+Seastalker r15 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Seastalker r16 (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Sexware (1984)(Challenge Software Co.) [Strategy, Trivia, Adult].zip
+
+Shamus [DC] (1984)(IBM) [Action, Adventure].zip
+
+Shamus [a1][DC] (1984)(IBM) [Action, Adventure].zip
+
+Shenanigans v2.2 (1984)(Mark Data Products) [Adventure, Interactive Fiction].zip
+
+Sierra Championship Boxing (1984)(Sierra On-Line, Inc.) [Sports].zip
+
+Sierra Championship Boxing [DC] (1984)(Sierra On-Line, Inc.) [Sports].zip
+
+Sierra Championship Boxing [DC][a1] (1984)(Sierra On-Line, Inc.) [Sports].zip
+
+Smashout (1984)(Tim McClarren) [Action].zip
+
+Snake (1984)(Peter Quinn, Bill Parker) [Action].zip
+
+Soko-Ban (1984)(Spectrum HoloByte, Inc.) [Strategy].zip
+
+Soko-Ban [a1] (1984)(Spectrum HoloByte, Inc.) [Strategy].zip
+
+Soko-Ban [a2] (1984)(Spectrum HoloByte, Inc.) [Strategy].zip
+
+Soko-Ban [a3] (1984)(Spectrum HoloByte, Inc.) [Strategy].zip
+
+Soko-Ban [a4] (1984)(Spectrum HoloByte, Inc.) [Strategy].zip
+
+Solitare (1984)(Anonymous) [Strategy, Cards].zip
+
+Sopwith (1984)(BMB Compuscience) [Action].zip
+
+Sopwith [a1] (1984)(BMB Compuscience) [Action].zip
+
+Sopwith [a2] (1984)(BMB Compuscience) [Action].zip
+
+Sopwith [a2][o1] (1984)(BMB Compuscience) [Action].zip
+
+Sopwith [a3] (1984)(BMB Compuscience) [Action].zip
+
+Sopwith [h1] (1984)(BMB Compuscience) [Action].zip
+
+Sopwith [h2] (1984)(BMB Compuscience) [Action].zip
+
+Sopwith [o1] (1984)(BMB Compuscience) [Action].zip
+
+Sopwith [o1][a1] (1984)(BMB Compuscience) [Action].zip
+
+Sorcerer r4 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Sorcerer r15 (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Sorcerer r15 [a1] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Spelling Grade 5 (1984)(American Educational Computer, Inc.) [Educational].zip
+
+Spelling Grade 6 (1984)(American Educational Computer, Inc.) [Educational].zip
+
+Spelling Grade 7 (1984)(American Educational Computer, Inc.) [Educational].zip
+
+Spider-Man v2.6 [a1][f1] (1984)(Load-N-Go Software) [Adventure].zip
+
+Spider-Man v2.6 [a2][f1] (1984)(Load-N-Go Software) [Adventure].zip
+
+Spider-Man v2.6 [f1] (1984)(Load-N-Go Software) [Adventure].zip
+
+Spitfire Ace [DC] (1984)(MicroProse Software, Inc.) [Simulation].img.zip
+
+Spy Hunter [f1][DC] (1984)(SEGA Enterprises Ltd.) [Action, Racing - Driving].zip
+
+StarShip- Invasion [SW] (1984)(Thinking Machine Associates) [Simulation].zip
+
+Star Traders (1984)(S.J. Singer) [Strategy].zip
+
+Stoneville Manor (1984)(Allan & Andrew Lee) [Adventure, Interactive Fiction].zip
+
+Sub Chase (1984)(Jeff Levering) [Action].zip
+
+Super Zaxxon [b1][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Surround (1984)(Grant M. Bright) [Action].zip
+
+Suspect r14 (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Suspect r14 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Suspect r14 [a1] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Switch the Railroad (1984)(Chris Torkildson) [Simulation, Strategy].zip
+
+TV and Cinema 101- Trivia from Talkies to Trekkies [DC] (1984)(IBM) [Trivia].img.zip
+
+Tag Team Wrestling (1984)(Data East USA, Inc.) [Action].zip
+
+Take Your Chances (1984)(Anonymous) [Strategy].zip
+
+Temple of Loth v4.2 (1984)(John Belew) [Adventure, Role-Playing (RPG)].zip
+
+These United States (1984)(IBM) [Trivia, Educational].zip
+
+These United States [a1] (1984)(IBM) [Trivia, Educational].zip
+
+Tinker Tales (1984)(Compu-Teach Corporation) [Educational].zip
+
+Touchdown Football (PCjr) [DC] (1984)(IBM) [Sports].img.zip
+
+Touchdown Football (Tandy) [DC] (1984)(IBM) [Sports].img.zip
+
+Tower of Mystery (1984)(COMPUTE! Publications, Inc.) [Adventure, Interactive Fiction].zip
+
+Tracer Sanction [DC] (1984)(Activision Publishing, Inc.) [Adventure, Interactive Fiction].zip
+
+Trains (Tandy) (1984)(Spinnaker Software Corporation) [Strategy, Simulation].zip
+
+Trivia 101-The introductory course [DC] (1984)(IBM) [Educational, Trivia].img.zip
+
+Trivia Fever (1984)(Professional Software, Inc.) [Trivia].zip
+
+Trolls Tale (CGA) [DC] (1984)(Sierra On-Line, Inc.) [Adventure].zip
+
+Trolls Tale [DC] (1984)(Sierra On-Line, Inc.) [Adventure].zip
+
+Trolls Tale [DC][a1] (1984)(Sierra On-Line, Inc.) [Adventure].zip
+
+Typing Tutor III (1984)(Simon & Schuster, Inc.) [Educational] [!].zip
+
+Typing Tutor III [a1] (1984)(Simon & Schuster, Inc.) [Educational].zip
+
+Typing Tutor III [a2] (1984)(Simon & Schuster, Inc.) [Educational].zip
+
+Vampires Castle Adventure (1984)(Anonymous) [Adventure, Interactive Fiction].zip
+
+Webster- The Word Game (1984)(CBS Software) [Educational].zip
+
+Wizard and the Princess, The [DC] (1984)(Sierra On-Line, Inc.) [Adventure, Interactive Fiction].img.zip
+
+Wizard of Ids WizType (1984)(Sierra On-Line, Inc.) [Action, Educational].zip
+
+Wizardry- Proving Grounds of the Mad Overlord [DC] (1984)(Sir-tech Software, Inc.) [Role-Playing (RPG)].img.zip
+
+Word Seeking (1984)(IBM) [Strategy, Puzzle].zip
+
+Wrecking Ball (1984)(Keypunch Software, Inc.) [Action].zip
+
+Xonix (1984)(Ilan Rav) [Action].zip
+
+Xonix [a1] (1984)(Ilan Rav) [Action].zip
+
+Xonix [h1] (1984)(Ilan Rav) [Action].zip
+
+Xonix v2.2 (1984)(Ilan Rav) [Action].zip
+
+Xonix v2.2 [o1] (1984)(Ilan Rav) [Action].zip
+
+Zaxon (Fr) (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Zaxxon [DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Zaxxon [a1][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Zaxxon [a2][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Zaxxon [b1][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Zaxxon [b2][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Zaxxon [b3][o1][DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Zaxxon [h1][DC] (Tandy) (1984)(SEGA Enterprises Ltd.) [Action].zip
+
+Zyll [DC] (1984)(IBM) [Adventure, Role-Playing (RPG)].zip
+
+Zyll [DC][a1] (1984)(IBM) [Adventure, Role-Playing (RPG)].zip
+
+
+8088_friendly - 1985
+------------------------------------------------------------
+target:	/Users/peteyoung/Downloads/oldskool.org/8088_friendly/1985
+source:	http://ftp.oldskool.org/pub/misc/Software/Games/8088-friendly/1985
+
+
+3 of a Kind (Pinball Construction Set) (1985)(MJL) [Action].zip
+
+8088 Othello (1985)(M.W. Bayley) [Strategy].zip
+
+A Fable (1985)(Stan Heller) [Adventure, Interactive Fiction].zip
+
+A Fable [a1] (1985)(Stan Heller) [Adventure, Interactive Fiction].zip
+
+A Mind Forever Voyaging r77 (1985)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+A Mind Forever Voyaging r77 [a1] (1985)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Adventures of Buckaroo Banzai Across the Eighth Dimension, The v3.87 (1985)(Adventure International) [Adventure, Interactive Fiction].zip
+
+Alpine Encounter [DC] (1985)(Random House, Inc.) [Adventure, Interactive Fiction].zip
+
+Amulet, The v2.4 (1985)(Numenor Microsystems) [Adventure, Interactive Fiction].zip
+
+Amulet of Yendor (1985)(Keypunch Software, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Antixonix (1985)(Pavlovsky, Gerasimov) [Action].zip
+
+Archeodroid (1985)(Home Computer Magazine) [Strategy].zip
+
+Armchair Quarterback v2.0 [SW] (1985)(Psuedonym Software) [Strategy, Sports].zip
+
+BANDIT (1985)(Anonymous) [Strategy].zip
+
+Balance Of Power [a1] (1985)(Mindscape, Inc.) [Simulation, Strategy].zip
+
+Baron- The Real Estate Simulation v2.2 (1985)(Blue Chip Software) [Strategy, Simulation].zip
+
+Beyond Castle Wolfenstein [DC] (1985)(Muse Software) [Action].zip
+
+Bird-Brain (1985)(Anonymous) [Action].zip
+
+Blackjack [SW] (1985)(JP Enterprises) [Strategy, Cards].zip
+
+Blackjack v1.2 (De) (1985)(Karl-Ernst Heidtkamp) [Strategy, Cards].zip
+
+Boogie (1985)(Anonymous) [Action].zip
+
+Borrowed Time [DC] (1985)(Activision, Inc.) [Adventure].img.zip
+
+Boulder Dash II- Rockfords Revenge [DC] (1985)(First Star Software, Inc.) [Action].zip
+
+Bouncy Bee Learns Letters v1.01 (1985)(IBM) [Educational].zip
+
+Brimstone (1985)(Broderbund Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Castle Adventure [SW] (1985)(Kevin Bales) [Action, Adventure].zip
+
+Castle Adventure [SW][a1] (1985)(Kevin Bales) [Action, Adventure].zip
+
+Castle Adventure [SW][a2] (1985)(Kevin Bales) [Action, Adventure].zip
+
+Castle Adventure [h1] (1985)(Kevin Bales) [Action, Adventure].zip
+
+Cave Girl Clair (1985)(Addison-Wesley Publishing Co., Inc.) [Adventure].zip
+
+Cavequest v1.1 [SW] (1985)(Lightwave Consultants) [Action, Role-Playing (RPG)].zip
+
+Cavequest v1.1 [SW][a1] (1985)(Lightwave Consultants) [Action, Role-Playing (RPG)].zip
+
+Caverns of Bob (1985)(Bob Robert) [Action].zip
+
+Caverns of Gink (1985)(Tony Ginko) [Action].zip
+
+Chem Lab (1985)(Simon & Schuster) [Strategy, Educational].zip
+
+Chess v1.01 (1985)(Psion) [Strategy, Chess].zip
+
+Chess v1.01 (De) (1985)(Psion) [Strategy, Chess].zip
+
+Chess v1.01 (De) [h1] (1985)(Psion) [Strategy, Chess].zip
+
+Chess v1.01 [h1] (1985)(Psion) [Strategy, Chess].zip
+
+Chess v1.01 [h2] (1985)(Psion) [Strategy, Chess].zip
+
+Chess v1.01 [h3] (1985)(Psion) [Strategy, Chess].zip
+
+Chess v2.13 (1985)(Psion) [Strategy, Chess].zip
+
+Chess v2.13 (Fr) (1985)(Psion) [Strategy, Chess].zip
+
+Chester (1985)(A.I. Software) [Strategy].zip
+
+Combat- Conflict Simulation (PCjr or Tandy BASIC) (1985)(PC-SIG) [Strategy].zip
+
+Computer Baseball v1.2 (1985)(Strategic Simulations, Inc.) [Sports].zip
+
+Computer Novel Construction Set (1985)(Hayden Software) [Adventure, Educational].zip
+
+Creative Contraptions (1985)(Bantam Electronic Publishing) [Action, Educational].zip
+
+Cubic Tic Tac Toe (1985)(Silver Bullet Systems) [Strategy].zip
+
+Cyrus (1985)(Intelligent Chess Software) [Strategy, Chess].zip
+
+Cyrus [tr Ru] (1985)(Intelligent Chess Software) [Strategy, Chess].zip
+
+Dam Busters, The (1985)(Accolade, Inc.) [Action, Simulation, Strategy].zip
+
+Dam Busters, The [a1] (1985)(Accolade, Inc.) [Action, Simulation, Strategy].zip
+
+Dam Busters, The [a2] (1985)(Accolade, Inc.) [Action, Simulation, Strategy].zip
+
+Decision in the Desert [DC] (1985)(MicroProse Software, Inc.) [Strategy].zip
+
+Detective Q (1985)(Anonymous) [Adventure, Simulation].zip
+
+Disk Crash [SW] (1985)(Gary Quiring) [Action].zip
+
+Dope Wars (1985)(Happy Hacker Foundation) [Strategy, Simulation].zip
+
+Doppleganger (1985)(MindImage Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Dragonslayer (1985)(E. L. Cheney) [Adventure, Interactive Fiction].zip
+
+Draw Poker [SW] (1985)(David Sherville) [Strategy, Cards].zip
+
+Driver (1985)(Carey Nash) [Action].zip
+
+Dungeon Quest (1985)(Bill Chelmowski) [Adventure, Role-Playing (RPG)].zip
+
+Emergency Mission [SW] (1985)(Richard Brown) [Action].zip
+
+Empire- The Wargame of the Century v5.00RB Release 1.1 (1985)(Jim and Dave Beveridge) [Strategy].zip
+
+Empire- The Wargame of the Century v5.00RB Release 1.1 [o1] (1985)(Jim and Dave Beveridge) [Strategy].zip
+
+Empire v1.9 (1985)(Northwest Software) [Strategy, Simulation].zip
+
+Escape from Mayas Kingdom [SW] (1985)(Wayne Boyd) [Adventure, Interactive Fiction].zip
+
+Essex (1985)(Broderbund Software, Inc.) [Adventure].zip
+
+F-15 Strike Eagle [DC] (1985)(MicroProse Software, Inc.) [Action, Simulation].zip
+
+F-15 Strike Eagle [DC][h1] (1985)(MicroProse Software, Inc.) [Action, Simulation].zip
+
+F-15 Strike Eagle v402.00 [DC] (1985)(MicroProse Software, Inc.) [Action, Simulation].img.zip
+
+F-15 Strike Eagle v402.01 [DC] (1985)(MicroProse Software, Inc.) [Action, Simulation].img.zip
+
+Fantastic Four (1985)(Load-N-Go Software) [Adventure].zip
+
+Fantastic Four [h1] (1985)(Load-N-Go Software) [Adventure].zip
+
+Fire Fighter [SW] (1985)(Eben Sprinsock) [Strategy].zip
+
+Fire Fighter [SW][a1] (1985)(Eben Sprinsock) [Strategy].zip
+
+Fleet Sweep v1.15 [SW] (1985)(Morse Associates) [Action].zip
+
+Fleet Sweep v1.15 [SW][h1] (1985)(Morse Associates) [Action].zip
+
+Fooblitzky (1985)(Infocom, Inc.) [Strategy].zip
+
+Forbidden Castle (1985)(Mindscape, Inc.) [Adventure].zip
+
+Fortune Teller - The Electronic Crystal Ball (1985)(Xyton) [Simulation, Educational][!].zip
+
+Game of Kalah, The v1.6 (1985)(Brian Sietz) [Strategy].zip
+
+Ghost Town (1985)(E. L. Cheney) [Adventure, Interactive Fiction].zip
+
+Ghostbusters (PCjr, Tandy 1000) [DC] (1985)(Activision, Inc.) [Action] [!].zip
+
+Ghostbusters [DC] (1985)(Activision, Inc.) [Action].img.zip
+
+Gin! (1985)(Pontefract Systems) [Strategy].zip
+
+Global Thermonuclear War (PCjr or Tandy BASIC) (1985)(PC-SIG) [Strategy].zip
+
+Golden Oldies Volume 1- Computer Software Classics v2.3 (1985)(Electronic Arts, Inc., Software Toolworks, Inc., The) [Compilation][!].zip
+
+Golden Oldies Volume 1- Computer Software Classics v2.4t (1985)(Electronic Arts, Inc., Software Toolworks, Inc., The) [Compilation].zip
+
+Golfs Best v4n (1985)(Luke Hamaty) [Sports].zip
+
+Goroscop (Ru) (1985)(Xyton) [Simulation, Educational].zip
+
+Gulf Strike (1985)(Avalon Hill) [Strategy].zip
+
+Hacker (1985)(Activision, Inc.) [Adventure, Strategy].zip
+
+Hacker [a1] (1985)(Activision, Inc.) [Adventure, Strategy].zip
+
+Hacker [a2] (1985)(Activision, Inc.) [Adventure, Strategy].zip
+
+Haunted Mission Adventure (1985)(Steven Neighorn) [Adventure, Interaction Fiction].zip
+
+Heathkit DND (1985)(R. Wild) [Role-Playing (RPG)].zip
+
+Highroller (1985)(AOKI Software Technology) [Strategy, Cards].zip
+
+Horse Racing v3.10 [SW] (1985)(Buzz Borries) [Simulation].zip
+
+I, Damiano- The Wizard of Partestrada [DC] (1985)(Bantam Electronic Publishing) [Adventure].zip
+
+IBMs Casino (mono) (1985)(Anonymous) [Simulation].zip
+
+IQ Builder (1985)(Personal Data Services, Inc.) [Educational].zip
+
+Inca [DC] (1985)(Hayden Software) [Adventure, Interactive Fiction].img.zip
+
+International Bridge Contractors (1985)(Greystone Software) [Simulation].zip
+
+Invaders (1985)(Anonymous) [Action].zip
+
+James Bond 007- A View to a Kill (1985)(Mindscape, Inc.) [Adventure, Interactive Fiction].zip
+
+James Bond 007- A View to a Kill [a1] (1985)(Mindscape, Inc.) [Adventure, Interactive Fiction].zip
+
+Jenny of the Prairie (1985)(Addison-Wesley Publishing Co., Inc.) [Adventure].zip
+
+Jet, The (1985)(subLOGIC) [Simulation].zip
+
+Jet v2.0 (1985)(subLOGIC) [Simulation].zip
+
+Jet v2.12 (1985)(subLOGIC) [Simulation].zip
+
+Keno [SW] (1985)(Crossbar Software Systems) [Strategy].zip
+
+Landmine (1985)(Larry Ludwick) [Strategy].zip
+
+Lapi (1985)(D. Pavlovsky, M. Tamminene) [Action].zip
+
+Last Warrior, The (1985)(COMPUTE! Publications, Inc.) [Action].zip
+
+Last Warrior, The [a1] (1985)(COMPUTE! Publications, Inc.) [Action].zip
+
+Lords of Conquest (1985)(Electronic Arts, Inc.) [Strategy].zip
+
+Lottery (1985)(E. L. Cheney) [Adventure, Interactive Fiction].zip
+
+Lottery (test version) (1985)(E. L. Cheney) [Adventure, Interactive Fiction].zip
+
+M.U.L.E. [DC] (1985)(IBM) [Action, Strategy].img.zip
+
+Madball [SW] (1985)(Microtec) [Action].zip
+
+Magic Spells (1985)(Learning Company, The) [Educational].zip
+
+Maxgame (1985)(Max Acid) [Action].zip
+
+Microsoft Flight Simulator- Scenery Disk 01 [DC] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 02 [DC] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 03 [DC] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 04 [DC] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 05 [DC] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 06 [DC] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 07 [DC] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 09 [DC][b1] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 11 [DC] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator- Scenery Disk 12 [DC][b1] (1985)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator v2.12 (Tandy) [DC] (1985)(Microsoft) [Simulation].img.zip
+
+Mindbuster (1985)(Anonymous) [Puzzle].zip
+
+Mine Field v1.04 (1985)(Everett Kaser) [Strategy].zip
+
+Mist, The (1985)(Mindscape, Inc.) [Adventure].zip
+
+Mist, The [a1] (1985)(Mindscape, Inc.) [Adventure].zip
+
+Monopoly II [SW] (1985)(Nick Hoops) [Strategy].zip
+
+Monopoly v4.0 (1985)(Don Phillip Gibson) [Strategy].zip
+
+Monopoly v4.1 (1985)(Don Phillip Gibson) [Strategy].zip
+
+Monopoly v5.1 (1985)(Don Phillip Gibson) [Strategy].zip
+
+Monopoly v5.5 (1985)(Don Phillip Gibson) [Strategy].zip
+
+Mummies (1985)(Iain W. Brown) [Action].zip
+
+NCR Golf (1985)(NCR Corp.) [Sports].zip
+
+Naval War Simulator [SW] (1985)(Shadow Mountain Software) [Strategy].zip
+
+Nine Princes in Amber (1985)(Telarium Corp.) [Adventure, Interactive Fiction].zip
+
+Nuclear Sub Adventure [SW] [o1] (1985)(U.S. Digital Corporation) [Adventure, Interactive Fiction].zip
+
+Operation Market Garden- Drive on Arnhem, September 1944 (1985)(Strategic Simulations, Inc.) [Simulation, Strategy, War].zip
+
+Orbital Defender v5.1.1 (1985)(Emerald Valley Publishing Co.) [Action].zip
+
+Othello v1.42 [SW] (1985)(Jon Shemitz) [Strategy].zip
+
+Othello v1.42 [SW][h1] (1985)(Jon Shemitz) [Strategy].zip
+
+Over-Reaction (1985)(Home Computer Magazine) [Simulation].zip
+
+PC-Arena Chess [SW] (1985)(Mike & Jim Co) [Strategy].zip
+
+PC-Arena Othello [SW] (1985)(Mike & Jim Co) [Strategy].zip
+
+PC-Gammon (1985)(Viking Software) [Strategy].zip
+
+PC-Hack v1.03 (1985)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+
+PC-Hack v1.03 [a1] (1985)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+
+PCChess v1.3 (1985)(M.J. Carpino) [Strategy, Chess].zip
+
+PC Pillbox (1985)(Jim Schings) [Strategy, Action].zip
+
+Perry Mason- The Case of the Mandarin Murder (1985)(Telarium Corp.) [Adventure, Simulation, Strategy].zip
+
+Personal Touch-Typing (1985)(CPT Corporation) [Action, Educational].zip
+
+Pinball Construction Set [DC] (1985)(Electronic Arts, Inc.) [Action].zip
+
+Pinball Construction Set [DC][b1] (1985)(Electronic Arts, Inc.) [Action].zip
+
+Pinball Tables (Pinball Construction Set) (1985)(Robert G. Hays) [Action, Compilation].zip
+
+Pure-Stat Baseball (1985)(Software Simulations, Inc.) [Sports, Simulation].zip
+
+Pylon Racer (demo) (1985)(Mind Systems Corp.) [Action, Simulation].zip
+
+Rambo- First Blood Part II (1985)(Mindscape, Inc.) [Adventure].zip
+
+Rebound (1985)(COMPUTE! Publications, Inc.) [Action].zip
+
+Reflex Point (1985)(Eric Iwasaki) [Action].zip
+
+Reversi [SW] (1985)(James Oh & Associates) [Strategy].zip
+
+Robotron- 2084 [h1][DC] (1985)(Atarisoft) [Action].zip
+
+Rockys Boots v1.6 (1985)(Learning Company, The) [Strategy, Educational].zip
+
+Rogue- The Adventure Game v1.49 (1985)(Epyx, Inc.) [Role-Playing (RPG)].zip
+
+SGames- Artillery, Bomber, Mastermind (1985)(Anonymous) [Action, Strategy, Compilation].zip
+
+Sam Spade [SW] (1985)(Sanborn Software Systems) [Adventure, Strategy].zip
+
+Sea Speller [f1][DC] (1985)(Fisher-Price) [Educational].zip
+
+Seven Cities Of Gold, The [DC][b1] (1985)(Electronic Arts, Inc.) [Strategy].img.zip
+
+Sherlock Holmes- Another Bow [DC] (1985)(Bantam Electronic Publishing) [Adventure].zip
+
+Sierra Championship Boxing [DC] (1985)(Sierra On-Line, Inc.) [Sports].img.zip
+
+Silent Service (1985)(MicroProse Software, Inc.) [Simulation].zip
+
+Silent Service [DC] (1985)(MicroProse Software, Inc.) [Simulation].img.zip
+
+Silly Master Blaster (Pinball Construction Set) (1985)(Anonymous) [Action].zip
+
+Silly Master Blaster [a1] (Pinball Construction Set) (1985)(Anonymous) [Action].zip
+
+Silly Master Blaster [o1] (Pinball Construction Set) (1985)(Anonymous) [Action].zip
+
+Silly Master Blaster [o2] (Pinball Construction Set) (1985)(Anonymous) [Action].zip
+
+Silly Master Blaster [o3] (Pinball Construction Set) (1985)(Anonymous) [Action].zip
+
+Skiing (1985)(Rick Dean) [Action].zip
+
+Skiing [a1] (1985)(Rick Dean) [Action].zip
+
+Sky Wolf (1985)(Craig C. Reneau) [Action].zip
+
+Slither (1985)(Brian Bakken) [Action].zip
+
+Snake (No) (1985)(Roar A. Lauritzsen) [Action].zip
+
+Softporn II (1985)(Anonymous) [Simulation, Adult].zip
+
+Solitaire (1985)(Allyn Wade) [Strategy, Cards].zip
+
+Solitaire [a1] (1985)(Allyn Wade) [Strategy, Cards].zip
+
+Solitare (1985)(Bill Franklin) [Strategy, Cards].zip
+
+Solo Flight [DC] (1985)(MicroProse Software, Inc.) [Simulation].zip
+
+Space Adventure v4.0 (1985)(Bill Pogue) [Action].zip
+
+Space Caverns (1985)(Compute! Publications, Inc.) [Action].zip
+
+Space Commanders II (1985)(ajf) [Action].zip
+
+Spacewar v1.50 [SW] (1985)(Bill Seiler) [Action].zip
+
+Spacewar v1.50 [a1][SW] (1985)(Bill Seiler) [Action].zip
+
+Spacewar v1.50 [o1][SW] (1985)(Bill Seiler) [Action].zip
+
+Spellbreaker r63 (1985)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Spellbreaker r87 (1985)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Star Fleet I- The War Begins v2.0 (1985)(Cygnus Multimedia, Interstel) [Strategy].zip
+
+Star Trek- The Kobayashi Alternative (1985)(Simon & Schuster Interactive) [Adventure, Interactive Fiction].zip
+
+Star Trek- The Kobayashi Alternative [a1] (1985)(Simon & Schuster Interactive) [Adventure, Interactive Fiction].zip
+
+Star Turkey (1985)(Peter Schweiss) [Strategy].zip
+
+Stellar Invasion (1985)(Bearbyte Software) [Strategy].zip
+
+Stickybear Reading [DC] (1985)(Optimum Resource, Inc.) [Educational].img.zip
+
+Strategy Games (1985)(Keypunch Software, Inc.) [Simulation, Strategy, Compilation].zip
+
+Striker v1.2 [SW] (1985)(Derek Williams) [Action].zip
+
+Striker v1.2 [SW][a1] (1985)(Derek Williams) [Action].zip
+
+Striker v1.2 [SW][a2] (1985)(Derek Williams) [Action].zip
+
+Striker v1.2 [SW][h1] (1985)(Derek Williams) [Action].zip
+
+Striker v1.2 [SW][o1] (1985)(Derek Williams) [Action].zip
+
+Striker v1.2 [SW][o2] (1985)(Derek Williams) [Action].zip
+
+Strip Poker- A Sizzling Game of Chance (1985)(Artworx Software Co, Inc.) [Strategy, Cards, Adult].zip
+
+Strip Poker- A Sizzling Game of Chance (Addon Players Data Disk) (1985)(Artworx Software Co, Inc.) [Strategy, Cards, Adult].zip
+
+Strip Poker- A Sizzling Game of Chance [a1][b1] (1985)(Artworx Software Co, Inc.) [Strategy, Cards, Adult].zip
+
+Strip Poker- A Sizzling Game of Chance [a2] (1985)(Artworx Software Co, Inc.) [Strategy, Cards, Adult].zip
+
+Styx [h1][DC] (1985)(Windmill Software) [Action].zip
+
+Super Football Sunday [DC] (1985)(Avalon Hill) [Sports].img.zip
+
+Telengard v5.03 (1985)(Avalon Hill) [Adventure, Role-Playing (RPG)].zip
+
+Telengard v5.03 [h1] (1985)(Avalon Hill) [Adventure, Role-Playing (RPG)].zip
+
+Telengard v5.04 (1985)(Avalon Hill) [Adventure, Role-Playing (RPG)].zip
+
+Temple of Apshai Trilogy (1985)(Epyx, Inc., Keypunch Software, Inc.) [Adventure, Role-Playing (RPG), Compilation].zip
+
+Tennis (1985)(Imagic) [Simulation, Sports].zip
+
+Tennis (Fr) (1985)(Fil And Dl Research) [Simulation, Sports].zip
+
+Tennis (Fr) (1985)(Imagic) [Simulation, Sports].zip
+
+Tennis [a1] (1985)(Imagic) [Simulation, Sports].zip
+
+Terror in the Ice Caverns [SW] (1985)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+Timothy Learys Mind Mirror [DC] (1985)(Electronic Arts, Inc.) [Simulation].zip
+
+Torpedo Alley v5.3.1 (1985)(Emerald Valley Publishing Co.) [Action].zip
+
+Treasure Island (1985)(Windham Classics) [Adventure, Interactive Fiction].zip
+
+Trek v2.3 [SW] (1985)(Carl McLawhorn) [Strategy].zip
+
+Turbo Bridge (1985)(Anonymous) [Strategy, Cards].zip
+
+Turbo Chess (1985)(Borland International) [Strategy, Chess].zip
+
+Turbo Gomoku (1985)(Borland International) [Strategy].zip
+
+Turbo Gomoku [h1] (1985)(Borland International) [Strategy].zip
+
+Tycoon- The Commodity Market Simulation v2.3 (1985)(Blue Chip Software) [Strategy, Simulation].zip
+
+Voodoo Island (1985)(Mindscape, Inc.) [Adventure, Interactive Fiction].zip
+
+Vortex Factor, The v1.2 (1985)(Mark Data Products) [Adventure].zip
+
+Wildcatter (1985)(Anonymous) [Strategy].zip
+
+Willy The Worm [SW] (1985)(Alan Farmer) [Action].zip
+
+Willy The Worm v2.0 [SW] (1985)(Alan Farmer) [Action].zip
+
+Winnie the Pooh in the Hundred Acre Wood (1985)(Sierra On-Line, Inc.) [Adventure].zip
+
+Wishbringer r68 (1985)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Wishbringer r69 (1985)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Witching Hour, The (1985)(COMPUTE! Publications, Inc.) [Strategy].zip
+
+Wizards Crown (1985)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Wizards Crown [a1] (1985)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Wizards Crown [a2] (1985)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Wizard of Oz, The (1985)(Telarium) [Adventure].zip
+
+Wizard of Oz, The [a1] (1985)(Telarium) [Adventure].zip
+
+Wizard of Wall Street v1.02 (1985)(Synapse Software Corporation) [Strategy, Simulation].zip
+
+Wizard of Wall Street v1.10 (1985)(Synapse Software Corporation) [Strategy, Simulation][!].zip
+
+Worlds Greatest Baseball Game, The [DC] (1985)(Epyx, Inc.) [Sports].zip
+
+Worm, The (1985)(Deyan Rudev) [Action].zip
+
+Yahtzee (1985)(Patrick Leabo) [Strategy].zip
+
+Yatzy (No) (1985)(Jan Ivar Gundersen) [Strategy].zip
+
+cRiMe [SW] (1985)(David W. Nilsen) [Adventure].zip
+
+
+8088_friendly - 1986
+------------------------------------------------------------
+target:	/Users/peteyoung/Downloads/oldskool.org/8088_friendly/1986
+source:	http://ftp.oldskool.org/pub/misc/Software/Games/8088-friendly/1986
+
+
+3 Card High Low Poker (1986)(Ken Firch) [Strategy, Cards].zip
+
+ADVSYS - An Adventure Writing System v1.2 (1986)(David Betz) [Interactive Fiction, Editor].zip
+
+Adventure Games (1986)(Public Brand Software) [Adventure, Compilation].zip
+
+Adventures of Alice Who Went Through the Looking-Glass and Came Back Though Not Much Changed, The (1986)(Douglas A. Asherman) [Adventure, Interactive Fiction].zip
+
+Adventures of Alice Who Went Through the Looking-Glass and Came Back Though Not Much Changed, The [a1] (1986)(Douglas A. Asherman) [Adventure, Interactive Fiction].zip
+
+Aeromathics (1986)(IBM) [Educational].zip
+
+African Desert Campaign v1.5B (1986)(Matt Kaufman) [Strategy, War].zip
+
+African Desert Campaign v1.5B [a1] (1986)(Matt Kaufman) [Strategy, War].zip
+
+Alex Higgins World Snooker (Multi-3) (1986)(Amstrad) [Sports, Simulation].zip
+
+Algebra Drills (1986)(IBM) [Educational].zip
+
+Americas Cup Yacht Racing Simulator (1986)(Geoff. Brayford & Associates Pty. Ltd.) [Simulation].zip
+
+Americas Cup Yacht Racing Simulator [a1] (1986)(Geoff. Brayford & Associates Pty. Ltd.) [Simulation].zip
+
+American Challenge- A Sailing Simulation, The (1986)(Mindscape, Inc.) [Simulation, Sports, Racing - Driving].zip
+
+Animal Math (1986)(Donald L. Pavia) [Educational].zip
+
+Arcade 1 v1.2 (1986)(Keypunch Software, Inc.) [Action, Compilation].zip
+
+Arcade II v1.3 (1986)(Keypunch Software, Inc.) [Arcade, Compilation].zip
+
+Arcade II v1.3 [a1] (1986)(Keypunch Software, Inc.) [Arcade, Compilation].zip
+
+Archery (1986)(Brian Blankenship) [Action].zip
+
+Arcticfox (1986)(Electronic Arts, Inc.) [Action, Simulation].zip
+
+Arcticfox [a1] (1986)(Electronic Arts, Inc.) [Action, Simulation].zip
+
+Arcticfox [h1] (1986)(Electronic Arts, Inc.) [Action, Simulation].zip
+
+Arcticfox [h2][b1] (1986)(Electronic Arts, Inc.) [Action, Simulation].zip
+
+Artillery (1986)(Anonymous) [Strategy].zip
+
+Baccarat [SW] (1986)(Raymond M. Buti) [Strategy].zip
+
+Backgammon (1986)(Anonymous) [Strategy].zip
+
+Bad-Bad (1986)(Jonathan Stanley) [Adventure, Adult].zip
+
+Ballyhoo r97 (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Ballyhoo r97 [a1] (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Bank Street Music Writer (1986)(Mindscape, Inc.) [Educational].zip
+
+Baseball Fanatic (1986)(Performing Arts Software Inc.) [Sports].zip
+
+Batalia (1986)(Right Brothers, The) [Action].zip
+
+Battle Ground [SW] (1986)(MVP Software) [Strategy, Simulation].zip
+
+Battle Ground [SW][a1] (1986)(MVP Software) [Strategy, Simulation].zip
+
+Battle Ground [SW][a2] (1986)(MVP Software) [Strategy, Simulation].zip
+
+Battle of Antietam v1.1 (1986)(Strategic Simulations, Inc.) [Simulation, Strategy, War].zip
+
+Battleship (1986)(Mark Greer) [Strategy].zip
+
+Battleship v1.6 (1986)(D. T. Hamilton) [Strategy].zip
+
+Beast (1986)(Dan Baker) [Action, Strategy].zip
+
+Beast (De) (1986)(Dan Baker) [Action].zip
+
+Begin v1.4 (1986)(Clockwork Software) [Strategy, Simulation].zip
+
+Berzerk (1986)(Anonymous) [Action].zip
+
+Beyond the Titanic [SW] (1986)(Apogee Software, Ltd.) [Adventure, Interactive Fiction].zip
+
+Beyond the Titanic [SW][a1] (1986)(Apogee Software, Ltd.) [Adventure, Interactive Fiction].zip
+
+Big Blue Disk #01 (1986)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #04 (1986)(Softdisk Publishing) [Compilation].zip
+
+Biker Dave (1986)(COMPUTE! Publications, Inc.) [Action].zip
+
+Bingo (1986)(Les Penner) [Simulation].zip
+
+Blockade v2.01 (1986)(Don Laabs) [Action].zip
+
+Bob Winner (1986)(Loriciels) [Action, Adventure].zip
+
+Bob Winner (Fr) (1986)(Loriciels) [Action, Adventure].zip
+
+Bop N Wrestle (1986)(Mindscape, Inc.) [Sports].zip
+
+Bop N Wrestle [a1] (1986)(Mindscape, Inc.) [Sports].zip
+
+Bouncing Babies [f1][SW] (1986)(Dave Baskin) [Action].zip
+
+Brainscape v1.2 (1986)(Lynne Ostergren & W. Jeffrey Wilson) [Adventure, Interactive Fiction].zip
+
+Breakers (1986)(Broderbund Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Breakout [SW] (1986)(Hal Strausberg) [Action].zip
+
+Bullet (1986)(Peter Kahn) [Action].zip
+
+Business Simulator (1986)(Reality Development Corp.) [Strategy, Simulation].zip
+
+By Fire & Sword (1986)(Avalon Hill) [Simulation, War].zip
+
+California Draw Low-Ball v1.01 (1986)(Raymond M. Buti) [Strategy, Cards].zip
+
+Cardiac Arrest! [SW] (1986)(Mad Scientist Software) [Strategy, Simulation].zip
+
+Carlsons Icosahedron [SW] (1986)(Robert Carlson) [Strategy].zip
+
+Castaway [SW] (1986)(ButtonWare, Inc.) [Adventure, Interactive Fiction].zip
+
+Championship Baseball (1986)(Activision, Inc.) [Sports].zip
+
+Championship Golf- The Great Courses of the World - Volume One- Pebble Beach (1986)(Gamestar) [Simulation, Sports].zip
+
+Championship Golf- The Great Courses of the World - Volume One- Pebble Beach [DC] (1986)(Gamestar) [Simulation, Sports].img.zip
+
+Championship Golf- The Great Courses of the World - Volume One- Pebble Beach [DC][a1] (1986)(Gamestar) [Simulation, Sports].img.zip
+
+Chessmaster 2000, The (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+Chessmaster 2000, The [a1] (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+Chessmaster 2000, The [a2] (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+Chessmaster 2000, The v1.01 (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+Chessmaster 2000, The v1.01 [a1] (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+Chessmaster 2000, The v1.03 (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+Chessmaster 2000, The v1.06 (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+China Sea Trader [SW] (1986)(Roland Haley) [Strategy].zip
+
+Chinese Chess (1986)(Anonymous) [Strategy, Chess].zip
+
+Christian Text Adventure #1 (1986)(Bob Nance) [Adventure, Interactive Fiction].zip
+
+Clockgam (1986)(Donald L. Pavia) [Educational].zip
+
+Computer Scrabble (1986)(Leisure Genius) [Strategy].zip
+
+Conflict in Vietnam v431.01 [DC] (1986)(MicroProse Software, Inc.) [Simulation, Strategy].zip
+
+Connect 4 (1986)(Brad Thurber) [Strategy].zip
+
+Corporation, The (1986)(Anonymous) [Strategy, Simulation].zip
+
+Crimson Crown, The (1986)(Polarware) [Adventure, Interactive Fiction].zip
+
+Crimson Crown, The [a1] (1986)(Polarware) [Adventure, Interactive Fiction].zip
+
+Crosscheck (1986)(Datasoft, Inc.) [Strategy].zip
+
+Crusade in Europe v421.03 [DC] (1986)(MicroProse Software, Inc.) [Strategy].zip
+
+DND v1.2 [SW] (1986)(R.O. Software) [Role-Playing (RPG)].zip
+
+DND v1.12 [SW] (1986)(R.O. Software) [Role-Playing (RPG)].zip
+
+David Ahls Basic Computer Adventures (1986)(Microsoft Press) [Adventure, Interactive Fiction, Compilation].zip
+
+Deena of Koloni (1986)(E. L. Cheney) [Adventure, Interactive Fiction].zip
+
+Desert Rats (1986)(Cases Computer Simulations) [Strategy, Simulation].zip
+
+Diamond Digger (1986)(Keypunch Software, Inc.) [Action].zip
+
+Dog Star (1986)(Lance Micklus) [Adventure, Interactive Fiction].zip
+
+Domino (1986)(DYNACOMP, Inc.) [Strategy].zip
+
+Donald Ducks Playground [DC] (1986)(Sierra On-Line, Inc.) [Educational].img.zip
+
+Donald Ducks Playground [DC][b1] (1986)(Sierra On-Line, Inc.) [Educational].img.zip
+
+Dr. Ruths Computer Game of Good Sex (1986)(Victory Games, Inc.) [Educational, Trivia, Adult].zip
+
+Dragons- A Challenge in Chivalry (1986)(Capital PC User Group, Inc.) [Action].zip
+
+Draw Poker v1.01 [SW] (1986)(Raymond M. Buti) [Strategy, Cards].zip
+
+Draw Poker v1.2 [SW] (1986)(David Sherville) [Strategy, Cards].zip
+
+EGA-Roids [SW] (1986)(Designer Software) [Action].zip
+
+Electronic Grammar- Parts of Speech (1986)(IBM) [Educational].zip
+
+Elevator (1986)(Wordworks Software) [Action].zip
+
+Empire of the Over-Mind (1986)(Avalon Hill) [Adventure, Interactive Fiction].zip
+
+Empire v1.10 (1986)(Northwest Software) [Strategy, Simulation].zip
+
+Enchanted Castle r1 (1986)(Michael R. Wilk) [Adventure, Interactive Fiction].zip
+
+Escape from Soviet Science and Detention Base (1986)(Menco, Inc.) [Adventure, Interactive Fiction].zip
+
+Fellowship of the Ring, The (1986)(Addison-Wesley Publishing Company, Inc.) [Adventure, Interactive Fiction].zip
+
+Fenix (1986)(Robert Kemmetmueller) [Action].zip
+
+Five-A-Side Indoor Soccer [DC] (1986)(Mastertronic Group Ltd.) [Action, Sports].zip
+
+Football (1986)(subLOGIC) [Action, Sports, Strategy].zip
+
+Freestylin (Pinball Construction Set) (1986)(Mr.Wonderful) [Action].zip
+
+Freestylin (Pinball Construction Set) [a1] (1986)(Mr.Wonderful) [Action].zip
+
+GBA Championship Basketball- Two-on-Two (1986)(Activision Publishing, Inc.) [Sports].zip
+
+GBA Championship Basketball- Two-on-Two [h1] (1986)(Activision Publishing, Inc.) [Sports].zip
+
+Gamblers Delight! (1986)(Northwest Ideaware Inc.) [Simulation].zip
+
+Gambler v1.1 (1986)(Keypunch Software, Inc.) [Strategy, Compilation].zip
+
+Game of Hearts, The (1986)(Anonymous) [Strategy, Cards].zip
+
+Gapper (1986)(Anonymous) [Action].zip
+
+Gemini-2 [SW] (1986)(Paragon Software Corporation) [Action].zip
+
+Gertrudes Secrets v1.3 (1986)(Learning Company, The) [Educational].zip
+
+Gettysburg- The Turning Point v2.0 (1986)(Strategic Simulations, Inc.) [Strategy, War].zip
+
+Gnafu (Fr) (1986)(Anonymous) [Action].zip
+
+Gomoku (1986)(Anonymous) [Strategy].zip
+
+Gomoku (1986)(Rick Klemetson) [Strategy].zip
+
+Gomoku [tr Fr] (1986)(Anonymous) [Strategy].zip
+
+Grand Slam Bridge (1986)(Cybron Corporation) [Strategy, Cards].zip
+
+Guess the Animal [SW] (1986)(John D. Kelner) [Educational].zip
+
+HI-Q Strategy Game [SW] (1986)(Bill Conley) [Strategy].zip
+
+Hacker II- The Doomsday Papers [DC] (1986)(Activision, Inc.) [Strategy].zip
+
+Hamburger Hell (1986)(J.P. Jansen) [Action].zip
+
+Haunted Mission Adventure v1.51 [SW] (1986)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+High $take$ by Dick Francis (1986)(Mindscape, Inc.) [Adventure, Interactive Fiction].zip
+
+Hollywood Hijinx r37 (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+IBM-PC Mahjong v2.0 (1986)(ProCon Software) [Strategy].zip
+
+Icer, The (Pinball Construction Set) (1986)(Anonymous) [Action].zip
+
+Imperial Space Command (1986)(IBM) [Strategy].zip
+
+International Bridge Contractors v1.10 (1986)(Greystone Software) [Simulation].zip
+
+Island of Mystery Adventure v1.51 [SW] (1986)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+It! (Pinball Construction Set) (1986)(J. Slettedahl) [Action].zip
+
+It! (Pinball Construction Set) [a1] (1986)(J. Slettedahl) [Action].zip
+
+Italia (Pinball Construction Set) (1986)(MJL) [Action].zip
+
+James Bond 007- Goldfinger (1986)(Mindscape, Inc.) [Adventure, Interactive Fiction].zip
+
+Jetset - IFR Flight Simulator (Color) (1986)(BYTE Magazine) [Strategy, Simulation].zip
+
+Jewels of Darkness (1986)(Rainbird Software) [Adventure, Interactive Fiction, Compilation].zip
+
+Jewels of Darkness [a1] (1986)(Rainbird Software) [Adventure, Interactive Fiction, Compilation].zip
+
+Jingle Disk (1986)(Hi-Tech Expressions, Inc.) [Educational].zip
+
+Joker Poker v4.0 (1986)(L. Wasserman) [Strategy, Cards].zip
+
+Karateka (1986)(Broderbund Software, Inc.) [Action].zip
+
+Karateka [a1] (1986)(Broderbund Software, Inc.) [Action].zip
+
+Karateka [a2] (1986)(Broderbund Software, Inc.) [Action].zip
+
+Karateka [a3] (1986)(Broderbund Software, Inc.) [Action].zip
+
+Karateka [h1] (1986)(Broderbund Software, Inc.) [Action].zip
+
+Kidgames (1986)(Donald L. Pavia) [Educational, Compilation].zip
+
+Kidgames [tr Sp] [b1] (1986)(Donald L. Pavia) [Educational, Compilation].zip
+
+Killer Bees (1986)(Anonymous) [Action].zip
+
+Knoxblock! (PCjr BASIC) (1986)(Anonymous) [Action].zip
+
+Labyrinth v1.1 [SW] (1986)(Lewis Haupt) [Strategy].zip
+
+Landmine (1986)(Larry Ludwick) [Strategy].zip
+
+Larn v12.0 (1986)(Noah Morgan, Don Kneller) [Adventure, Role-Playing (RPG)].zip
+
+Larn v12.0 [a1] (1986)(Noah Morgan, Don Kneller) [Adventure, Role-Playing (RPG)].zip
+
+Las Vegas Solitaire v2.0 (1986)(Brian Irvine) [Strategy, Cards].zip
+
+Leather Goddesses of Phobos r4 (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Leather Goddesses of Phobos r59 (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Leather Goddesses of Phobos r59 [a1] (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Leygrefs Castle [SW] (1986)(Frank Dutton) [Adventure, Role-Playing (RPG), Strategy].zip
+
+Link-Four [SW] (1986)(The Great Canadian Computer Company) [Strategy].zip
+
+Livingstone Supongo (non-playable demo) (Sp) (1986)(Opera Soft) [Action].zip
+
+Lucky [b1] (1986)(Anonymous) [Adult].zip
+
+Lumpies of Lotis IV, The (1986)(COMPUTE! Publications, Inc.) [Adventure].zip
+
+Lunar Explorer- A Space Flight Simulator v1.1 (1986)(Electric Transit, Inc.) [Action, Simulation].zip
+
+Lunar Lander (1986)(Ken Freeze) [Action].zip
+
+MGT- Magnetik Tank (Fr) (1986)(Loriciels) [Action].zip
+
+Major League Manager v4.0 (1986)(Spinnaker Software Corporation) [Sports, Strategy][!].zip
+
+Major League Manager v4.0 [a1] (1986)(Spinnaker Software Corporation) [Sports, Strategy].zip
+
+Manor (1986)(Leon Baradat) [Strategy].zip
+
+Marble Madness [DC] (1986)(Electronic Arts, Inc.) [Action].zip
+
+Marble Madness [DC][h1] (1986)(Electronic Arts, Inc.) [Action].zip
+
+Master Ninja- Shadow Warrior of Death (1986)(Paragon Software Corporation) [Action].zip
+
+Mastermind v1.1 (De) (1986)(Fritz Nobs) [Strategy].zip
+
+Math Rabbit v1.1 (1986)(The Learning Company) [Educational].zip
+
+Math Rabbit v1.1 [a1] (1986)(The Learning Company) [Educational].zip
+
+Maze Adventures (1986)(Keypunch Software, Inc.) [Action, Strategy, Compilation].zip
+
+Mean 18 Famous Course Addon Disk I (1986)(Accolade, Inc.) [Sports, Addon] [!].zip
+
+Mean 18 Famous Course Addon Disk II (1986)(Accolade, Inc.) [Sports, Addon][!].zip
+
+Mean 18 Famous Course Addon Disk III (1986)(Accolade, Inc.) [Sports, Addon].zip
+
+Mean 18 Famous Course Addon Disk IV (1986)(Accolade, Inc.) [Sports, Addon].zip
+
+Mean 18 [a1] (1986)(Accolade, Inc.) [Sports].zip
+
+Microsoft Flight Simulator- STAR Scenery Disk San Francisco Area & The Bay Area [DC] (1986)(subLOGIC) [Simulation, Addon].img.zip
+
+Monkey Business v1.3 (1986)(Merit Software) [Educational].zip
+
+Monopoly P.C. [SW] (1986)(Len Sheppard) [Strategy].zip
+
+Monopoly v1.1 (1986)(Anonymous) [Strategy].zip
+
+Monopoly v5.7 (1986)(Don Phillip Gibson) [Strategy].zip
+
+Monopoly v6.0 (1986)(Don Phillip Gibson) [Strategy].zip
+
+Moon Lander (1986)(Anonymous) [Action].zip
+
+Moonmist r9 (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Moonmist r9 [a1] (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Moria v1.9.9 (Fr) (1986)(AJM) [Adventure].zip
+
+Mystery (Pinball Construction Set) (1986)(Anonymous) [Action].zip
+
+Night Fire (1986)(WallyWare) [Strategy].zip
+
+Night Mission (Pinball Construction Set) (1986)(Jim Leonard) [Action].zip
+
+Ninja (1986)(Mastertronic Group Ltd.) [Action].zip
+
+Ninja [a1] (1986)(Mastertronic Group Ltd.) [Action].zip
+
+Ninja [h1] (1986)(Mastertronic Group Ltd.) [Action].zip
+
+Noid, The (Pinball Construction Set) (1986)(A.W.) [Action].zip
+
+Ogre (1986)(ORIGIN Systems, Inc.) [Strategy].zip
+
+Oilwell [SW] (1986)(MTK Software) [Strategy].zip
+
+Orbiter (1986)(Spectrum HoloByte, Inc.) [Educational, Simulation] [!].zip
+
+Othello v1.5 [SW] (1986)(Jon Shemitz) [Strategy].zip
+
+PC-Gammon v6.0 (1986)(David C. Oshel) [Strategy].zip
+
+PC-Hack v3.4 (1986)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+
+PC-Hack v3.5 (1986)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+
+PC-Hack v3.60 (1986)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+
+PC-Hack v3.60 [a1] (1986)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+
+PC Bowl - Electron Lanes [SW] (1986)(Bearware Systems) [Sports].zip
+
+PC Golf (1986)(Anonymous) [Strategy, Simulation].zip
+
+PC Golf [o1] (1986)(Anonymous) [Strategy, Simulation].zip
+
+PC Vegas (1986)(D & H Bear Software) [Strategy].zip
+
+Pentix (1986)(Ice-App) [Action, Strategy].zip
+
+Phrase Craze v1.05 [SW] (1986)(Excelsior Software, Inc.) [Trivia].zip
+
+Professional Blackjack (1986)(Stuart Tomares) [Strategy].zip
+
+Psi-5 Trading Company (1986)(Accolade, Inc.) [Action, Simulation].zip
+
+Psi-5 Trading Company [a1] (1986)(Accolade, Inc.) [Action, Simulation].zip
+
+Pyramid Power (1986)(COMPUTE! Publications, Inc.) [Action].zip
+
+Radio Baseball (1986)(Electronic Arts, Inc.) [Sports, Simulation].zip
+
+Rain (Pinball Construction Set) (1986)(R.G.Hays) [Action].zip
+
+Rain (Pinball Construction Set) [a1] (1986)(R.G.Hays) [Action].zip
+
+Revenge of the Eland (1986)(Dave Dubin) [Adventure, Interactive Fiction].zip
+
+Risk (EGA) [SW] (1986)(Russell Fleming) [Strategy].zip
+
+Risk (EGA) v1.1 [SW] (1986)(Russell Fleming) [Strategy].zip
+
+Risk (PCjr BASIC) v1.03 [SW] (1986)(Russell Fleming) [Strategy].zip
+
+Risk [SW] (1986)(Russell Fleming) [Strategy].zip
+
+Risk v1.1 [SW] (1986)(Russell Fleming) [Strategy].zip
+
+Robot Rascals (1986)(Electronic Arts, Inc.) [Action, Strategy] [!].zip
+
+Rockets (1986)(WelCom Systems) [Action].zip
+
+Rockets [h1] (1986)(WelCom Systems) [Action].zip
+
+Rogue Runner (1986)(Apogee Software Productions) [Action].zip
+
+Round 42 [SW] (1986)(Elven Software Company) [Action].zip
+
+Round 42 [SW][a1] (1986)(Elven Software Company) [Action].zip
+
+Round 42 [SW][a2] (1986)(Elven Software Company) [Action].zip
+
+Saloon (1986)(Anonymous) [Strategy].zip
+
+Sci-Fly v2.1 (1986)(Bob Berg) [Action].zip
+
+Scorpion (Pinball Construction Set) (1986)(MJL) [Action].zip
+
+Serpy v1.1 (Fr) (1986)(Anonymous) [Action].zip
+
+Shanghai (1986)(Activision, Inc.) [Strategy].zip
+
+Shanghai [a1] (1986)(Activision, Inc.) [Strategy].zip
+
+Shawl (1986)(AcademySoft) [Action].zip
+
+Sherlock Holmes- The Vatican Cameos (1986)(Ellicott Creek Software) [Adventure, Interactive Fiction].zip
+
+Shooting Gallery (1986)(D. Pavia) [Action].zip
+
+Shooting Gallery [h1] (1986)(Anonymous) [Action].zip
+
+Silicon Dreams (1986)(Firebird Licensees Inc.) [Adventure, Interactive Fiction, Compilation].zip
+
+Sink The BizMark - Seek+Sink (1986)(Keypunch Software, Inc.) [Action, Strategy, Educational].zip
+
+Snake (No) (1986)(Mikroteknikk) [Action].zip
+
+Snake Pit [SW] (1986)(Robert Kemmetmueller) [Action].zip
+
+Snake Pit v2 [SW] (1986)(Robert Kemmetmueller) [Action].zip
+
+Solitaire (1986)(IBM) [Strategy, Cards].zip
+
+Sopwith 2 (1986)(BMB Compuscience) [Action].zip
+
+Sopwith 2 [h1] (1986)(BMB Compuscience) [Action].zip
+
+Sopwith 2 [h2] (1986)(BMB Compuscience) [Action].zip
+
+Sopwith 2 [h3] (1986)(BMB Compuscience) [Action].zip
+
+South America Trek [SW] (1986)(ButtonWare, Inc.) [Adventure, Interactive Fiction].zip
+
+Space Games v1.2 (1986)(Keypunch Software, Inc.) [Compilation].zip
+
+Space Warp (Pinball Construction Set) (1986)(Jim Leonard) [Action].zip
+
+Spacewar v1.70 [SW] (1986)(Bill Seiler) [Action].zip
+
+Spacewar v1.71 (1986)(Bill Seiler) [Action].zip
+
+Spacewar v1.71 [SW] (1986)(Bill Seiler) [Action].zip
+
+Spacewar v1.72 [SW] (1986)(Bill Seiler) [Action].zip
+
+Speculator (1986)(Load-N-Go Software) [Strategy].zip
+
+Spys Adventures in Europe, The (1986)(Polarware) [Adventure, Educational].zip
+
+Star Destroyer Episode I (1986)(Keith Thoresz) [Action].zip
+
+Star Fleet I- The War Begins v2.1 (1986)(Cygnus Multimedia, Interstel) [Strategy].zip
+
+Star Gazer (Pinball Construction Set) (1986)(Sorcerer Ent.) [Action].zip
+
+Star Trek- The Promethean Prophecy (1986)(Simon & Schuster Interactive) [Adventure, Interactive Fiction].zip
+
+Starglider (En)(De) (1986)(Rainbird Software) [Action, Simulation].zip
+
+Starglider (En)(De) [a1] (1986)(Rainbird Software) [Action, Simulation].zip
+
+Starglider [a1] (1986)(Rainbird Software) [Action, Simulation].zip
+
+Stock Market, The (prototype) (1986)(Serengeti Enterprise) [Simulation, Strategy].zip
+
+Storm [DC] (1986)(Mastertronic Group Ltd.) [Action].zip
+
+Strip Blackjack v1.3 (1986)(Micro Magic) [Strategy, Cards].zip
+
+Stugan (Nl) (1986)(Scandinavian PC Systems) [Adventure].zip
+
+Sub Battle Simulator (Prototype) (1986)(Cliff Click) [Simulation].zip
+
+Subcommander (1986)(Unknown) [Simulation].zip
+
+Summer Games II [DC] (1986)(Epyx, Inc.) [Action, Sports].zip
+
+Summer Games II [a1][DC] (1986)(Epyx, Inc.) [Action, Sports].zip
+
+Super Boulder Dash [DC] (1986)(Electronic Arts, Inc.) [Action, Strategy, Compilation].zip
+
+Super Boulder Dash [h1][DC] (1986)(Electronic Arts, Inc.) [Action, Strategy, Compilation].zip
+
+Swords of Glass (1986)(Keypunch Software, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Tag Team Wrestling [DC] (1986)(Data East USA, Inc.) [Action].img.zip
+
+Tank Wars (1986)(Cody Snider) [Action, Strategy].zip
+
+Tass Times in Tonetown [DC] (1986)(Activision Publishing, Inc.) [Adventure].zip
+
+Teed-Off v3.0 (1986)(Kevin Hendricks) [Sports].zip
+
+Tera (Fr) (1986)(Loriciels) [Adventure, Role-Playing (RPG)].zip
+
+Tetris (1986)(A. Pajitnov,V. Gerasimov) [Action, Strategy].zip
+
+Tetris (1986)(AcademySoft) [Action, Strategy].zip
+
+Tetris [a1] (1986)(AcademySoft) [Action, Strategy].zip
+
+Tetris [a2] (1986)(AcademySoft) [Action, Strategy].zip
+
+Tetris [a3] (1986)(AcademySoft) [Action, Strategy].zip
+
+Texas 42 [SW] (1986)(C & K Software) [Strategy].zip
+
+Thiefs Adventure [SW] (1986)(J Soft Co) [Adventure, Interactive Fiction].zip
+
+Ticket To Paris (1986)(Blue Lion Software) [Adventure, Educational].zip
+
+Time Traveler v1.1 (1986)(MVP Software) [Strategy, Educational][!].zip
+
+Tommys 21 [SW] (1986)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Airshark [SW] (1986)(Tommys Toys) [Action, Simulation].zip
+
+Tommys Egg [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Energy Fence [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Gorilla Ball Pythons [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Gorilla Ball Ramparts [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Gorilla Balls (1986)(Tommys Toys) [Action].zip
+
+Tommys Hyperdrive [SW] (1986)(Tommys Toys) [Action, Strategy].zip
+
+Tommys Jammer [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Lifts [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Meteors [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Meteors [SW][a1] (1986)(Tommys Toys) [Action].zip
+
+Tommys Meteors [SW][a2] (1986)(Tommys Toys) [Action].zip
+
+Tommys Packrat [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Saucer [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Silo [SW] (1986)(Tommys Toys) [Action, Educational].zip
+
+Tommys Stompers [SW] (1986)(Tommys Toys) [Action].zip
+
+Tommys Trek (1986)(Tommys Toys) [Action, Strategy].zip
+
+Tommys Turkeys [SW] (1986)(Tommys Toys) [Action].zip
+
+Top Gun (1986)(Thunder Mountain) [Action, Simulation].zip
+
+Tour de France Bicycle Race (1986)(David H. Ahl) [Simulation, Sports].zip
+
+Trek 73 [SW] (1986)(David A. Soussan) [Strategy].zip
+
+Trek v2.5 [SW] (1986)(Carl McLawhorn) [Strategy].zip
+
+Triclops Invasion (1986)(Geodesic Publications) [Action, Simulation].zip
+
+Trinity r11 (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Trinity r12 (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Trivial Trek v1.2 (1986)(Rugsoft Inc.) [Strategy, Trivia].zip
+
+Tug-A-War (1986)(Compute! Publications, Inc.) [Strategy].zip
+
+TurboLife v0.20 (1986)(Bela Lubkin) [Simulation].zip
+
+TurboLife v0.50 (1986)(Bela Lubkin) [Simulation].zip
+
+Tut-Busters (1986)(Software-Express) [Action].zip
+
+Twilight Zone (Pinball Construction Set) (1986)(Blue Max, Ex Tex) [Action].zip
+
+U.S.A. - A Knowledge Tool (1986)(Terry Eikamp) [Educational, Trivia].zip
+
+University of North Carolina Basketball (1986)(Anonymous) [Sports, Simulation].zip
+
+Uridium (1986)(Mindscape, Inc.) [Action].zip
+
+Uridium [h1] (1986)(Mindscape, Inc.) [Action].zip
+
+Verso (1986)(IBM) [Strategy].zip
+
+Vulcan- The Tunisian Campaign (1986)(Cases Computer Simulations) [Strategy, War].zip
+
+War On The Sea (1986)(H.David Jackson) [Strategy].zip
+
+Wheel of Fortune (1986)(Gregg Minkow) [Strategy].zip
+
+Where in the World is Carmen Sandiego_ (1986)(Broderbund Software, Inc.) [Adventure, Educational].zip
+
+Where in the World is Carmen Sandiego_ [a1] (1986)(Broderbund Software, Inc.) [Adventure, Educational].zip
+
+Where in the World is Carmen Sandiego_ v1.2 (1986)(Broderbund Software, Inc.) [Adventure, Educational] [!].zip
+
+Whitesox (Pinball Construction Set) (1986)(MJL) [Action].zip
+
+Wilderness- A Survival Adventure (1986)(Electric Transit, Inc.) [Adventure, Simulation].zip
+
+Windmill Software demo disk (1986)(Windmill Software) [Action, Compilation].zip
+
+Winter Games [DC] (1986)(Epyx, Inc.) [Action, Sports].zip
+
+Winter Games [a1][DC] (1986)(Epyx, Inc.) [Action, Sports].zip
+
+Wizardry III- Legacy of Llylgamyn [DC] (1986)(Sir-Tech Software, Inc.) [Adventure, Role-Playing (RPG)].img.zip
+
+Wizzard (Pinball Construction Set) (1986)(RJ) [Action].zip
+
+World Games [DC] (1986)(Epyx, Inc.) [Action, Sports].zip
+
+World Games [DC][a1] (1986)(Epyx, Inc.) [Action, Sports].zip
+
+World Karate Championship [DC] (1986)(Epyx, Inc.) [Action].zip
+
+World Karate Championship [DC][h1] (1986)(Epyx, Inc.) [Action].zip
+
+World Tour Golf (1986)(Electronic Arts, Inc.) [Sports].zip
+
+World Tour Golf [h1][b1] (1986)(Electronic Arts, Inc.) [Sports].zip
+
+World Tour Golf [h2] (1986)(Electronic Arts, Inc.) [Sports].zip
+
+Worm Game, The v3.0 (1986)(J. Eichner) [Action].zip
+
+Zapshot (1986)(DB Micro Systems, Inc.) [Action].zip
+
+Zork Trilogy (1986)(Infocom, Inc.) [Adventure, Interactive Fiction, Compilation].zip
+
+
+8088_friendly - 1987
+------------------------------------------------------------
+target:	/Users/peteyoung/Downloads/oldskool.org/8088_friendly/1987
+source:	http://ftp.oldskool.org/pub/misc/Software/Games/8088-friendly/1987
+
+
+3-D Helicopter Simulator (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+
+3-D Helicopter Simulator [a1] (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+
+3-D Helicopter Simulator [h1] (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+
+3-D Helicopter Simulator [h2] (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+
+3-D Helicopter Simulator v1.10 (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+
+3-D Helicopter Simulator v1.10 [a1] (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+
+3-D Helicopter Simulator v1.10 [a2] (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+
+3D-Ball (1987)(Lee Griffin) [Action].zip
+
+10th Frame (1987)(Access Software, Inc.) [Sports][!].zip
+
+10th Frame [a1] (1987)(Access Software, Inc.) [Sports].zip
+
+10th Frame [h1] (1987)(Access Software, Inc.) [Sports].zip
+
+10th Frame [h2] (1987)(Access Software, Inc.) [Sports].zip
+
+221 B Baker St. (1987)(Datasoft, Inc.) [Adventure, Strategy].zip
+
+221 B Baker St. [a1] (1987)(Datasoft, Inc.) [Adventure, Strategy].zip
+
+ACE- Air Combat Emulator (1987)(Spinnaker Software Corporation) [Simulation].zip
+
+Abadia del Crimen, La (Sp) (1987)(Opera Soft) [Adventure].zip
+
+Academy- Tau Ceti II (1987)(CRL Group PLC) [Action, Strategy].zip
+
+Ace 2 (1987)(Artronic Limited) [Simulation].zip
+
+Ace of Aces (1987)(Accolade, Inc.) [Action, Simulation].zip
+
+Ace of Aces (EGA) (1987)(Accolade, Inc.) [Action, Simulation].zip
+
+Ace of Aces [a1] (1987)(Accolade, Inc.) [Action, Simulation].zip
+
+Ace of Aces [a2] (1987)(Accolade, Inc.) [Action, Simulation].zip
+
+Acheton (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+
+Adventure (1987)(Willie Crowther, Kevin B. Black) [Adventure, Interactive Fiction].zip
+
+Adventure vB00 (1987)(Steve Dover) [Adventure, Interactive Fiction].zip
+
+Airball (1987)(Microdeal) [Adventure, Strategy].zip
+
+Airball [a1] (1987)(Microdeal) [Adventure, Strategy].zip
+
+Aldos Adventure [SW] (1987)(David and Benjamin Ibach) [Action].zip
+
+Aldos Adventure [SW][a1] (1987)(David and Benjamin Ibach) [Action].zip
+
+Aldos Adventure v1.1 [SW] (1987)(David and Benjamin Ibach) [Action].zip
+
+Americas cup (Fr) (1987)(Free Game Blot) [Simulation, Sports].zip
+
+Amys First Primer [SW] (1987)(Computing Specialties) [Educational] [!].zip
+
+Amys First Primer [SW][a1] (1987)(Computing Specialties) [Educational].zip
+
+Ancient Art of War at Sea, The [a1] (1987)(Broderbund Software, Inc.) [Strategy].zip
+
+Ancient Art of War at Sea, The [a2] (1987)(Broderbund Software, Inc.) [Strategy].zip
+
+Annas Gram (1987)(Softdisk Publishing) [Strategy].zip
+
+Apollo Mission Simulator v1.1 [SW] (1987)(Albert H. Reynolds III) [Simulation].zip
+
+Arcade Bonanza (1987)(Keypunch Software, Inc.) [Action, Compilation].zip
+
+Asterix im Morgenland (De) (1987)(Coktel Vision) [Action, Adventure].zip
+
+Astro-Grover (1987)(Hi-Tech Expressions, Inc.) [Educational].zip
+
+Astrotit (1987)(Rudeware) [Action, Adult].zip
+
+Aussie Joker Poker (1987)(Mindscape, Inc.) [Strategy, Cards].zip
+
+Avoid the Awful Thing that Vaguely Resembles a Banana!! (1987)(Curtis Smith) [Action].zip
+
+Backgammon! (1987)(ShareData, Inc.) [Strategy].zip
+
+Backgammon (1987)(Mark Geer) [Strategy].zip
+
+Bad Street Brawler (1987)(Mindscape, Inc.) [Action][!].zip
+
+Bad Street Brawler [a1] (1987)(Mindscape, Inc.) [Action].zip
+
+Bad Street Brawler [a2] (1987)(Mindscape, Inc.) [Action].zip
+
+Bad Street Brawler [a3] (1987)(Mindscape, Inc.) [Action].zip
+
+Basketball Challenge (1987)(Xor Corporation) [Sports, Strategy].zip
+
+Battle Ship Entertainment Software v4.02 (1987)(Nguyen Dang, Anh Dung, P.A. Kelly) [Strategy].zip
+
+Battleship [SW] (1987)(Mike Keeney) [Strategy].zip
+
+Bermuda Square (1987)(Xor Corporation) [Strategy].zip
+
+Beyond Zork- The Coconut of Quendor r49a (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Beyond Zork- The Coconut of Quendor r57g (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Beyond Zork- The Coconut of Quendor r57j (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Big Birds Special Delivery (1987)(Hi-Tech Expressions, Inc.) [Educational].zip
+
+Big Blue Disk #03 (1987)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #05 (1987)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #08 (1987)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #10 (1987)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #11 (1987)(Softdisk Publishing) [Compilation].zip
+
+Big Rig v4.0 (1987)(Micro Star) [Educational, Simulation, Strategy].zip
+
+Big Rig v4.0 [a1] (1987)(Micro Star) [Educational, Simulation, Strategy].zip
+
+Bionic Commando (1987)(Capcom U.S.A., Ltd.) [Action].zip
+
+Bivouac (Fr) (1987)(Infogrames Multimedia SA) [Action, Simulation, Sports].zip
+
+Bizerky (1987)(Fred Long) [Action].zip
+
+Black Box (Pinball Construction Set) (1987)(Russco) [Action].zip
+
+Black Cauldron, The v2.00 (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Black Cauldron, The v2.00 [a1] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Black Cauldron, The v2.00 [a2] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Black Cauldron, The v2.00 [a3] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+BlackJack Academy (1987)(MicroIllusions) [Simulation, Cards].zip
+
+Black Monday (1987)(Keypunch Software, Inc.) [Simulation].zip
+
+Blackjack (1987)(Buffalo Creek Software) [Strategy, Cards].zip
+
+Blackjack (1987)(Load-N-Go Software) [Strategy, Cards].zip
+
+Blasteroids (1987)(Image Works) [Action].zip
+
+Blort! v2 [SW] (1987)(Hennsoft) [Action].zip
+
+Bob Morane- Chevalerie 1 (Fr) (1987)(Infogrames Multimedia SA) [Action, Adventure].zip
+
+Bob Morane- Jungle 1 (Fr) (1987)(Infogrames Multimedia SA) [Action, Adventure].zip
+
+Bob Morane- Science Fiction 1 (1987)(Infogrames Multimedia SA) [Action, Adventure].zip
+
+Bonzoware v2.20 [SW] (1987)(Donald L. Granger) [Strategy, Trivia, Adult].zip
+
+Border Zone r96B (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Border Zone r96J (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Boulder Dash Construction Kit (1987)(Epyx, Inc.) [Action].zip
+
+Braminar (1987)(PC-SIG) [Adventure, Role-Playing (RPG)].zip
+
+Breach (1987)(Artronic Limited) [Strategy].zip
+
+Bridge Pal [SW] (1987)(WR Software) [Strategy].zip
+
+Bureaucracy r86 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Bureaucracy r116 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+CALC-MAN (1987)(Softdisk Publishing) [Action].zip
+
+Cargo Runner v2.0 [SW] (1987)(SNC Software) [Strategy].zip
+
+Caterpillar! (1987)(Marius Kjeldahl) [Action].zip
+
+Chamonix Challenge (1987)(Infogrames Multimedia SA) [Action, Simulation, Sports].zip
+
+Championship Backgammon (1987)(Spinnaker Software Corporation) [Strategy] [!].zip
+
+Championship Blackjack! (1987)(ShareData, Inc.) [Strategy, Cards].zip
+
+Chekkers (1987)(J & J Software) [Strategy].zip
+
+Chessmaster 2000, The (It) (1987)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+
+Chinese Chess Master v2.0 (1987)(Fatman) [Strategy].zip
+
+Chuck Yeagers Advanced Flight Simulator (1987)(Electronic Arts, Inc.) [Simulation].zip
+
+Chuck Yeagers Advanced Flight Simulator [a1] (1987)(Electronic Arts, Inc.) [Simulation].zip
+
+Chuck Yeagers Advanced Flight Trainer v1.2 (1987)(Electronic Arts, Inc.) [Simulation].zip
+
+Chuck Yeagers Advanced Flight Trainer v1.2 [a1] (1987)(Electronic Arts, Inc.) [Simulation].zip
+
+Chuck Yeagers Advanced Flight Trainer v1.2 [a2] (1987)(Electronic Arts, Inc.) [Simulation].zip
+
+Climber 5 (1987)(Compute Publications, Inc.) [Action].zip
+
+Club Casino (1987)(Keypunch Software, Inc.) [Strategy, Cards, Compilation].zip
+
+Cobra (Fr) (1987)(Loriciels) [Action].zip
+
+Coins in the Box v1.1 [SW] (1987)(Mellex Computer Software) [Educational].zip
+
+Commando v1.01 [DC] (1987)(Data East USA, Inc.) [Action].zip
+
+Commando v1.01 [DC][b1][h1] (1987)(Data East USA, Inc.) [Action].zip
+
+Convoy (1987)(Keypunch Software, Inc.) [Action, Strategy, Compilation][!].zip
+
+Countdown to Doom (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+
+Crash Garrett (Fr) (1987)(Ere Informatique) [Adventure].zip
+
+Crazy Cars (1987)(Titus Interactive S.A.) [Action, Racing - Driving].zip
+
+Crazy Cars [a1] (1987)(Titus Interactive S.A.) [Action, Racing - Driving].zip
+
+Cribbage Champ (1987)(EEP_Tech) [Strategy, Cards].zip
+
+Crime Adventure [SW] (1987)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+Crimson Crown, The (1987)(Polarware) [Adventure, Interactive Fiction].zip
+
+Crossword (Fr) (1987)(G. Doc) [Strategy].zip
+
+Crossword Creator v2.50 [SW] (1987)(PC Help-Line) [Strategy, Editor].zip
+
+Cuadrivia (Sp) (1987)(HAL SA) [Strategy, Trivia].zip
+
+Cuckoos Nest! (1987)(Softdisk Publishing) [Adventure, Interactive Fiction].zip
+
+Cue-Bert [h1] (1987)(Keypunch Software, Inc.) [Action].zip
+
+DND v1.2.1 [SW] (1987)(R.O. Software) [Role-Playing (RPG)].zip
+
+Daily Crossword Puzzles from the New York Times (1987)(ShareData, Inc.) [Strategy, Puzzle].zip
+
+Dark Castle (1987)(Three-Sixty Pacific, Inc.) [Action].zip
+
+Dark Castle [a1] (1987)(Three-Sixty Pacific, Inc.) [Action].zip
+
+Dark Castle [a2] (1987)(Three-Sixty Pacific, Inc.) [Action].zip
+
+Deep Space- Operation Copernicus (1987)(Sir-tech Software, Inc.) [Action, Simulation].zip
+
+Defender of the Crown (1987)(Mindscape, Inc.) [Strategy].zip
+
+Defender of the Crown [h1] (1987)(Mindscape, Inc.) [Strategy].zip
+
+Deja Vu- A Nightmare Comes True (1987)(Mindscape, Inc.) [Adventure, Interactive Fiction].zip
+
+Dell Crossword Puzzles Volume III (1987)(ShareData, Inc.) [Strategy].zip
+
+Demons Forge [DC] (1987)(Mastertronic Group Ltd.) [Adventure, Interactive Fiction].zip
+
+Demons Forge [DC][f1] (1987)(Mastertronic Group Ltd.) [Adventure, Interactive Fiction].zip
+
+Des Chiffres et des Lettres (Fr) (1987)(Loriciels) [Educational].zip
+
+Destiny (1987)(Pete Koziar) [Adventure, Interactive Fiction].zip
+
+Destroyer (1987)(Epyx, Inc.) [Strategy].zip
+
+Destroyer [a1] (1987)(Epyx, Inc.) [Strategy].zip
+
+Digital League Baseball v1.1 [SW] (1987)(Edmond Designs) [Sports, Simulation].zip
+
+Don Quijote (Sp) (1987)(Dinamic Software) [Adventure].zip
+
+Double Trouble (Pinball Construction Set) (1987)(Russco) [Action].zip
+
+Double Trouble (Pinball Construction Set) [a1] (1987)(Russco) [Action].zip
+
+Down the Chute (Pinball Construction Set) (1987)(Anonymous) [Action].zip
+
+Down the Chute (Pinball Construction Set) [a1] (1987)(Anonymous) [Action].zip
+
+Dr. Dumonts Wild P.A.R.T.I. v3.0 (1987)(First Row Software Publishing, Inc.) [Adventure, Interactive Fiction].zip
+
+Dungeons of Moria, The v4.83 (1987)(Robert Alan Koeneke) [Adventure, Role-Playing (RPG)].zip
+
+Dungeon v2.5a (1987)(Steve Dover) [Adventure, Interactive Fiction].zip
+
+Eden Blues (Fr) [DC] (1987)(ERE Informatique) [Action, Adventure].zip
+
+Eden Blues (Fr) [DC][a1] (1987)(ERE Informatique) [Action, Adventure].zip
+
+Eden Blues (Fr) [DC][a2] (1987)(ERE Informatique) [Action, Adventure].zip
+
+El Enigma de Aceps (Sp) [f1] (1987)(ACE Software) [Adventure].zip
+
+Elfs Christmas Adventure, The (1987)(Bruce MacKay and Marlene Abriel) [Adventure, Interactive Fiction].zip
+
+Eliminate [SW] (1987)(Ted Freeman) [Strategy].zip
+
+Elite (1987)(Firebird Software Ltd.) [Action, Simulation, Strategy].zip
+
+Elite [h1] (1987)(Firebird Software Ltd.) [Action, Simulation, Strategy].zip
+
+Elite r2 (1987)(Firebird Software Ltd.) [Action, Simulation, Strategy].zip
+
+Elite r2 [h1] (1987)(Firebird Software Ltd.) [Action, Simulation, Strategy].zip
+
+Elite r2 [h2][b1] (1987)(Firebird Software Ltd.) [Action, Simulation, Strategy].zip
+
+Elves 87 (1987)(BOA!) [Adventure, Interactive Fiction].zip
+
+Ernies Big Splash (1987)(Hi-Tech Expressions, Inc.) [Educational].zip
+
+F-15 Strike Eagle v402.02 (EGA) [DC] (1987)(MicroProse Software, Inc.) [Action, Simulation].img.zip
+
+Falcon (1987)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+Falcon [a1] (1987)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+Family Feud (1987)(ShareData, Inc.) [Strategy][!].zip
+
+Fantasy Pak (1987)(Keypunch Software, Inc.) [Adventure, Role-Playing (RPG), Compilation].zip
+
+First Expedition (1987)(Interstel) [Role-Playing (RPG), Simulation].zip
+
+First Over Germany (1987)(Strategic Simulations, Inc.) [Strategy, Simulation].zip
+
+Football Manager (1987)(Addictive Games Ltd) [Sports, Strategy].zip
+
+Ford Simulator (1987)(Ford Motor Company) [Racing - Driving, Simulation].zip
+
+Ford Simulator [a1] (1987)(Ford Motor Company) [Racing - Driving, Simulation].zip
+
+Ford Simulator [a2] (1987)(Ford Motor Company) [Racing - Driving, Simulation].zip
+
+Fourth Protocol, The [DC] (1987)(Ariolasoft UK Ltd.) [Adventure, Strategy].zip
+
+GFL Championship Football (1987)(Activision, Inc.) [Sports].zip
+
+GNU Chess (1987)(Free Software Foundation, Inc.) [Strategy, Chess].zip
+
+Galactic Conquest v2.1 [SW] (1987)(Rick Raddatz) [Strategy].zip
+
+Game of Farkle, The (1987)(Donald R. Clark) [Strategy].zip
+
+Ghostbusters- Basic Training (1987)(David Zeiss) [Adventure, Interactive Fiction].zip
+
+Ghosts N Goblins (1987)(Capcom U.S.A., Inc.) [Action].zip
+
+Ghosts N Goblins (Sp) (1987)(Capcom U.S.A., Inc.) [Action].zip
+
+Ghosts N Goblins [a1] (1987)(Capcom U.S.A., Inc.) [Action].zip
+
+Giantkiller (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+
+Gold-Miner (1987)(Raphael Salgado) [Strategy].zip
+
+Goody (Sp) (1987)(Opera Soft) [Strategy].zip
+
+Goody (Sp) [DC] (1987)(Opera Soft) [Strategy].zip
+
+Goody (Sp) [a1][DC] (1987)(Opera Soft) [Strategy].zip
+
+Goody (Sp) [a2][DC] (1987)(Opera Soft) [Action, Adventure].zip
+
+Goody (Sp) [tr En][DC] (1987)(Opera Soft) [Strategy].zip
+
+Goody (Sp) [tr En][DC][a1] (1987)(Opera Soft) [Strategy].zip
+
+Gouden Kelk, De (Nl) (1987)(Anonymous) [Interactive Fiction].zip
+
+Great Escape, The (1987)(Ocean Software Ltd.) [Action, Adventure].zip
+
+Great Escape, The [a1] (1987)(Ocean Software Ltd.) [Action, Adventure].zip
+
+Great Escape, The [a2] (1987)(Ocean Software Ltd.) [Action, Adventure].zip
+
+Great Escape, The [a3] (1987)(Ocean Software Ltd.) [Action, Adventure].zip
+
+Grovers Animal Adventures (1987)(Hi-Tech Expression) [Educational, Editor].zip
+
+Gryzor (1987)(Konami, Inc.) [Action].zip
+
+Guerrilla War (1987)(Data East USA, Inc.) [Action].zip
+
+Guerrilla War [h1] (1987)(Data East USA, Inc.) [Action].zip
+
+Guerrilla War [h2] (1987)(Data East USA, Inc.) [Action].zip
+
+Gunship v429.01 (1987)(MicroProse Software, Inc.) [Simulation].zip
+
+Gunship v429.05 (1987)(MicroProse Software, Inc.) [Simulation].zip
+
+Gunship v429.05 [a1] (1987)(MicroProse Software, Inc.) [Simulation].zip
+
+Gymnasium Adventure (1987)(PC-SIG) [Adventure, Interactive Fiction].zip
+
+Halloween (1987)(Third Coast Software) [Adventure, Interactive Fiction].zip
+
+Happy Games- Learning Games for Young Minds [SW] (1987)(Groverware) [Educational].zip
+
+HardBall! (1987)(Accolade, Inc.) [Sports].zip
+
+HardBall! [h1] (1987)(Accolade, Inc.) [Sports].zip
+
+Hat Trick (1987)(Capcom U.S.A., Inc.) [Sports].zip
+
+Haunted Mission Adventure v1.52 [SW] (1987)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+Hitchhikers Guide to the Galaxy, The r31 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Ikari Warriors [DC] (1987)(Data East Corporation) [Action].zip
+
+Indiana Jones in Revenge of the Ancients (1987)(Mindscape, Inc.) [Adventure].zip
+
+Infiltration to IBM Headquarters (1987)(Johnathan Stanley) [Adventure, Interactive Fiction].zip
+
+Infiltrator (1987)(Mindscape, Inc.) [Action, Adventure, Simulation].zip
+
+Infiltrator II (1987)(Mindscape, Inc.) [Action, Simulation].zip
+
+Infiltrator II [a1] (1987)(Mindscape, Inc.) [Action, Simulation].zip
+
+Infiltrator [a1] (1987)(Mindscape, Inc.) [Action, Adventure, Simulation].zip
+
+Infiltrator [a2] (1987)(Mindscape, Inc.) [Action, Adventure, Simulation].zip
+
+Inside Trader- The Authentic Stock Trading Game v2.0 (1987)(Cosmi Corporation) [Simulation].zip
+
+InterSEXion- A Game to Make Close Friends Closer v3.0 TEST [SW] (1987)(SQ Software) [Compilation, Adult].zip
+
+International Hockey [f1][DC] (1987)(Artworx Software Co, Inc.) [Action, Sports].img.zip
+
+Into the Eagles Nest (1987)(Mindscape, Inc.) [Action, Adventure].zip
+
+Into the Eagles Nest [a1] (1987)(Mindscape, Inc.) [Action, Adventure].zip
+
+Into the Eagles Nest [h1] (1987)(Mindscape, Inc.) [Action, Adventure].zip
+
+Invaders Game (1987)(Jeff Naylor) [Action].zip
+
+Island of Mystery Adventure v1.52 [SW] (1987)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+Iznogoud (Fr) (1987)(Infogrames) [Action, Adventure].zip
+
+Jake the Snake (1987)(Software Express) [Action].zip
+
+Jeopardy! (1987)(ShareData, Inc.) [Strategy] [!].zip
+
+Jeopardy! [a1] (1987)(ShareData, Inc.) [Strategy].zip
+
+Jeopardy! [h1] (1987)(ShareData, Inc.) [Strategy].zip
+
+Jeu De Dames (Fr) (1987)(Emin Robic) [Strategy].zip
+
+Jeu Du Pendu, Le (Fr) (1987)(Rene Cougnenc) [Educational].zip
+
+John Elways Quarterback [DC] (1987)(Melbourne House) [Action, Sports].zip
+
+Journey Through The Wilderness [SW] (1987)(Wisdom Research) [Trivia].zip
+
+Kampfgruppe (1987)(Strategic Simulations, Inc.) [Strategy, War].zip
+
+Karma (Fr) (1987)(Loriciels) [Adventure].zip
+
+Karnov (1987)(Data East USA, Inc.) [Action].zip
+
+Karnov [DC] (1987)(Data East USA, Inc.) [Action].img.zip
+
+Karnov [a1] (1987)(Data East USA, Inc.) [Action].zip
+
+Kings Quest (EGA Enhanced) (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Kings Quest (EGA Enhanced) [a1] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Kings Quest (EGA Enhanced) [h1] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Kings Quest II- Romancing the Throne v2.2 (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Kingdom of Hamil (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+
+Kingdom of Kroz (1987)(Softdisk Publishing) [Action, Adventure].zip
+
+King of Diamonds (Pinball Construction Set) (1987)(MJL) [Action].zip
+
+Kobayashi Naru [DC] (1987)(Mastertronic Group Ltd.) [Adventure].zip
+
+Kong Quest (1987)(Keypunch Software, Inc.) [Action, Compilation].zip
+
+Korenvliet (Nl) (1987)(Anonymous) [Adventure, Interactive Fiction].zip
+
+L-Affaire (1987)(Infogrames Multimedia SA) [Adventure].zip
+
+L-Affaire Sydney (Fr) (1987)(Infogrames Multimedia SA) [Adventure].zip
+
+L-Affaire Vera cruz (Fr) (1987)(Infogrames Multimedia SA) [Adventure].zip
+
+Labyrinth (1987)(M Systems Israel) [Action].zip
+
+Las Vegas EGA Casino (1987)(PC-SIG) [Simulation].zip
+
+Las Vegas EGA Casino, The [tr Ru] (1987)(Ted Gruber) [Simulation].zip
+
+Las Vegas Style Craps v2.3 [SW] (1987)(Kent Myers, Markus Houy) [Simulation, Strategy].zip
+
+Laser Surgeon- The Microscopic Mission (1987)(Activision Publishing, Inc.) [Educational, Simulation] [!].zip
+
+Last Mission, The (Sp) (1987)(Opera Soft) [Action].zip
+
+Last Mission, The [a1] (Sp) (1987)(Opera Soft) [Action].zip
+
+Last Mission, The [a2] (Sp) (1987)(Opera Soft) [Action].zip
+
+Last Mission, The [tr En][DC] (1987)(Opera Soft) [Action].zip
+
+Last Mission, The [tr En][a1][DC] (1987)(Opera Soft) [Action].zip
+
+Lawn Mower v2.0 (1987)(Christopher D. Orr) [Action, Simulation].zip
+
+Leisure Suit Larry in the Land of the Lounge Lizards (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Leisure Suit Larry in the Land of the Lounge Lizards [a1] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Les trois mousquetaires (Fr) (1987)(American Action) [Adventure].zip
+
+Loonyland (Pinball Construction Set) (1987)(R.G. Hays) [Action].zip
+
+Lucky Luke (Fr) (1987)(Cedic Vifi) [Action].zip
+
+Lurking Horror, The r203 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Macadam Bumper (1987)(ERE Informatique) [Simulation].zip
+
+Mach 3 (1987)(Loriciels) [Action].zip
+
+Mach 3 [a1] (1987)(Loriciels) [Action].zip
+
+Mach 3 [a2] (1987)(Loriciels) [Action].zip
+
+Mah Jongg v2.0 [SW] (1987)(Nels Anderson) [Strategy].zip
+
+Mah Jongg v2.3 [SW] (1987)(Nels Anderson) [Strategy].zip
+
+Maitre des Ames, Le (Fr) (1987)(Ubi Soft Entertainment Software) [Adventure, Role-Playing (RPG)].zip
+
+Master Blaster (1987)(Keypunch Software) [Action, Compilation].zip
+
+MasterMind (1987)(Genetic(DNA) Software) [Strategy].zip
+
+Math Blaster Plus! v2.1 (1987)(Davidson & Associates) [Educational].zip
+
+McMurphys Mansion [SW] (1987)(martin-art) [Adventure, Interactive Fiction].zip
+
+McMurphys Mansion v1.2 [SW] (1987)(Martin-Art) [Adventure, Interactive Fiction].zip
+
+Mech Brigade (1987)(Strategic Simulations, Inc.) [Simulation, Strategy].zip
+
+Mech Brigade [a1] (1987)(Strategic Simulations, Inc.) [Simulation, Strategy].zip
+
+Metropolis [DC] (1987)(Mastertronic Group Ltd.) [Adventure].zip
+
+Meurtres en Serie (Fr) (1987)(Hitech Productions) [Adventure, Interactive Fiction].zip
+
+Micro Scrabble (Fr) (1987)(Leisure Genius) [Strategy].zip
+
+Microsoft Flight Simulator- Japan Scenery Disk [DC] (1987)(subLOGIC) [Simulation, Addon].img.zip
+
+Microsoft Flight Simulator v2.14 [DC] (1987)(Microsoft) [Simulation].img.zip
+
+Might and Magic, Book I- Secret of the Inner Sanctum (1987)(New World Computing, Inc.) [Role-Playing (RPG)].zip
+
+Millionaire- The Stock Market Simulation (Release 2) v1.1 [a1] (1987)(Blue Chip Software) [Strategy, Simulation].zip
+
+Millionaire- The Stock Market Simulation (Release 2) v1.1 [f1] (1987)(Blue Chip Software) [Strategy, Simulation].zip
+
+Mind Dance Volume II vI7.0 (1987)(Thunder Mountain) [Strategy].zip
+
+Mind Dance vI6.0 (1987)(Thunder Mountain) [Strategy].zip
+
+Mini-Putt (1987)(Accolade, Inc.) [Sports].zip
+
+Mini Golf Mania (1987)(Paul Prejean) [Sports].zip
+
+Minute Magic (Pinball Construction Set) (1987)(Anonymous) [Action].zip
+
+Minute Magic [a1] (Pinball Construction Set) (1987)(Anonymous) [Action].zip
+
+Mission (Fr) [b1] (1987)(Loriciels) [Action].zip
+
+Mission- Mainframe v3.2 (1987)(Jerry Plemons, Brian Shankman) [Role-Playing (RPG), Strategy].zip
+
+Moebius- The Orb of Celestial Harmony (1987)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Monopoly v6.8 (1987)(Don Phillip Gibson) [Strategy].zip
+
+Monopoly vT6.8 (1987)(Don Phillip Gibson) [Strategy].zip
+
+Monster Maze [h1] (1987)(Keypunch Software, Inc.) [Action].zip
+
+Moon Mountain Adventure [SW] (1987)(Thomas Hanlin) [Adventure, Interactive Fiction].zip
+
+Moses - Old Testament Adventure #1 (1987)(Three Rivers Software) [Adventure, Interactive Fiction].zip
+
+Mr. KONG [h1] (1987)(Keypunch Software, Inc.) [Action].zip
+
+Muncher v2.0 (1987)(Keith G. Chuvala) [Action].zip
+
+Mushroom Mania (1987)(Britannia Software) [Action].zip
+
+Mutant Invasion (1987)(Michael D. Wile) [Adventure, Interactive Fiction].zip
+
+Nations and Capitals (1987)(Softdisk Publishing) [Educational].zip
+
+Nebulus (1987)(Hewson Consultants Ltd.) [Action].zip
+
+Nebulus [h1] (1987)(Hewson Consultants Ltd.) [Action].zip
+
+Nectar of the Gods v2.0 (1987)(Doug Rogers) [Adventure, Interactive Fiction].zip
+
+Nord and Bert Couldnt Make Head or Tail of It r19 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Nuclear Sub Adventure v1.52 [SW] (1987)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+Nuclear Sub Adventure v1.53 [SW] (1987)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+Oligopoly (1987)(XOR Corporation) [Simulation, Strategy] [!].zip
+
+Oo-Topos (1987)(Polarware - Penguin Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Orcrist [SW] (1987)(Greg Hjelstrom) [Action, Adventure].zip
+
+Orphee- Voyage Aux Enfers (Fr) (1987)(Loriciels) [Adventure, Interactive Fiction].zip
+
+PC-Darts (1987)(Reed Topham) [Sports, Strategy].zip
+
+PC Downs (1987)(Michael P. Ellerbe) [Simulation, Sports].zip
+
+PC Downs [a1] (1987)(Michael P. Ellerbe) [Simulation, Sports].zip
+
+PRO Challenge (1987)(XOR Corporation) [Sports, Strategy, Simulation].zip
+
+Pack PC Opera Soft (Sp) [DC] (1987)(Opera Soft) [Action, Compilation].img.zip
+
+Palace Adventure (1987)(PC-SIG) [Adventure, Interactive Fiction].zip
+
+Pasajeros Del Viento, Los (Sp) (1987)(Infogrames) [Adventure, Interactive Fiction].zip
+
+Passengers on the Wind (1987)(Infogrames) [Adventure, Interactive Fiction].zip
+
+Passengers on the Wind 2- The Hour of the Snake (1987)(Infogrames) [Adventure, Interactive Fiction].zip
+
+Passengers on the Wind 2- The Hour of the Snake [a1] (1987)(Infogrames) [Adventure, Interactive Fiction].zip
+
+Patton vs. Rommel (1987)(Electronic Arts, Inc.) [Strategy].zip
+
+Pearl Harbour [SW] (1987)(M. C. Dor) [Action].zip
+
+Pente (1987)(Michael Leach) [Strategy].zip
+
+Pentis (1987)(M.T.M.) [Strategy, Puzzle].zip
+
+Phantasie v1.1 (1987)(Wizardware Group Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Philosophers Quest (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+
+Pinball Wizard (1987)(Accolade, Inc.) [Simulation].zip
+
+Pirates of the Barbary Coast (1987)(Keypunch Software, Inc.) [Adventure, Strategy].zip
+
+Platoon (CGA) (1987)(Data East Corporation) [Action].zip
+
+Plundered Hearts r26 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Poker! (1987)(ShareData, Inc.) [Strategy, Cards].zip
+
+Poko Memorial- 18th Hole Miniature Golf v3.0 (1987)(Gold Hill Software) [Simulation, Sports].zip
+
+Porno Adventure v3.4 (1987)(Dr. Otto Breeser) [Interactive Fiction, Adult].zip
+
+President Elect- 1988 Edition v2.1 (1987)(Strategic Simulations, Inc.) [Simulation, Strategy].zip
+
+Pro-League Baseball (1987)(Keypunch Software, Inc.) [Action, Sports, Compilation].zip
+
+Professional Blackjack v2.2 (1987)(Stuart Tomares) [Strategy, Cards].zip
+
+Prohibition (Multi-4) (1987)(Infogrames) [Action].zip
+
+Prohibition (Sp) (1987)(Infogrames) [Action].zip
+
+Project- Space Station (1987)(Accolade, Inc.) [Educational, Simulation].zip
+
+Project- Space Station [a1] (1987)(Accolade, Inc.) [Educational, Simulation].zip
+
+Proton (1987)(Clove Software) [Action].zip
+
+Prowler [DC] (1987)(Mastertronic Group Ltd.) [Action].zip
+
+Pub Pool (1987)(Mastertronic Group Ltd.) [Simulation, Sports].zip
+
+Pyramid Solitaire [SW] (1987)(Raymond M. Buti) [Strategy].zip
+
+Qin (Fr) (1987)(ERE Informatique) [Adventure, Interactive Fiction].zip
+
+Quest of Kukulcan [SW] (1987)(PC-SIG) [Adventure, Interactive Fiction].zip
+
+RSVP (1987)(Blue Lion Software) [Educational].zip
+
+Rad Warrior (1987)(Epyx, Inc.) [Action].zip
+
+Rad Warrior [a1] (1987)(Epyx, Inc.) [Action].zip
+
+Ralph Bossons High Seas (1987)(Garde Games Of Distinction) [Strategy].zip
+
+Rasterscan [DC] (1987)(Mastertronic Group Ltd.) [Adventure, Strategy].zip
+
+Reader Rabbit v2.3 (1987)(Learning Company, The) [Educational].zip
+
+Rebel Charge at Chickamauga (1987)(Strategic Simulations, Inc.) [Simulation, Strategy, War].zip
+
+Rescate (Sp) (1987)(Proein) [Interactive Fiction].zip
+
+Rimworld v2.11 [SW] (1987)(Russel A. Duderstadt) [Adventure, Interactive Fiction].zip
+
+Rings of Zilfin (1987)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Roadwar 2000 (1987)(Strategic Simulations, Inc.) [Adventure, Strategy].zip
+
+Roadwar Europa (1987)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG), Strategy].zip
+
+Roadwar Europa [a1] (1987)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG), Strategy].zip
+
+Roberta Williams Mixed-Up Mother Goose (AGI) (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Roberta Williams Mixed-Up Mother Goose (AGI) [h1] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Robots (1987)(Allan Black) [Strategy].zip
+
+Rockford- The Arcade Game (1987)(First Star Software, Inc.) [Strategy].zip
+
+Rockford- The Arcade Game [a1] (1987)(First Star Software, Inc.) [Strategy].zip
+
+Rockford- The Arcade Game [a2] (1987)(First Star Software, Inc.) [Strategy].zip
+
+Rockford- The Arcade Game [a3] (1987)(First Star Software, Inc.) [Strategy].zip
+
+Rush Hour [SW] (1987)(Steve Leonard) [Strategy].zip
+
+S.D.I. (1987)(Mindscape, Inc.) [Action, Adventure].zip
+
+Saboteur II (1987)(Keypunch Software, Inc.) [Action, Adventure].zip
+
+Saboteur II [a1] (1987)(Keypunch Software, Inc.) [Action, Adventure].zip
+
+Saboteur II [tr Ru] (1987)(Keypunch Software, Inc.) [Action, Adventure].zip
+
+Sapiens (Fr)(En) [b1] (1987)(Loriciel SA) [Action, Adventure].zip
+
+Scrabble (1987)(Vic Rice) [Strategy].zip
+
+Scrabble [f1] (1987)(Vic Rice) [Strategy].zip
+
+Seabattle (1987)(Creative Computing) [Strategy].zip
+
+Search and Destroy! [h1] (1987)(Broderbund Software, Inc.) [Action, Strategy].zip
+
+Sesame Street Crayon- Letters For You v2.1 (1987)(Polarware - Penguin Software, Inc.) [Educational].zip
+
+Sesame Street Crayon- Opposites Attract v2.1 (1987)(Polarware - Penguin Software, Inc.) [Educational].zip
+
+Seven Spirits of Ra, The (1987)(Sir-tech Software, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Seven Spirits of Ra, The [a1] (1987)(Sir-tech Software, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Shard of Spring (1987)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Sherlock- The Riddle of the Crown Jewels r21 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Sherlock- The Riddle of the Crown Jewels r27 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Shiloh- Grants Trial in the West v1.1 (1987)(Strategic Simulations, Inc.) [Strategy, War].zip
+
+Shogun (1987)(Mastertronic Group Ltd.) [Adventure].zip
+
+Shogun [a1] (1987)(Mastertronic Group Ltd.) [Adventure].zip
+
+Shogun [a2] (1987)(Mastertronic Group Ltd.) [Adventure].zip
+
+Shogun [a3] (1987)(Mastertronic Group Ltd.) [Adventure].zip
+
+Side Arms Hyper Dyne (1987)(GO!) [Action].zip
+
+Sidewalk (En)(Fr)(De) (1987)(Infogrames Multimedia SA) [Action, Adventure].zip
+
+Silver Cloud, The (1987)(Anonymous) [Adventure, Interactive Fiction].zip
+
+Skyrunner (1987)(Cascade Games Ltd.) [Action].zip
+
+Skyrunner [a1] (1987)(Cascade Games Ltd.) [Action].zip
+
+Snake Ranger Game, The v2.1 (1987)(Allen P. Kirisuk) [Action].zip
+
+Solitaire Royale (1987)(Spectrum HoloByte, Inc.) [Strategy, Cards].zip
+
+Solitaire Royale [a1] (1987)(Spectrum HoloByte, Inc.) [Strategy, Cards].zip
+
+Solitaire Royale v1.5 (1987)(Spectrum HoloByte, Inc.) [Strategy, Cards].zip
+
+Sorcerer of Claymorgue Castle (1987)(Adventure International) [Adventure, Interactive Fiction].zip
+
+Space Panels [SW] (1987)(Tommys Toys) [Action].zip
+
+Space Quest- The Sarien Encounter v2.2 (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Space Quest- The Sarien Encounter v2.2 [a1] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+
+Sports Spectacular (1987)(Keypunch Software, Inc.) [Action, Sports, Compilation].zip
+
+Spys Adventures in Europe, The (1987)(Polarware) [Adventure, Educational].zip
+
+Spys Adventures in North America, The (1987)(Polarware) [Adventure, Educational].zip
+
+Spys Adventures in North America, The [a1] (1987)(Polarware) [Adventure, Educational].zip
+
+Spys Adventures in South America, The (1987)(Polarware) [Adventure, Educational].zip
+
+Sram (Fr) (1987)(Ere Informatique) [Adventure].zip
+
+Sram 2 (Fr) (1987)(Ere Informatique) [Adventure].zip
+
+Star Lord (1987)(Keith W. Cox) [Strategy].zip
+
+Star Lord (1987)(Softbook) [Action, Strategy].zip
+
+Star Rank Boxing II (1987)(Activision, Inc.) [Action, Sports].zip
+
+StarShip- Invasion v2.1 [SW] (1987)(Thinking Machine Associates) [Simulation].zip
+
+Star Ship Command (1987)(Don G. Bowen) [Strategy].zip
+
+Star Trek- The Kobayashi Alternative (1987)(Simon & Schuster Interactive) [Adventure, Interactive Fiction].zip
+
+Star Wars (1987)(Broderbund Software, Inc.) [Action].zip
+
+Stationfall r107 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Street Sports Baseball (1987)(Epyx, Inc.) [Sports].zip
+
+Street Sports Basketball (1987)(Epyx, Inc.) [Sports].zip
+
+Street Sports Basketball [a1] (1987)(Epyx, Inc.) [Sports].zip
+
+String Game, The [SW] (1987)(Invisible Light Soft) [Strategy, Educational].zip
+
+Stuart Smiths Adventure Construction Set (1987)(Electronic Arts, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Sub Battle Simulator (1987)(Epyx, Inc.) [Simulation].zip
+
+Sub Mission (1987)(Mindscape, Inc.) [Action, Strategy].zip
+
+Super Hang-On (1987)(Data East USA, Inc.) [Racing - Driving].zip
+
+Super Hang-On [a1] (1987)(Data East USA, Inc.) [Racing - Driving].zip
+
+Super Hang-On [h1] (1987)(Data East USA, Inc.) [Racing - Driving].zip
+
+Super Pinball Disk One [SW] (Pinball Construction Set) (1987)(Russco) [Action, Compilation].zip
+
+Superbike Challenge (1987)(Broderbund Software, Inc.) [Racing - Driving].zip
+
+Superbike Challenge v1.1 (1987)(Broderbund Software, Inc.) [Racing - Driving].zip
+
+Supernova v.B (1987)(Apogee Software, Ltd.) [Adventure, Interactive Fiction].zip
+
+Superstar Ice Hockey (1987)(Mindscape, Inc.) [Sports].zip
+
+Superstar Ice Hockey [a1] (1987)(Mindscape, Inc.) [Sports].zip
+
+Superstar Ice Hockey [a2] (1987)(Mindscape, Inc.) [Sports].zip
+
+Superstar Indoor Sports (1987)(Mindscape, Inc.) [Action, Sports].zip
+
+Superstar Indoor Sports [a1] (1987)(Mindscape, Inc.) [Action, Sports].zip
+
+Survival in New York City (1987)(Anonymous) [Adventure, Interactive Fiction].zip
+
+Swords and Sorcery (1987)(Keypunch Software, Inc.) [Adventure, Role-Playing (RPG), Compilation].zip
+
+Talisman- Challenging the Sands of Time (1987)(Polarware - Penguin Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Talisman- Challenging the Sands of Time [f1] (1987)(Polarware - Penguin Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Tau Ceti (1987)(Thunder Mountain) [Action, Simulation] [!].zip
+
+Terror in the Ice Caverns v1.52 [SW] (1987)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+Terror in the Ice Caverns v1.52 [SW] [h1] (1987)(Agency Automation) [Adventure, Interactive Fiction].zip
+
+Test Drive [a1] (1987)(Accolade, Inc.) [Racing - Driving, Simulation].zip
+
+Test Drive [h1] (1987)(Accolade, Inc.) [Racing - Driving, Simulation].zip
+
+Tetris (1987)(Spectrum HoloByte, Inc.) [Action, Strategy].zip
+
+Tetris [a1] (1987)(Spectrum HoloByte, Inc.) [Action, Strategy].zip
+
+Thexder (1987)(Sierra On-Line, Inc.) [Action].zip
+
+Thexder [a1] (1987)(Sierra On-Line, Inc.) [Action].zip
+
+Thexder [a2] (1987)(Sierra On-Line, Inc.) [Action].zip
+
+Thexder [a3] (1987)(Sierra On-Line, Inc.) [Action].zip
+
+Think Quick! (1987)(Learning Company, The) [Adventure, Educational, Strategy].zip
+
+Thormark Blackjack (1987)(Thormark Systems) [Strategy, Cards].zip
+
+Three Dimensional Star Trek v1.1 [SW] (1987)(Carl Schelin) [Strategy].zip
+
+Three Dimensional Star Trek v1.1 [SW][a1] (1987)(Carl Schelin) [Strategy].zip
+
+Time Warp (Pinball Construction Set) (1987)(David and Eric Johnson) [Action].zip
+
+Tomahawk (Multi-3) (1987)(Datasoft, Inc.) [Simulation].zip
+
+Tommys Backgammon [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Ball Train [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Crosswords [SW] (1987)(Tommys Toys) [Strategy, Puzzle].zip
+
+Tommys Dice [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Double L [SW] (1987)(Tommys Toys) [Strategy, Puzzle].zip
+
+Tommys Enet [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Flipout [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Floppy Discus [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Gin Rummy [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Global Thermonuclear War [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Gorilla Ball Babies [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Gorilla Ball Gauntlet [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Gorilla Ball Gotcha [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Gorilla Ball Tag [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Gorilla Ball Train [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys High IQ [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Jupiter Jet [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Kiddie Cards [SW] (1987)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Maxit [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Nim [SW] (1987)(Tommys Toys) [Strategy, Puzzle].zip
+
+Tommys Rocks [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Space Dungeons [SW] (1987)(Tommys Toys) [Adventure, Role-Playing (RPG)].zip
+
+Tommys Space Goblins [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Tanks [SW] (1987)(Tommys Toys) [Action].zip
+
+Tommys Tic Tac Toe [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Towers of Hanoi [SW] (1987)(Tommys Toys) [Strategy, Puzzle].zip
+
+Tommys Tricks [SW] (1987)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Trifles [SW] (1987)(Tommys Toys) [Strategy, Puzzle].zip
+
+Tommys Tyrants [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Wheel of Misfortune- Potpourri Edition [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Wheel of Misfortune [SW] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Wheel of Misfortune [SW][a1] (1987)(Tommys Toys) [Strategy].zip
+
+Tommys Wheel of Misfortune [SW][a2] (1987)(Tommys Toys) [Strategy].zip
+
+Top Secret (Fr) (1987)(Loriciels) [Adventure].zip
+
+Tracker (1987)(Rainbird Software) [Action].zip
+
+Transylvania (1987)(Polarware - Penguin Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Transylvania (Tandy) (1987)(Polarware - Penguin Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Transylvania [f1] (1987)(Polarware - Penguin Software, Inc.) [Adventure, Interactive Fiction].zip
+
+Trekboer v1.3 (1987)(Mark Data Products) [Adventure, Interactive Fiction].zip
+
+Trek v2.8 [SW] (1987)(Carl McLawhorn) [Strategy].zip
+
+Trifles Trivia [SW] (1987)(MCS) [Trivia][!].zip
+
+Trilogy [DC] (1987)(Mastertronic Group Ltd.) [Adventure, Compilation].zip
+
+Triskelion (1987)(Neil Rubenking) [Strategy].zip
+
+Trivia Quespians Volume I- Rock-n-Roll vI.8.0 (1987)(Poly Concepts Corporation) [Trivia].zip
+
+Trivial Pursuit (Fr) (1987)(Domark Software, Inc.) [Strategy, Trivia].zip
+
+Trivial Pursuit (Sp) (1987)(Domark Software, Inc.) [Strategy, Trivia].zip
+
+Trojan (1987)(Capcom Co., Ltd.) [Action][!].zip
+
+Trojan [h1] (1987)(Capcom Co., Ltd.) [Action].zip
+
+Truco v3.4 (Sp) (1987)(Transworld System) [Strategy, Cards].zip
+
+Truco v3.4 (Sp)[h1] (1987)(Transworld System) [Strategy, Cards].zip
+
+Truco v3.4 (Sp)[h2] (1987)(Transworld System) [Strategy, Cards].zip
+
+Truco v3.4 (Sp)[h3] (1987)(Transworld System) [Strategy, Cards].zip
+
+Trust and Betrayal- The Legacy of Siboot (1987)(Mindscape, Inc.) [Educational, Simulation, Strategy].zip
+
+Turbo (1987)(Doug Ross) [Action].zip
+
+Turbo Blackjack v2.5 (1987)(Paul Ferguson) [Strategy, Cards].zip
+
+Turbo Gomoku v4.0 (1987)(Borland International) [Strategy].zip
+
+Two Bit Poker [SW] (1987)(Mark C. Williston) [Strategy, Cards].zip
+
+UMS- The Universal Military Simulator v1.3 (1987)(Firebird Software Ltd.) [Strategy].zip
+
+UMS- The Universal Military Simulator v1.3 [a1] (1987)(Firebird Software Ltd.) [Strategy].zip
+
+UMS- The Universal Military Simulator v1.5 (1987)(Firebird Software Ltd.) [Strategy].zip
+
+Ultima I- The First Age of Darkness (1987)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Ultima III- Exodus [f1] (1987)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Ultima IV- Quest of the Avatar (1987)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Under Fire! (1987)(Avalon Hill) [Simulation].zip
+
+Under The Ice v1.2 [SW] (1987)(PC-SIG) [Adventure, Interactive Fiction].zip
+
+Universe v1.3 (1987)(Omnitrend Software) [Adventure, Role-Playing (RPG)].zip
+
+Up n Down (1987)(SEGA Enterprises Ltd.) [Action, Racing - Driving].zip
+
+Vegas Casino (1987)(Mastertronic Group Ltd.) [Strategy, Simulation][!].zip
+
+Vegas Gambler [h1] (1987)(Logical Design Works, Inc.) [Simulation].zip
+
+Vegas Gambler [h2] (1987)(Logical Design Works, Inc.) [Simulation].zip
+
+Vegas Gambler v1.1 (1987)(Logical Design Works, Inc.) [Simulation].zip
+
+Video Vegas (1987)(Baudville) [Strategy, Simulation].zip
+
+Wheel of Fortune - Junior Edition (1987)(ShareData, Inc.) [Strategy].zip
+
+Wheel of Fortune - Junior Edition [a1] (1987)(ShareData, Inc.) [Strategy].zip
+
+Wheel of Fortune - Junior Edition [a2] (1987)(ShareData, Inc.) [Strategy].zip
+
+Wheel of Fortune v600072B (1987)(ShareData, Inc.) [Strategy][!].zip
+
+Wheel of Fortune v600072D (1987)(ShareData, Inc.) [Strategy][!].zip
+
+Where Time Stood Still (1987)(Ocean Software Ltd.) [Action, Adventure].zip
+
+Where in the U.S.A. is Carmen Sandiego_ (1987)(Broderbund Software, Inc.) [Educational].zip
+
+Willy the Worm Part II- The Big Trip Home [SW] (1987)(Alan Farmer) [Action].zip
+
+Wizard Warz (1987)(GO!) [Action, Adventure, Role-Playing (RPG)].zip
+
+Wizball (1987)(Ocean Software Ltd.) [Action].zip
+
+Wizball [DC] (1987)(Ocean Software Ltd.) [Action].img.zip
+
+Wizball [a1] (1987)(Ocean Software Ltd.) [Action].zip
+
+Wizball [a2] (1987)(Ocean Software Ltd.) [Action].zip
+
+World Class Chess (1987)(Melody Hall Publishing Corp.) [Strategy, Chess].zip
+
+Worm Burner (1987)(COMPUTE! Publications, Inc.) [Action].zip
+
+X-Monopoly (1987)(Anonymous) [Strategy, Adult].zip
+
+Yaht v1.4 (1987)(MicroLink) [Strategy].zip
+
+Yaht v2.1 (1987)(MicroLink) [Strategy].zip
+
+
+8088_friendly - 1988
+------------------------------------------------------------
+target:	/Users/peteyoung/Downloads/oldskool.org/8088_friendly/1988
+source:	http://ftp.oldskool.org/pub/misc/Software/Games/8088-friendly/1988
+
+
+$100,000 Pyramid, The (1988)(Box Office) [Trivia].zip
+
+$100,000 Pyramid, The v1.3 (1988)(Box Office) [Trivia].zip
+
+1PINBALL (Pinball Construction Set) (1988)(Anonymous) [Action].zip
+
+4th & Inches (1988)(Accolade, Inc.) [Action, Sports, Strategy].zip
+
+4th & Inches Team Construction Disk (1988)(Accolade, Inc.) [Action, Editor, Sports].zip
+
+4th & Inches [a1] (1988)(Accolade, Inc.) [Action, Sports, Strategy].zip
+
+4x4 Off-Road Racing (1988)(Epyx, Inc.) [Action, Racing - Driving].zip
+
+4x4 Team (Sp) (1988)(Infodisc) [Action, Racing - Driving].zip
+
+8 Puzzle, The (1988)(Norman Newman, Kibbutz Mishmar David) [Strategy].zip
+
+20,000 Leagues Under the Sea (1988)(Coktel Vision) [Adventure].zip
+
+20,000 Leagues Under the Sea (Sp) [h1] (1988)(Coktel Vision) [Adventure].zip
+
+20th Century Frog (De) (1988)(Tomas Kettenring) [Action].zip
+
+688 Attack Sub (Maxell Special Edition) (Demo) (1988)(Electronic Arts, Inc.) [Simulation].zip
+
+2400 A.D. (1988)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+A Night With Troi (1988)(BadMan) [Adventure, Interactive Fiction, Adult].zip
+
+ARK... (1988)(Scott Demers) [Action].zip
+
+Accordion Solitaire v1.01 [SW] (1988)(Raymond M. Buti) [Strategy, Cards].zip
+
+Acquire v1.1 (1988)(Bill Humphrey) [Strategy].zip
+
+Adventure, The (1988)(C-Tek industries) [Adventure].zip
+
+Adventure Game Toolkit [SW] (1988)(Softworks) [Adventure, Interactive Fiction, Editor].zip
+
+Adventure Quest IV - Adventure Games v1.1 (1988)(Keypunch Software, Inc.) [Adventure, Compilation].zip
+
+Adventure Quest IV - Strategy Games v1.1 (1988)(Keypunch Software, Inc.) [Strategy, Compilation].zip
+
+Adventures of Captain Comic Episode 1, The - Planet of Death [SW] (1988)(Michael A. Denio) [Action].zip
+
+Adventures of Captain Comic Episode 1, The - Planet of Death [SW][h1] (1988)(Michael A. Denio) [Action].zip
+
+Adventures of Captain Comic Episode 1, The - Planet of Death [SW][h2] (1988)(Michael A. Denio) [Action].zip
+
+Adventures of Captain Comic Episode 1, The - Planet of Death r2 [SW] (1988)(Michael A. Denio) [Action].zip
+
+Air Traffic Controller [SW] (1988)(MicroComputing Concepts) [Simulation].zip
+
+Airborne Ranger v441.01 (1988)(MicroProse Software, Inc.) [Action, Simulation].zip
+
+Airborne Ranger v441.01 [a1] (1988)(MicroProse Software, Inc.) [Action, Simulation].zip
+
+Airborne Ranger v441.01 [h1] (1988)(MicroProse Software, Inc.) [Action, Simulation].zip
+
+Airborne Ranger v441.03 (1988)(MicroProse Software, Inc.) [Action, Simulation].zip
+
+Ajedrez (Sp) (1988)(J.V. Enterprises S.A.) [Strategy, Chess].zip
+
+Alfs Party Kit (1988)(Box Office) [Educational].zip
+
+Alf- The First Adventure v3.2 (1988)(Box Office) [Action].zip
+
+Alf- The First Adventure v3.3 (1988)(Box Office) [Action].zip
+
+Alf- Thinking Skills (1988)(Vision Software) [Educational].zip
+
+Alf- World of Words (1988)(Vision Software) [Educational].zip
+
+Aliants- The Desperate Battle for Earth (1988)(Starsoft Development Laboratories, Inc.) [Action].zip
+
+Aliants- The Desperate Battle for Earth v1.1 (1988)(Keypunch Software, Inc.) [Action].zip
+
+Alternate Reality- The City (EGA) (1988)(Datasoft, Inc.) [Role-Playing (RPG)].zip
+
+Amys First Primer [SW][a2] (1988)(Computing Specialties) [Educational].zip
+
+Anacreon Reconstruction 4021 v1.0d (Demo) (1988)(Thinking Machine Associates) [Strategy].zip
+
+Annals of Rome (1988)(Personal Software Services) [Strategy].zip
+
+Apollo 18- Mission to the Moon (1988)(Accolade, Inc.) [Simulation].zip
+
+Arcade Volleyball (1988)(COMPUTE! Publications, Inc.) [Sports].zip
+
+Arcade Volleyball [a1] (1988)(COMPUTE! Publications, Inc.) [Sports].zip
+
+Argh v2.0 (1988)(David B. Howorth) [Strategy].zip
+
+Arkanoid (1988)(Taito Corporation) [Action].zip
+
+Arkanoid (CGA) (1988)(Taito Corporation) [Action].zip
+
+Arkanoid (CGA) [a1] (1988)(Taito Corporation) [Action].zip
+
+Arkanoid [a1] (1988)(Taito Corporation) [Action].zip
+
+Arkanoid [a2] (1988)(Taito Corporation) [Action].zip
+
+Arkanoid [a3] (1988)(Taito Corporation) [Action].zip
+
+Arkanoid [h1] (1988)(Taito Corporation) [Action].zip
+
+Arkanoid [h2] (1988)(Taito Corporation) [Action].zip
+
+Arkanoid [h3] (1988)(Taito Corporation) [Action].zip
+
+Armorik the Viking- The Eight Conquests (1988)(Infogrames) [Action].zip
+
+Armorik the Viking- The Eight Conquests [a1] (1988)(Infogrames) [Action].zip
+
+Arnhem (1988)(Cases Computer Simulations) [Strategy, War].zip
+
+Around The World In Eighty Days (1988)(Lloyd Holliday) [Adventure, Interactive Fiction].zip
+
+Artillery Combat (EGA) [SW] (1988)(Rad Delaroderie) [Strategy].zip
+
+Artillery Combat (VGA) [SW] (1988)(Rad Delaroderie) [Strategy].zip
+
+Astro Blaster (1988)(Rolf Franzon) [Action].zip
+
+Astronomy Quiz (1988)(Softdisk Publishing) [Educational, Trivia].zip
+
+Autoduel (1988)(ORIGIN Systems, Inc.) [Adventure, Racing - Driving, Role-Playing (RPG), Simulation].zip
+
+Awesome Earl in SkateRock (1988)(ShareData, Inc.) [Action, Sports] [!].zip
+
+Awesome Earl in SkateRock [h1] (1988)(ShareData, Inc.) [Action, Sports].zip
+
+B24 (1988)(Strategic Simulations, Inc.) [Action, Simulation].zip
+
+Baal (1988)(Psygnosis Limited) [Action].zip
+
+Bad Dudes (1988)(Data East USA, Inc.) [Action].zip
+
+Ball Race (1988)(Carl Mclawhorn) [Racing - Driving, Simulation, Strategy].zip
+
+Baseball v15 [SW] (1988)(Russell J. Yuma) [Action].zip
+
+Basstour [SW] (1988)(Dick Olsen) [Sports, Simulation].zip
+
+Basstour v2.0 [SW] (1988)(Dick Olsen) [Sports, Simulation].zip
+
+BattleTech- The Crescent Hawks Inception (1988)(Infocom, Inc.) [Role-Playing (RPG), Strategy].zip
+
+Battleship (1988)(G.S.Alberts) [Strategy].zip
+
+Bedlam (1988)(GO!) [Action].zip
+
+Begin v1.6 [SW] (1988)(Clockwork Software) [Strategy, Simulation].zip
+
+Better Dead Than Alien! [h1] (1988)(Electra) [Action].zip
+
+Beyond The Tesseract v2.0p (1988)(David Lo) [Adventure].zip
+
+Big Blue Disk #16 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #17 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #18 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #20 v1.50 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #20 v1.50 [a1] (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #21 v1.51 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #22 v1.52 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #23 v1.52 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #24 v1.52 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #25 v1.52 (1988)(Softdisk Publishing) [Compilation].zip
+
+Big Blue Disk #26 v1.52 (1988)(Softdisk Publishing) [Compilation].zip
+
+Biznesman (Pl) (1988)(Samba S.A.) [Strategy].zip
+
+Black Cauldron, The v2.10 (1988)(Sierra On-Line, Inc.) [Adventure].zip
+
+Black Cauldron, The v2.10 [a1] (1988)(Sierra On-Line, Inc.) [Adventure].zip
+
+Blammo! [SW] (1988)(Star-Systems) [Action].zip
+
+Blitzkrieg- Battle At The Ardennes (1988)(Raw Entertainment) [Simulation, Strategy].zip
+
+Blockbuster! (1988)(Mindscape, Inc.) [Action].zip
+
+Blueberry (Sp) (1988)(Coktel Vision) [Action].zip
+
+BoBo (Fr) (1988)(Infogrames) [Action] [!].zip
+
+BoBo (Fr) [h1] (1988)(Infogrames) [Action].zip
+
+Bubble Ghost (1988)(Accolade, Inc.) [Strategy].zip
+
+Bubble Ghost [a1] (1988)(Accolade, Inc.) [Strategy].zip
+
+Bubble Ghost [h1] (1988)(Accolade, Inc.) [Strategy].zip
+
+Burger Blaster (1988)(COMPUTE! Publications, Inc.) [Action].zip
+
+CCHESS - IBM PC Conference Chess v1.2 [SW] (1988)(CABER Software) [Strategy, Chess].zip
+
+Cabal (1988)(Capcom U.S.A., Inc.) [Action].zip
+
+Caddiehack [SW] (1988)(MICODE Developments) [Sports, Action].zip
+
+Caddiehack [SW][a1] (1988)(MICODE Developments) [Sports, Action].zip
+
+Caddiehack [SW][a2] (1988)(MICODE Developments) [Sports, Action].zip
+
+California Games v1.01 (1988)(Epyx, Inc.) [Sports].zip
+
+California Games v1.01 [tr Sp][h1] (1988)(Epyx, Inc.) [Sports].zip
+
+California Raisins, The (1988)(Box Office) [Action].zip
+
+Capone (1988)(Actionware Corporation) [Action].zip
+
+Capone [a1] (1988)(Actionware Corporation) [Action].zip
+
+Captain Blood (1988)(Mindscape, Inc.) [Adventure].zip
+
+Captain Blood [a1] (1988)(Mindscape, Inc.) [Adventure].zip
+
+Captain Power and the Soldiers of the Future (1988)(Box Office) [Action].zip
+
+Card Sharks (1988)(ShareData, Inc.) [Strategy, Cards].zip
+
+Castles & Kings [SW] (1988)(Steve Hanson) [Strategy].zip
+
+Charlie Chaplin (1988)(U.S. Gold Ltd.) [Action].zip
+
+Charlie Chaplin [a1] (1988)(U.S. Gold Ltd.) [Action].zip
+
+Chase on Tom Sawyers Island, The (1988)(Hi-Tech Expressions, Inc.) [Action].zip
+
+Checkers (1988)(Paul D-Ascensio) [Strategy].zip
+
+Chess & Checkers Gameboard v2.0 [SW] (1988)(Keith Schuler) [Strategy, Chess].zip
+
+ChessMaster 2000 v1.21 (Vendex Headstart) (1988)(Software Toolworks) [Strategy, Chess].zip
+
+Chutes & Ladders (1988)(GameTek, Inc.) [Strategy].zip
+
+Circus Games (1988)(Keypunch Software, Inc.) [Action].zip
+
+Classic Concentration (1988)(ShareData, Inc.) [Strategy][!].zip
+
+Club Backgammon v2.0 (1988)(California Dreams) [Strategy].zip
+
+Colony, The (1988)(Mindscape, Inc.) [Action, Adventure].zip
+
+Colossus Bridge (1988)(CDS Software Ltd.) [Strategy, Cards].zip
+
+Computer Quiz, The (1988)(Softdisk Publishing) [Educational].zip
+
+Contra (1988)(Konami, Inc.) [Action].zip
+
+Corporate Raider- The Pirate of Wall St. (1988)(Cosmi Corporation) [Simulation, Strategy].zip
+
+Crazy Eights (1988)(Softdisk Publishing) [Strategy].zip
+
+Creative Learning Series, The- Decimals - Fractions - Percents v2.2 (1988)(Vision Software Inc.) [Educational].zip
+
+Creative Learning Series, The- Multiplication - Division v2.0 (1988)(Vision Software Inc.) [Educational].zip
+
+Crystal Ball v3.01 [SW] (Installer) (1988)(Digital Horizons) [Simulation].zip
+
+Cubits [SW] (1988)(Brian Schaller) [Action].zip
+
+Cunning Football [SW] (1988)(Cass Cunningham) [Simulation, Sports].zip
+
+Cunning Football v1.2 [SW] (1988)(Cass Cunningham) [Simulation, Sports].zip
+
+DND - Dungeons of the Necromancers Domain v2.0.0 [SW] (1988)(R.O. Software) [Role-Playing (RPG)].zip
+
+DND - Dungeons of the Necromancers Domain v2.0.1 [SW] (1988)(R.O. Software) [Role-Playing (RPG)].zip
+
+DND - Dungeons of the Necromancers Domain v2.0.1 [SW][a1] (1988)(R.O. Software) [Role-Playing (RPG)].zip
+
+Dan Buntens Modem Wars (1988)(Electronic Arts, Inc.) [Strategy].zip
+
+Dark Continent [SW] (1988)(Conrad Button) [Adventure, Interactive Fiction].zip
+
+Dark Side (1988)(Incentive Software) [Action].zip
+
+Deadly Maze [SW] (1988)(Software Concepts) [Action].zip
+
+DeathRace Release 2 [SW] (1988)(Tesseract Software) [Action].zip
+
+Death Sword (1988)(Epyx, Inc.) [Action].zip
+
+Death Sword [h1] (1988)(Epyx, Inc.) [Action].zip
+
+Decision at Gettysburg (1988)(Tiglon Software) [Strategy, Simulation].zip
+
+Demons Maze [SW] (1988)(Anonymous) [Adventure, Role-Playing (RPG)].zip
+
+Der Ring Des Nibelungen (1988)(Michael R. Harris) [Adventure, Interactive Fiction].zip
+
+Designasaurus v041988 (1988)(Britannica Software) [Educational].zip
+
+Discovery U.S. History and Geography (1988)(Maverick Software, Inc.) [Educational].zip
+
+Dive Bomber (1988)(U.S. Gold Ltd.) [Action, Simulation].zip
+
+Dolphin Boating Simulator (1988)(Dolphin Marine Systems, Inc.) [Simulation].zip
+
+Donalds Alphabet Chase (1988)(Disney Software) [Educational].zip
+
+Donalds Alphabet Chase [o1] (1988)(Disney Software) [Educational].zip
+
+Donald Ducks Playground v1.0c (1988)(Sierra On-Line, Inc.) [Educational].zip
+
+Dossier Kha (Fr) (1988)(Microids) [Interactive Fiction].zip
+
+Double Dare (1988)(GameTek, Inc.) [Strategy].zip
+
+Downhill Challenge (1988)(Broderbund Software, Inc.) [Action, Sports].zip
+
+Dr. Eds 4D-Tic (1988)(Viking Technologies, Inc.) [Strategy].zip
+
+Dr. Sleeptite And The Nightmare Factory [SW] (1988)(Keith E. Fieler) [Action].zip
+
+Dracula in London v1.03 (1988)(SDJ Enterprises, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Dracula in London v1.05 (1988)(SDJ Enterprises, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Drag Race Eliminator (1988)(Family Software) [Racing - Driving].zip
+
+Driller (1988)(Incentive Software) [Action, Strategy].zip
+
+Dungeon Masters Assistant Volume 1- Encounters (1988)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+
+Dungeon of Shalan (1988)(Softdisk Publishing) [Action, Adventure].zip
+
+Dungeons of Moria, The v4.872 (1988)(Robert Alan Koeneke) [Adventure, Role-Playing (RPG)].zip
+
+Dungeons of Moria, The v4.873 (1988)(Robert Alan Koeneke) [Adventure, Role-Playing (RPG)].zip
+
+Dungeon v2.6b (1988)(Anonymous) [Adventure, Interactive Fiction].zip
+
+EGA-Solitaire v1.4 (1988)(John A. Junod) [Strategy].zip
+
+EGA Trek [SW] (1988)(Nels Anderson) [Strategy].zip
+
+Eamon Adventure Disk 1 - The Main Hall v2.0 [SW] (1988)(PC-SIG) [Adventure, Role-Playing (RPG)].zip
+
+Eamon Adventure Disk 2 - The Ice Cave [SW] (1988)(PC-SIG) [Adventure, Role-Playing (RPG)].zip
+
+Eamon Adventure Disk 3 - Assault on the Clone Master [SW] (1988)(PC-SIG) [Adventure, Role-Playing (RPG)].zip
+
+Eamon Adventure Disk 4 - Quest For Trezore [SW] (1988)(PC-SIG) [Adventure, Role-Playing (RPG)].zip
+
+Echelon (1988)(Access Software, Inc.) [Adventure, Simulation].zip
+
+Electric Crayon- Dinosaurs are Forever, The v2.0 (1988)(Polarware - Penguin Software, Inc.) [Educational][!].zip
+
+Electric Crayon- Dinosaurs are Forever, The v2.3 (1988)(Polarware - Penguin Software, Inc.) [Educational].zip
+
+Eliza (1988)(Michael Day) [Simulation].zip
+
+Empire- Wargame of the Century v2.05A (1988)(Interstel) [Strategy].zip
+
+Empire- Wargame of the Century v2.05B (1988)(Interstel) [Strategy].zip
+
+Empire- Wargame of the Century v2.05C (1988)(Interstel) [Strategy].zip
+
+Encyclopedia of War- Ancient Battles [a1] (1988)(Cases Computer Simulations Ltd.) [Educational, Strategy].zip
+
+Energieeinsparung im Altbau v1.2 (De) (1988)(Ulrich Pasch) [Strategy].zip
+
+Ernies Magic Shapes v1.5 (1988)(Hi-Tech Expressions, Inc.) [Educational].zip
+
+Evets- The Ultimate Adventure [SW] (1988)(SAck Enterprizes) [Role-Playing (RPG)].zip
+
+FUE - A 3D Adventure (1988)(Jim Adwell) [Adventure].zip
+
+FactPack [SW] (1988)(D. Bodnar) [Educational].zip
+
+Falcon A.T. (1988)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+Falcon A.T. [h1] (1988)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+Fantasy (1988)(Softstuff) [Adventure, Interactive Fiction, Adult].zip
+
+Fantavision (1988)(Broderbund Software) [Educational, Editor].zip
+
+Faraon (It) (1988)(PC Disk Magazine) [Adventure, Interactive Fiction].zip
+
+Fast Break (1988)(Accolade, Inc.) [Action, Sports, Strategy].zip
+
+Fast Break [a1] (1988)(Accolade, Inc.) [Action, Sports, Strategy].zip
+
+Feud (1988)(Mastertronic Group Ltd.) [Action].zip
+
+Final Assault (1988)(Epyx, Inc.) [Action, Simulation, Sports].zip
+
+Final Assault [a1] (1988)(Epyx, Inc.) [Action, Simulation, Sports].zip
+
+Fire Power (1988)(MicroIllusions) [Action].zip
+
+Fire and Forget (1988)(Titus Interactive S.A.) [Action, Racing - Driving].zip
+
+Fire and Forget [a1] (1988)(Titus Interactive S.A.) [Action, Racing - Driving].zip
+
+Firezone (1988)(Arcadia Systems, Inc.) [Strategy].zip
+
+Fisher-Price- Firehouse Rescue (1988)(GameTek, Inc) [Action, Racing - Driving, Educational][!].zip
+
+Fisher-Price- My Grand Piano (1988)(GameTek, Inc) [Educational].zip
+
+Fisher-Price- Perfect Fit (1988)(GameTek, Inc) [Educational].zip
+
+Flippys Circus Coins (1988)(Softdisk Publishing) [Educational].zip
+
+Football Manager 2 (1988)(Addictive Games Ltd) [Sports].zip
+
+Football Manager 2 (Fr) (1988)(Addictive Games Ltd) [Sports].zip
+
+Four Card Solitaire (1988)(Edward Martin) [Strategy, Cards].zip
+
+Franchise Football League (1988)(Space Tech Enterprises) [Simulation, Sports].zip
+
+Frank Brunos Boxing (1988)(Elite Systems Ltd.) [Action, Sports].zip
+
+Freddy Hardest (Sp) [DC] (1988)(Dinamic Software) [Action].img.zip
+
+Free Cell [SW] (1988)(Frog and Peach Software Inc.) [Strategy, Cards].zip
+
+Frigate v1.1 (1988)(Matt Kaufman) [Strategy].zip
+
+Galactic Conqueror [f1] (1988)(Titus France SA) [Action, Strategy].zip
+
+Galactix (1988)(Richard L. Wright) [Action, Adventure].zip
+
+Game Over (Sp) [DC] (1988)(Dinamic Software) [Action].zip
+
+Game Over II [DC] (1988)(Dinamic Software) [Action].img.zip
+
+Game of Yahtzee, The (1988)(Malcolm Garnett) [Strategy].zip
+
+Gamma Force in Pit of a Thousand Screams [DC] (1988)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Gauntlet (1988)(Mindscape, Inc.) [Action].zip
+
+Gauntlet [h1] (1988)(Mindscape, Inc.) [Action].zip
+
+Ghosthunter (De) (1988)(Roman Pfneudl) [Action].zip
+
+Global Thermonuclear War (1988)(Anonymous) [Strategy].zip
+
+Global Thermonuclear War [a1] (1988)(Anonymous) [Strategy].zip
+
+Gnome Ranger II- Ingrids Back! (1988)(Level 9 Computing, Ltd.) [Adventure, Interactive Fiction].zip
+
+Go! v2.0 [SW] (1988)(TMW Co.) [Strategy].zip
+
+Go (1988)(Anonymous) [Strategy].zip
+
+Gokkast v1.3 (De) (1988)(R. van der Wal) [Simulation].zip
+
+Golden Wombat of Destiny, The (1988)(Huw Collingbourne) [Adventure].zip
+
+Grand Prix Circuit [a1] (1988)(Accolade, Inc.) [Racing - Driving, Simulation].zip
+
+Grand Prix Circuit [h1] (1988)(Accolade, Inc.) [Racing - Driving, Simulation].zip
+
+Green Life v1.2 (1988)(Alan Farmer) [Simulation].zip
+
+Guerra Nuclear (Sp) (1988)(Infodisc) [Strategy].zip
+
+HBIBLE [SW] (1988)(Maurice & Michael Mizrahi) [Educational].zip
+
+Halls of Montezuma- A Battle History of the United States Marine Corps (1988)(SSG Strategic Studies Group Pty Ltd.) [Simulation, Strategy].zip
+
+Hangman [SW] (1988)(Khobey Software) [Strategy].zip
+
+Hanse (De) (1988)(ariolasoft GmbH) [Strategy].zip
+
+Harrier Combat Simulator (1988)(Mindscape, Inc.) [Simulation].zip
+
+Harrier Combat Simulator [a1] (1988)(Mindscape, Inc.) [Simulation].zip
+
+Heart (Pinball Construction Set) (1988)(Barry Jones) [Action].zip
+
+High Rollers (1988)(Box Office) [Action, Strategy].zip
+
+High Rollers [a1] (1988)(Box Office) [Action, Strategy].zip
+
+Highe (1988)(Bill Larkins) [Adventure, Interactive Fiction].zip
+
+Hollywood Squares (1988)(GameTek, Inc.) [Strategy].zip
+
+Honeymooners, The (1988)(First Row Software Publishing, Inc.) [Action].zip
+
+Horror Hotel (Nl) (1988)(John Vander Aart) [Adventure, Interactive Fiction].zip
+
+Hover (1988)(COMPUTE! Publications, Inc.) [Action, Sports].zip
+
+Human Killing Machine (1988)(U.S. Gold Ltd.) [Action].zip
+
+Hunchback (1988)(Fireball Software Ltd.) [Action].zip
+
+Hunt for Red October, The (1988)(Datasoft, Inc.) [Simulation].zip
+
+Hunt for Red October CGA, The (1988)(Datasoft, Inc.) [Simulation].zip
+
+Hunt for Red October CGA, The [a1] (1988)(Datasoft, Inc.) [Simulation].zip
+
+Hurlements (Fr) (1988)(Ubi Soft Entertainment Software) [Role-Playing (RPG)].zip
+
+IBM BASIC Quiz (1988)(Softdisk Publishing) [Trivia].zip
+
+Ikari Warriors II- Victory Road [DC] (1988)(Data East Corporation) [Action].zip
+
+Impact! (1988)(Mindscape, Inc.) [Action].zip
+
+Impact! [a1] (1988)(Mindscape, Inc.) [Action].zip
+
+Impossible Mission II [a1] (1988)(Epyx, Inc.) [Action].zip
+
+Insulo Texel, La (Nl) [SW] (1988)(Wim Koolhoven) [Adventure, Interactive Fiction].zip
+
+Jeopardy! Second Edition (1988)(ShareData, Inc.) [Strategy].zip
+
+Jet Fighter- The Adventure (1988)(Velocity Inc.) [Simulation].zip
+
+Jet v2.1 (1988)(subLOGIC) [Simulation].zip
+
+Jet v2.1 [h1] (1988)(subLOGIC) [Simulation].zip
+
+Jordan vs. Bird- One-on-One (1988)(Electronic Arts, Inc.) [Sports].zip
+
+Jordan vs. Bird- One-on-One [h1] (1988)(Electronic Arts, Inc.) [Sports].zip
+
+Jotto v3.01 (1988)(Scott M. Leventhal) [Puzzle, Educational].zip
+
+Jr. Pac-Man (1988)(Thunder Mountain) [Action].zip
+
+Jr. Pac-Man [h1][b1] (1988)(Thunder Mountain) [Action].zip
+
+Jump Jet [h1] (1988)(Anco Software Ltd.) [Simulation].zip
+
+Keys of the Kingdom (1988)(Peterson Computer Company) [Adventure, Interactive Fiction].zip
+
+Kilgore-Backgammon (1988)(Anonymous) [Strategy].zip
+
+King of Chicago, The (1988)(Mindscape, Inc.) [Adventure].zip
+
+King of Chicago, The [a1] (1988)(Mindscape, Inc.) [Adventure].zip
+
+Kings of the Beach (1988)(Electronic Arts, Inc.) [Action, Sports].zip
+
+Knight Exchange (1988)(Softdisk Publishing) [Strategy].zip
+
+Knight Games (1988)(Mastertronic Group Ltd.) [Sports].zip
+
+Koffie v1.1 (Nl) [SW] (1988)(J.A.M. Kleijn Rotterdam) [Adventure, Interactive Fiction].zip
+
+Koffie v2.2 (Nl) [SW] (1988)(J.A.M. Kleijn Rotterdam) [Adventure, Interactive Fiction].zip
+
+Kquest [SW] (1988)(K. Small) [Adventure, Interactive Fiction].zip
+
+Kristor (Fr) (1988)(Loriciels) [Strategy, Action].zip
+
+L.A. Crackdown (1988)(Epyx, Inc.) [Adventure, Strategy].zip
+
+Lancelot (1988)(Datasoft, Inc.) [Adventure].zip
+
+Lancelot [a1] (1988)(Datasoft, Inc.) [Adventure].zip
+
+Lane Mastodon vs. the Blubbermen [DC] (1988)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Lazer Beam Wars [SW] (1988)(Gary Wilkinson) [Action].zip
+
+Les Huit Conquetes d-Armorik le Viking (Fr) (1988)(Infogrames) [Action].zip
+
+Les Huit Conquetes d-Armorik le Viking (Fr) [a1] (1988)(Infogrames) [Action].zip
+
+Life in the Fast Lane (1988)(Softdisk Publishing) [Simulation].zip
+
+Livingstone Supongo (Sp) (1988)(Opera Soft) [Action, Adventure].zip
+
+Livingstone Supongo (Sp) [a1] (1988)(Opera Soft) [Action, Adventure].zip
+
+Livingstone Supongo (Sp) [a2] (1988)(Opera Soft) [Action, Adventure].zip
+
+Lock-On [DC] (1988)(Data East Corporation) [Action].zip
+
+Lost Crown of Queen Anne, The (1988)(Softdisk Publishing) [Adventure].zip
+
+Loves Firey Imbroglio [SW] (1988)(Pinnacle Software) [Adventure].zip
+
+MISL Soccer - Major Indoor Soccer League [h1] (1988)(Mindscape (UK) Limited) [Sports].zip
+
+Mad Mix (Sp) (1988)(U.S. Gold Ltd.) [Action].zip
+
+Mad Mix (Sp) [h1] (1988)(U.S. Gold Ltd.) [Action].zip
+
+Mad Mix (Sp) [h2] (1988)(U.S. Gold Ltd.) [Action].zip
+
+Mad Show (1988)(Silmarils) [Simulation].zip
+
+Mah Jongg v3.0 [SW] (1988)(Nels Anderson) [Strategy].zip
+
+Manhattan Dealers (1988)(Silmarils) [Action].zip
+
+Maniac Mansion (1988)(Lucasfilm Games) [Adventure].zip
+
+Maniac Mansion [a1] (1988)(Lucasfilm Games) [Adventure].zip
+
+Matching Pairs (1988)(Regans Software) [Strategy, Educational].zip
+
+Matterhorn Screamer! (1988)(Hi-Tech Expressions, Inc.) [Action].zip
+
+Maze Runner (1988)(Apogee Software Productions, Keypunch Software, Inc., Softdisk Publishing) [Action].zip
+
+Maze v3.0.6 [SW] (1988)(Wolfgang Stiller) [Strategy].zip
+
+Memory (Sp) (1988)(Compulogical S.A.) [Strategy].zip
+
+Memory Hog Hunter (1988)(Intel) [Action].zip
+
+Metal Cruncher (It) (1988)(CIPA Informatica) [Adventure, Interactive Fiction].zip
+
+Microsoft Flight Simulator- Scenery Disk Western European Tour [DC] (1988)(subLOGIC) [Simulation, Addon].img.zip
+
+Mille Bornes v1.2 [SW] (1988)(Unique Software) [Strategy].zip
+
+Mind-Roll [h1][b1] (1988)(Epyx, Inc.) [Action, Strategy].zip
+
+Mind Games (1988)(Ensign Software) [Compilation].zip
+
+Mindfighter (1988)(Activision, Inc.) [Adventure].zip
+
+Mindfighter [b1] (1988)(Activision, Inc.) [Adventure].zip
+
+Money Bags- Beat the Gnome of Zurich [DC] (1988)(Cosmi Corporation) [Simulation].img.zip
+
+Moraffs Revenge Beginner v3.0 (1988)(Moraffware) [Adventure, Role-Playing (RPG)].zip
+
+Moraffs Revenge Beginner v3.1 (1988)(Moraffware) [Adventure, Role-Playing (RPG)].zip
+
+Motorbike Madness (1988)(M.A.D.) [Action, Sports].zip
+
+Mr. Jackpot (1988)(R.W. de Wit) [Strategy].zip
+
+Murder On The Atlantic (1988)(Intracorp) [Action].zip
+
+Mutan Zone (Sp) (1988)(Opera Soft) [Action].zip
+
+NFL Challenge v2.0 (1988)(XOR Corporation) [Sports].zip
+
+Napoleon in Russia- Borodino 1812 (1988)(Datasoft, Inc.) [Simulation, Strategy].zip
+
+Navcom-6 (1988)(Cosmi Corporation) [Action, Simulation].zip
+
+Nebula [SW] (1988)(Conrad Button) [Adventure, Interactive Fiction].zip
+
+Neurobics (1988)(Ocean Isle Software) [Strategy, Educational].zip
+
+New Tetris (It) (1988)(Anonymous) [Action, Strategy].zip
+
+Night Bomber (1988)(Apogee Software, Ltd.) [Action, Strategy].zip
+
+Night Mission Pinball v3.0 (1988)(subLOGIC) [Simulation].zip
+
+Night Raider (1988)(U.S. Gold Ltd.) [Action, Simulation].zip
+
+Nobunagas Ambition (1988)(KOEI Co., Ltd.) [Simulation, Strategy].zip
+
+Nyet v1.1 (1988)(David B. Howorth) [Action].zip
+
+Nyet v1.2 (1988)(David B. Howorth) [Action].zip
+
+Nyet v1.24 (1988)(David B. Howorth) [Action].zip
+
+Off Road [SW] (1988)(Montsoft) [Action, Racing - Driving].zip
+
+Off Road v1.10 [SW] (1988)(Montsoft) [Action, Racing - Driving].zip
+
+Off Shore Warrior (1988)(Titus Interactive S.A.) [Action, Sports].zip
+
+Ogre (1988)(Mike Meyer) [Strategy].zip
+
+Oil Tycoon v2.0 [SW] (1988)(Rocky Mountain Software) [Strategy, Simulation].zip
+
+Omega v0.71b (1988)(Laurence R. Brothers, Nathan Glasser) [Role-Playing (RPG)].zip
+
+Operation- Clean Streets (1988)(Broderbund Software, Inc.) [Action].zip
+
+Operation Jupiter (Fr) (1988)(Infogrames Europe SA) [Action, Simulation].zip
+
+Orbital Observatory Adventure, The (1988)(Bad Software Company) [Adventure, Interactive Fiction].zip
+
+Oregon Trail, The (1988)(MECC) [Adventure, Educational, Role-Playing (RPG), Simulation, Strategy].zip
+
+Ormuz (Sp) (1988)(Genesis Soft) [Strategy, Action].zip
+
+Osbit v1.2 [SW] (1988)(STD Research) [Action].zip
+
+Osmosis Solitaire v1.01 [SW] (1988)(Raymond M. Buti) [Strategy].zip
+
+Othello (1988)(Erich J Spengler) [Strategy].zip
+
+Othello (Sp) (1988)(Compulogical S.A.) [Strategy].zip
+
+Othello v4.2 (1988)(Earl Waud) [Strategy].zip
+
+P-ROBOTS [SW] (1988)(Softworks) [Strategy].zip
+
+PC-Jigsaw [SW] (1988)(Bill Dedes) [Educational].zip
+
+PHM Pegasus (1988)(Electronic Arts, Inc.) [Action, Simulation].zip
+
+PHM Pegasus [a1] (1988)(Electronic Arts, Inc.) [Action, Simulation].zip
+
+PT-109 (CGA) (1988)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+PT-109 (CGA) [a1] (1988)(Spectrum HoloByte, Inc.) [Simulation].zip
+
+Pac-Maine (1988)(University of Maine at Fort Kent) [Action, Educational].zip
+
+Pajaros de Bangkok, Los (Sp) (1988)(Dinamic Software) [Adventure].zip
+
+Paladin (1988)(Omnitrend Software) [Role-Playing (RPG), Strategy].zip
+
+Paperboy (1988)(Mindscape, Inc.) [Action].zip
+
+Parchitoke (Sp) (1988)(T.M.S. S.A.) [Strategy, Puzzle].zip
+
+Paris-Dakar (Sp) (1988)(Zigurat) [Racing - Driving, Simulation].zip
+
+Passion Pit (1988)(Western Reserve Automation Inc.) [Adventure, Interactive Fiction, Adult].zip
+
+Pegout (1988)(George Leotti) [Strategy].zip
+
+Pegout [a1] (1988)(George Leotti) [Strategy].zip
+
+Phantasie III- The Wrath of Nikademus (1988)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)] [!].zip
+
+Phantasm (1988)(Exocet Software) [Action].zip
+
+Phantis (Sp) [DC] (1988)(Dinamic Software) [Action].zip
+
+Phantis (Sp) [DC][f1] (1988)(Dinamic Software) [Action].zip
+
+Pharaohs Revenge (1988)(Publishing International) [Action, Adventure, Strategy].zip
+
+Picture Place! v1.6.0 (1988)(Hi-Tech Expressions, Inc.) [Educational].zip
+
+PipeRun (1988)(Richard Spezzano) [Action].zip
+
+Planetfall r10 (1988)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Platoon [h1] (1988)(Data East Corporation) [Action].zip
+
+Playhouse Strip Poker (1988)(Anonymous) [Strategy, Cards, Adult].zip
+
+Poker Solitaire v1.1 [SW] (1988)(Eduardo Martins) [Strategy, Cards].zip
+
+Pole Position II (1988)(Mindscape, Inc.) [Racing - Driving].zip
+
+Popcorn (Fr) (1988)(Lacral) [Action].zip
+
+Popcorn (Fr) [a1] (1988)(Lacral) [Action].zip
+
+Pork I - The Great Underground Sewer System v4.26 (1988)(Anonymous, David Malmberg) [Adventure, Interactive Fiction].zip
+
+President is Missing, The (1988)(Celery Software, Cosmi Corporation) [Adventure].zip
+
+President is Missing, The [a1] (1988)(Celery Software, Cosmi Corporation) [Adventure].zip
+
+Press Your Luck (1988)(GameTek, Inc., I.J.E., Inc.) [Simulation].zip
+
+Prime Time (1988)(First Row Software Publishing, Inc.) [Simulation, Strategy].zip
+
+Proto Type (1988)(Aldo J. Dossa) [Educational].zip
+
+Psycho (1988)(Box Office) [Adventure].zip
+
+Psycho [a1] (1988)(Box Office) [Adventure].zip
+
+Pure-Stat Football (1988)(Software Simulations) [Simulation, Sports].zip
+
+Pure-Stat Football - 1986 Team Disk (1988)(Software Simulations) [Simulation, Sports].zip
+
+QikServe (1988)(Scott Ramsay) [Action].zip
+
+QikServe [a1] (1988)(Scott Ramsay) [Action].zip
+
+Quadralien (En)(Fr)(De) (1988)(Logotron) [Strategy].zip
+
+Quadralien (En)(Fr)(De) [a1] (1988)(Logotron) [Strategy].zip
+
+Quadralien (VGA) (Multi-3) (1988)(Logotron) [Strategy].zip
+
+Questron II v1.2 (1988)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+
+Rack Em (1988)(Accolade, Inc.) [Sports].zip
+
+Rack Em [a1] (1988)(Accolade, Inc.) [Sports].zip
+
+Raiders of the Forbidden Mine (1988)(Apogee Software, Ltd.) [Action].zip
+
+Rampage (1988)(Activision, Inc.) [Action].zip
+
+Rampage [a1] (1988)(Activision, Inc.) [Action].zip
+
+Rampage [a2] (1988)(Activision, Inc.) [Action].zip
+
+Rampage [o1] (1988)(Activision, Inc.) [Action].zip
+
+Rampage v1.1 (1988)(Activision, Inc.) [Action].zip
+
+Rampage v1.1 [a1] (1988)(Activision, Inc.) [Action].zip
+
+Ranadinn (1988)(PC-SIG) [Action, Adventure].zip
+
+Ranadinn [a1] (1988)(Jeff Mather) [Action, Adventure].zip
+
+Reach for the Stars v3.0 (1988)(SSG Strategic Studies Group Pty Ltd.) [Strategy].zip
+
+Reach for the Stars v3.01 (1988)(SSG Strategic Studies Group Pty Ltd.) [Strategy].zip
+
+Reach for the Stars v3.01 [a1] (1988)(SSG Strategic Studies Group Pty Ltd.) [Strategy].zip
+
+Return of the Dinosaurs (1988)(American Educational Computer, Inc.) [Adventure, Educational].zip
+
+Return to Doom (1988)(Topologika Software Ltd.) [Adventure].zip
+
+Reverse (Sp) (1988)(Compulogical, S.A.) [Strategy].zip
+
+Rody & Mastico (Fr) (1988)(Lankhor) [Educational].zip
+
+Sabotaje (Sp) (1988)(Compulogical) [Action].zip
+
+Santa Paravia and Fiumaccio (1988)(Keypunch Software, Inc.) [Simulation, Strategy].zip
+
+Scavengers of the Mutant World (1988)(Interstel) [Adventure, Role-Playing (RPG)].zip
+
+Scrabble v1.3 (1988)(Chris Hall) [Strategy].zip
+
+Scrabble v1.5 [SW] (1988)(Chris Hall) [Strategy].zip
+
+Sentinel Worlds I- Future Magic (1988)(Electronic Arts, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Sentinel Worlds I- Future Magic [f1] (1988)(Electronic Arts, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Serve & Volley (1988)(Accolade, Inc.) [Sports].zip
+
+Serve & Volley [a1] (1988)(Accolade, Inc.) [Sports].zip
+
+Serve & Volley [a2] (1988)(Accolade, Inc.) [Sports].zip
+
+Serve & Volley [a3] (1988)(Accolade, Inc.) [Sports].zip
+
+Sesame Street Letter-Go-Round (1988)(Hi-Tech Expressions, Inc.) [Educational].zip
+
+Shadows of Mordor, The (1988)(Addison-Wesley Publishing Company, Inc.) [Adventure, Role-Playing (RPG)].zip
+
+Shark [SW] (1988)(Errol Williams) [Action].zip
+
+Sidewinder [DC] (1988)(Mastertronic Group Ltd.) [Action].zip
+
+Skyfox II- The Cygnus Conflict [b1] (1988)(Electronic Arts, Inc.) [Action].zip
+
+Slot Jack [SW] (1988)(P.C. Software) [Strategy].zip
+
+Slugger, The [DC] (1988)(Mastertronic Group Ltd.) [Sports].zip
+
+Snarf (1988)(Everett Kaser) [Action].zip
+
+Snarf [a1] (1988)(Everett Kaser) [Action].zip
+
+Sol Negro (Sp) (1988)(Opera Soft) [Action].zip
+
+Solitaire (1988)(B.H.Forbes) [Strategy].zip
+
+Solomons Key (1988)(U.S. Gold Ltd.) [Action, Strategy].zip
+
+Sonar (1988)(Anonymous) [Strategy, Action].zip
+
+Son of Tetris Project, The (1988)(WRW) [Strategy, Action].zip
+
+Sorcerer Lord (1988)(Personal Software Services) [Strategy].zip
+
+Sorry! v1.04 (1988)(Joe Glockner) [Strategy].zip
+
+Sorry! v2.0 (1988)(Joe Glockner) [Strategy].zip
+
+Sorry! v2.0 [a1] (1988)(Joe Glockner) [Strategy].zip
+
+Space Adventure v2.01r2 [SW] (1988)(Fireball Software Ltd.) [Adventure].zip
+
+Space Flees (1988)(Independent Software) [Action].zip
+
+Space Flees [a1] (1988)(Independent Software) [Action].zip
+
+Space Pirate (1988)(Michael J. Wanta) [Strategy, Action].zip
+
+Space Racer (1988)(Broderbund Software, Inc.) [Racing - Driving] [!].zip
+
+Space Risk! [SW] (1988)(MicroComputing Concepts) [Strategy].zip
+
+Space Spirals v1.63 [SW] (1988)(Alan Anderson) [Action].zip
+
+Space Station Oblivion (1988)(Epyx, Inc.) [Action, Strategy].zip
+
+Speedball (1988)(Spotlight Software) [Action, Sports].zip
+
+Speedball [a1] (1988)(Spotlight Software) [Action, Sports].zip
+
+Speedball [a2][o1] (1988)(Spotlight Software) [Action, Sports].zip
+
+Speedzone (1988)(PAL Developments Ltd.) [Action].zip
+
+Spell Games [SW] (1988)(TexaSoft) [Educational].zip
+
+Spell Games [a1][SW] (1988)(TexaSoft) [Educational].zip
+
+Spelling Fun 1 (1988)(Reckon Software Publishers) [Educational].zip
+
+Spiderbot [DC] (1988)(Epyx, Inc., Prism Leisure Corporation Plc) [Action].zip
+
+Spiderbot [b1][DC] (1988)(Epyx, Inc., Prism Leisure Corporation Plc) [Action].zip
+
+Splitz (1988)(I.B. Magazette) [Action].zip
+
+Sporting News Baseball (1988)(Designer Software) [Sports].zip
+
+Sports Spectacular v1.1 (1988)(Keypunch Software, Inc.) [Compilation].zip
+
+Spy vs. Spy III- Arctic Antics (1988)(First Star Software, Inc.) [Action, Strategy].zip
+
+Squynchia Adventure [SW] (1988)(M. & T. Frank) [Adventure].zip
+
+Star Empire (1988)(Videodata Inc., First Row Software Publishing, Inc.) [Action].zip
+
+Star Goose (CGA) (1988)(Spinnaker Software Corporation) [Action].zip
+
+Star Goose (EGA) (1988)(Spinnaker Software Corporation) [Action].zip
+
+Star Goose (EGA) [a1] (1988)(Spinnaker Software Corporation) [Action].zip
+
+Star Portal, The v1.01 (1988)(Michael Detlefsen) [Adventure, Interactive Fiction].zip
+
+Star Saga One- Beyond the Boundary (1988)(Electronic Arts, Inc.) [Role-Playing (RPG)].zip
+
+Star Saga One- Beyond the Boundary [a1] (1988)(Electronic Arts, Inc.) [Role-Playing (RPG)].zip
+
+Star Trek- First Contact (1988)(Simon & Schuster Interactive) [Adventure, Interactive Fiction].zip
+
+Star Trek- The Last Generation (1988)(Xordanbhorgh, Inc.) [Adventure].zip
+
+Star Trek- The Rebel Universe [b1] (1988)(Simon & Schuster Interactive) [Simulation, Strategy].zip
+
+Stardust (Sp) (1988)(Topo Soft) [Action].zip
+
+Starquake (1988)(ShareData, Inc.) [Action] [!].zip
+
+Starquake [a1] (1988)(ShareData, Inc.) [Action].zip
+
+Starquake [a2] (1988)(ShareData, Inc.) [Action].zip
+
+Starquake [f1] (1988)(ShareData, Inc.) [Action].zip
+
+States and Capitals (1988)(Softdisk Publishing) [Educational].zip
+
+Stellar Crusade (1988)(Strategic Simulations, Inc.) [Simulation, Strategy].zip
+
+Stocker (1988)(Capcom U.S.A., Inc.) [Racing - Driving].zip
+
+Street Fighter (1988)(Capcom Co., Ltd.) [Action].zip
+
+Street Fighter (Installer) (1988)(Capcom Co., Ltd.) [Action].zip
+
+Street Fighter [a1] (1988)(Capcom Co., Ltd.) [Action].zip
+
+Street Football [DC] (1988)(Capcom U.S.A., Inc.) [Sports, Action].img.zip
+
+Street Sports Soccer (1988)(Epyx, Inc.) [Action, Sports].zip
+
+Strike Fleet (1988)(Electronic Arts, Inc.) [Simulation, Strategy].zip
+
+Strip Poker II (1988)(Artworx Software Co, Inc.) [Strategy, Cards, Adult].zip
+
+Strip Poker II+ (1988)(Anco) [Strategy].zip
+
+Strip Poker II [h1] (1988)(Artworx Software Co, Inc.) [Strategy, Cards, Adult].zip
+
+Suju v1.03 [SW] (1988)(Raymond M. Buti) [Action].zip
+
+Summer Olympiad (1988)(Thunder Mountain) [Sports].zip
+
+Super Cube (1988)(M&M Software) [Strategy].zip
+
+Super Huey II (1988)(Cosmi Corporation) [Simulation].zip
+
+Super Huey UH-IX (1988)(Cosmi Corporation) [Action, Simulation].zip
+
+Super Pac-Man (1988)(Thunder Mountain) [Action].zip
+
+Super Password (1988)(GameTek, Inc.) [Strategy].zip
+
+Super Ski (CGA) (1988)(Microids) [Action, Sports].zip
+
+Supermaze v2.1 (1988)(Thomas G. Ore) [Strategy].zip
+
+Superstar Soccer (1988)(Mindscape, Inc.) [Action, Sports].zip
+
+Susan (1988)(Bill Larkins) [Adventure, Interactive Fiction, Adult].zip
+
+Susan [a1] (1988)(Bill Larkins) [Adventure, Interactive Fiction, Adult].zip
+
+Tamoret [SW] (1988)(Michael J. Lyons) [Adventure, Interactive Fiction].zip
+
+Tank [SW] (1988)(Jari J) [Action].zip
+
+Tark Simmons, Priestess of the First Church, in her battle against the Demon of Dark Desire (1988)(W. P. Kegelmeyer) [Adventure, Interactive Fiction].zip
+
+Tetris v3.12 (1988)(AcademySoft) [Action, Strategy].zip
+
+Tetris v3.12 [a1] (1988)(AcademySoft) [Action, Strategy].zip
+
+Thing, The (1988)(Apogee Software Productions) [Adventure, Interactive Fiction].zip
+
+Ticket to Hollywood (1988)(Blue Lion Software) [Adventure, Educational].zip
+
+Tijdmachine, De (Nl) (1988)(P. Kralt) [Adventure, Interactive Fiction].zip
+
+Time Bandit v2.0 (1988)(MicroDeal) [Action, Adventure].zip
+
+Time and Magik- The Trilogy [f1] (1988)(Mandarin Software) [Adventure, Interactive Fiction].zip
+
+Times of Lore (1988)(ORIGIN Systems, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
+
+Times of Lore [a1] (1988)(ORIGIN Systems, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
+
+Times of Lore [h1] (1988)(ORIGIN Systems, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
+
+Tommys Connecting Point [SW] (1988)(Tommys Toys) [Strategy, Puzzle].zip
+
+Tommys Euchre [SW] (1988)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Hearts [SW] (1988)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Patience II [SW] (1988)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Patience II [SW][a1] (1988)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Pinochle [SW] (1988)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Space Farmer [SW] (1988)(Tommys Toys) [Strategy, Cards].zip
+
+Tommys Spades [SW] (1988)(Tommys Toys) [Strategy, Cards].zip
+
+Top Gun (Pinball Construction Set) (1988)(Peter Manca) [Action].zip
+
+Total Eclipse (1988)(Domark Software, Inc.) [Action, Adventure].zip
+
+Total Eclipse [a1] (1988)(Domark Software, Inc.) [Action, Adventure].zip
+
+Tower Toppler (1988)(U.S. Gold Ltd.) [Action, Strategy].zip
+
+Tower Toppler (CGA) (1988)(U.S. Gold Ltd.) [Action, Strategy].zip
+
+Tower Toppler (CGA) [a1] (1988)(U.S. Gold Ltd.) [Action, Strategy].zip
+
+Towers of Hanoi, The (1988)(Hubertus Haniel) [Strategy].zip
+
+Tracon (1988)(Wesson International) [Simulation].zip
+
+Train- Escape to Normandy (1988)(Accolade, Inc.) [Action, Simulation].zip
+
+Train- Escape to Normandy [a1] (1988)(Accolade, Inc.) [Action, Simulation].zip
+
+Trantor The Last Stormtrooper (1988)(Keypunch Software, Inc.) [Action].zip
+
+Tree Massacre (1988)(Mark Botta) [Sports].zip
+
+Trek Trivia- Volume 1 [SW] (1988)(Apogee Software Productions) [Educational, Trivia].zip
+
+Trek Trivia- Volume 1 v2.0 [SW] (1988)(Apogee Software Productions) [Educational, Trivia].zip
+
+Trek Trivia Volumes 1-10 [SWR] (1988)(Apogee Software Productions) [Educational, Trivia].zip
+
+TrianGO v1.3 (1988)(California Dreams) [Strategy] [!].zip
+
+Trouble at the Quatt Wunkery (1988)(Richard Novak) [Adventure, Interactive Fiction].zip
+
+Trump Castle- The Ultimate Casino Gambling Simulation v1.2 (1988)(Capstone Software) [Simulation].zip
+
+Turbo Cup (Fr) (1988)(Loriciels) [Racing - Driving].zip
+
+Twilights Ransom (1988)(Paragon Software Corporation) [Adventure].zip
+
+Ultima 21 Deluxe v2.0 [SW] (1988)(Jay J. Falconer) [Simulation].zip
+
+Underhill v2.2 [SW] (1988)(Ian Morton) [Adventure, Interactive Fiction].zip
+
+Uninvited (1988)(Mindscape, Inc.) [Adventure].zip
+
+Up Periscope!- The Advanced Submarine Simulation v1.05 (1988)(Actionsoft) [Simulation].zip
+
+Up Periscope!- The Advanced Submarine Simulation v1.05 [a1] (1988)(Actionsoft) [Simulation].zip
+
+Usurper- The Mines Of Qyntarr, The v5.30 (1988)(Sir-Tech Software, Inc.) [Adventure].zip
+
+Vectorball (1988)(Mastertronic Group Ltd.) [Action].zip
+
+Vermeer (De) (1988)(ariolasoft GmbH) [Simulation, Strategy].zip
+
+Video Poker Plus v3.0 [SW] (1988)(Jay J. Falconer) [Simulation].zip
+
+Virus (1988)(Firebird Software Ltd.) [Action].zip
+
+Virus [a1] (1988)(Firebird Software Ltd.) [Action].zip
+
+Visions of Aftermath- The Boomtown (1988)(Mindscape, Inc.) [Role-Playing (RPG)].zip
+
+Vixen (1988)(Martech) [Action, Adventure].zip
+
+Vocabulary Builder (1988)(American Educational Computer, Inc.) [Educational].zip
+
+Voyage Au Centre De La Terre (Fr) (1988)(Chip) [Action, Adventure].zip
+
+Wall $treet Raider- The Corporate Simulation v2.1 (1988)(Michael D. Jenkins) [Simulation, Strategy].zip
+
+Wanderer v2.2 (Installer) (1988)(Steven Shipway) [Strategy, Action].zip
+
+Wargame Construction Set (1988)(Strategic Simulations, Inc., Westwood Studios) [Strategy].zip
+
+Wargame Construction Set [a1] (1988)(Strategic Simulations, Inc., Westwood Studios) [Strategy].zip
+
+Warship (1988)(Strategic Simulations, Inc.) [Strategy].zip
+
+Wheel of Fortune - New Second Edition (1988)(ShareData, Inc.) [Strategy].zip
+
+Where in Europe is Carmen Sandiego (demo) (1988)(Broderbund Software, Inc.) [Adventure, Educational].zip
+
+Where in Europe is Carmen Sandiego_ (1988)(Broderbund Software, Inc.) [Educational].zip
+
+Who Framed Roger Rabbit (CGA) (1988)(Buena Vista Software) [Action].zip
+
+Who Framed Roger Rabbit (EGA) (1988)(Buena Vista Software) [Action].zip
+
+Win, Lose, or Draw! (1988)(Hi-Tech Expressions, Inc.) [Strategy].zip
+
+Win, Lose, or Draw! - 2nd Edition (1988)(Hi-Tech Expressions, Inc.) [Strategy].zip
+
+Win, Lose, or Draw! [a1] (1988)(Hi-Tech Expressions, Inc.) [Strategy].zip
+
+Win, Lose, or Draw! [a2] (1988)(Hi-Tech Expressions, Inc.) [Strategy].zip
+
+Win, Lose or Draw Junior (1988)(Hi-Tech Expressions, Inc.) [Strategy].zip
+
+Winter Olympiad 88 (1988)(TyneSoft) [Sports].zip
+
+Wizards Lair v2.0 [SW] (1988)(Rick Nowalk) [Role-Playing (RPG)].zip
+
+Word Games [SW] (1988)(Philip Allwood) [Educational, Compilation].zip
+
+World Class Leader Board v3.00 (1988)(Access Software, Inc.) [Sports].zip
+
+World Series Baseball (1988)(Mastertronic, Inc.) [Action, Sports].zip
+
+World v1.06 (1988)(J. Doug McDonald) [Adventure, Interactive Fiction].zip
+
+Worm Game, The v1.7 (1988)(J.Eichner) [Action].zip
+
+Worthy Opponent [SW] (1988)(Future Ideas Today, Inc.) [Compilation].zip
+
+Worthy Opponent v2.0 [SW] (1988)(Future Ideas Today, Inc.) [Compilation].zip
+
+Writer Rabbit v1.3 (1988)(The Learning Company, Inc.) [Educational] [!].zip
+
+Yes, Prime Minister (1988)(Mosaic Publishing) [Simulation].zip
+
+Yuppis Revenge (De) (1988)(ariolasoft GmbH) [Educational, Simulation, Strategy].zip
+
+Zak McKracken and the Alien Mindbenders (1988)(Lucasfilm Games) [Adventure].zip
+
+Zak McKracken and the Alien Mindbenders [a1] (1988)(Lucasfilm Games) [Adventure].zip
+
+Zero Hour, The v2.10 [SW] (1988)(R. Salgado Crew) [Action].zip
+
+Zero Hour, The v2.20 [SW] (1988)(R. Salgado Crew) [Action].zip
+
+Zone (Fr) (1988)(Loriciels) [Strategy].zip
+
+Zoom! (1988)(Discovery Software) [Action, Strategy].zip
+
+Zoom! [h1] (1988)(Discovery Software) [Action, Strategy].zip
+
+Zork Quest- Assault on Egreth Castle [DC] (1988)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+Zork Quest 2- The Crystal Of Doom [DC] (1988)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+
+for year in {1981..1988}; do cat << EOF
+fetch_1988 () {
+  local source_url="$1"
+  local target_dir="$2"
+  
+  INSERT_TABLE_ROWS_HERE
+}
+
+
+EOF
+done
+

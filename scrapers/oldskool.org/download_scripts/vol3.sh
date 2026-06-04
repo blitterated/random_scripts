@@ -1,0 +1,28 @@
+#!/bin/sh
+
+base_url="http://ftp.oldskool.org/pub/drivers/unsorted/misc/VOL3/"
+dest_folder="vol3"
+
+mkdir "$dest_folder"
+cd "$dest_folder"
+
+echo '\n61.IMD'; curl -o '61.IMD' "${base_url}61.IMD"
+echo '\n62.IMD'; curl -o '62.IMD' "${base_url}62.IMD"
+echo '\n63.IMD'; curl -o '63.IMD' "${base_url}63.IMD"
+echo '\n64.IMD'; curl -o '64.IMD' "${base_url}64.IMD"
+echo '\n65.IMD'; curl -o '65.IMD' "${base_url}65.IMD"
+echo '\n66.IMD'; curl -o '66.IMD' "${base_url}66.IMD"
+echo '\n67.IMD'; curl -o '67.IMD' "${base_url}67.IMD"
+echo '\n68.IMD'; curl -o '68.IMD' "${base_url}68.IMD"
+echo '\n69.IMD'; curl -o '69.IMD' "${base_url}69.IMD"
+echo '\n70.IMD'; curl -o '70.IMD' "${base_url}70.IMD"
+echo '\n71.IMD'; curl -o '71.IMD' "${base_url}71.IMD"
+echo '\n72.IMD'; curl -o '72.IMD' "${base_url}72.IMD"
+echo '\n74.IMD'; curl -o '74.IMD' "${base_url}74.IMD"
+echo '\n75.IMD'; curl -o '75.IMD' "${base_url}75.IMD"
+echo '\n76.IMD'; curl -o '76.IMD' "${base_url}76.IMD"
+echo '\n77.IMD'; curl -o '77.IMD' "${base_url}77.IMD"
+echo '\n78.IMD'; curl -o '78.IMD' "${base_url}78.IMD"
+echo '\n79.IMD'; curl -o '79.IMD' "${base_url}79.IMD"
+echo '\nVOL3.TXT'; curl -o 'VOL3.TXT' "${base_url}VOL3.TXT"
+echo '\nnote.txt'; curl -o 'note.txt' "${base_url}note.txt"

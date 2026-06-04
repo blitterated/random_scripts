@@ -1,0 +1,86 @@
+#!/bin/sh
+
+base_url=""
+dest_folder=""
+
+mkdir "$dest_folder"
+cd "$dest_folder"
+
+##########################################################################################
+
+
+Regex to convert lines like the following into a curl command. Handles URL encoded URLs.
+<tr><td valign="top"><img src="/icons/compressed.gif" alt="[   ]"></td><td><a href="Defender%20(1983)(Atarisoft)%20%5bkfx%5d%5b160k%5d%5bcp%5d%5b!%5d.zip">Defender (1983)(Atarisoft) [kfx][160k][cp][!].zip</a></td><td align="right">2024-06-21 20:24  </td><td align="right">1.7M</td><td>&nbsp;</td></tr>
+
+------------------------------------------------------------
+
+
+^<tr>.+?<a href="(.+?)">(.+?)</a>.+?</tr>$
+
+
+echo '\\n\2'; curl -o '\2' "\${base_url}\1"
+
+------------------------------------------------------------
+
+
+#echo '\\n\2'\ncurl -o "\2" "\${base_url}\1"
+
+
+##########################################################################################
+
+
+Regex to convert lines like the following into a curl command
+<A HREF="ackkit.zip">ackkit.zip</A>       152535 11 Jul  1993  Animation Construction Kit
+
+------------------------------------------------------------
+
+
+^<A HREF="(.+?)">(.+?)</A>.+$
+
+echo '\\n\2'; curl -o '\2' "\${base_url}\1"
+
+------------------------------------------------------------
+
+
+#curl -O "\${base_url}\1"
+
+
+##########################################################################################
+
+
+Regex to convert lines like the following into formatted, justified, echoed output 
+<A HREF="ackkit.zip">ackkit.zip</A>       152535 11 Jul  1993  Animation Construction Kit
+
+------------------------------------------------------------
+
+
+^<A.+?">(.+?)</A>\s+\d+\s+\d+\s+\w+\s+\d+\s+(.+?)$
+
+
+printf '  %-20s %s\\n' "\1" "\2"
+
+------------------------------------------------------------
+
+
+# bracket template for capturing printf output to a file
+
+{
+
+} > __files.txt
+
+
+##########################################################################################
+
+
+Delete macOS dotfiles recursively in a given directory
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
