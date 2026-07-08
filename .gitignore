@@ -3,6 +3,9 @@
 ._*
 Thumbs.db
 
+# Ignore log files
+*.log
+
 # Python-generated files and folders
 __pycache__/
 build/
